@@ -19,7 +19,7 @@ import pprint as pp    # library for cleanly printing Python data structures
 
 #this loads the data into json in the notebook
 
-with open('tweets.json') as f:
+with open('cc_test.JSON') as f:
   data = json.load(f)
 
 print(type(data))
