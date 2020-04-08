@@ -1,0 +1,1716 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; fr; rv:1.9.2.13) Gecko/20101203 Firebird/3.6.13'}
+INFO: queries: ['from: sfpublicworks since:2006-03-01 until:2006-07-07', 'from: sfpublicworks since:2006-07-07 until:2006-11-13', 'from: sfpublicworks since:2006-11-13 until:2007-03-22', 'from: sfpublicworks since:2007-03-22 until:2007-07-29', 'from: sfpublicworks since:2007-07-29 until:2007-12-05', 'from: sfpublicworks since:2007-12-05 until:2008-04-11', 'from: sfpublicworks since:2008-04-11 until:2008-08-18', 'from: sfpublicworks since:2008-08-18 until:2008-12-25', 'from: sfpublicworks since:2008-12-25 until:2009-05-03', 'from: sfpublicworks since:2009-05-03 until:2009-09-09', 'from: sfpublicworks since:2009-09-09 until:2010-01-15', 'from: sfpublicworks since:2010-01-15 until:2010-05-24', 'from: sfpublicworks since:2010-05-24 until:2010-09-30', 'from: sfpublicworks since:2010-09-30 until:2011-02-06', 'from: sfpublicworks since:2011-02-06 until:2011-06-15', 'from: sfpublicworks since:2011-06-15 until:2011-10-21', 'from: sfpublicworks since:2011-10-21 until:2012-02-27', 'from: sfpublicworks since:2012-02-27 until:2012-07-05', 'from: sfpublicworks since:2012-07-05 until:2012-11-11', 'from: sfpublicworks since:2012-11-11 until:2013-03-20', 'from: sfpublicworks since:2013-03-20 until:2013-07-26', 'from: sfpublicworks since:2013-07-26 until:2013-12-02', 'from: sfpublicworks since:2013-12-02 until:2014-04-10', 'from: sfpublicworks since:2014-04-10 until:2014-08-17', 'from: sfpublicworks since:2014-08-17 until:2014-12-24', 'from: sfpublicworks since:2014-12-24 until:2015-05-01', 'from: sfpublicworks since:2015-05-01 until:2015-09-07', 'from: sfpublicworks since:2015-09-07 until:2016-01-14', 'from: sfpublicworks since:2016-01-14 until:2016-05-22', 'from: sfpublicworks since:2016-05-22 until:2016-09-28', 'from: sfpublicworks since:2016-09-28 until:2017-02-03', 'from: sfpublicworks since:2017-02-03 until:2017-06-12', 'from: sfpublicworks since:2017-06-12 until:2017-10-19', 'from: sfpublicworks since:2017-10-19 until:2018-02-25', 'from: sfpublicworks since:2018-02-25 until:2018-07-04', 'from: sfpublicworks since:2018-07-04 until:2018-11-09', 'from: sfpublicworks since:2018-11-09 until:2019-03-18', 'from: sfpublicworks since:2019-03-18 until:2019-07-25', 'from: sfpublicworks since:2019-07-25 until:2019-12-01', 'from: sfpublicworks since:2019-12-01 until:2020-04-08']
+INFO: Querying from: sfpublicworks since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2007-12-05 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2008-12-25 until:2009-05-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2009-05-03 until:2009-09-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2009-09-09 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2010-09-30 until:2011-02-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2011-02-06 until:2011-06-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2011-06-15 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2012-02-27 until:2012-07-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2012-07-05 until:2012-11-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2013-03-20 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2013-12-02 until:2014-04-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2014-04-10 until:2014-08-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2012-11-11 until:2013-03-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2014-08-17 until:2014-12-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2014-12-24 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2015-05-01 until:2015-09-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2015-09-07 until:2016-01-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2016-01-14 until:2016-05-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2016-05-22 until:2016-09-28
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2016-09-28 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2017-02-03 until:2017-06-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2017-06-12 until:2017-10-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2017-10-19 until:2018-02-25
+INFO: Querying from: sfpublicworks since:2018-02-25 until:2018-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2018-07-04 until:2018-11-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2019-03-18 until:2019-07-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2018-11-09 until:2019-03-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2019-07-25 until:2019-12-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfpublicworks since:2019-12-01 until:2020-04-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1547108286-1547108286&q=from%3A%20sfpublicworks%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb8_rfDCxb8_rfDCxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sfpublicworks%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20sfpublicworks%20since%3A2008-12-25%20until%3A2009-05-03.
+INFO: Got 2 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2697760650-3761409357&q=from%3A%20sfpublicworks%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaUvuSMFBaatZSDHBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sfpublicworks%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-365616613745115138-406113589041184768&q=from%3A%20sfpublicworks%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20sfpublicworks%20since%3A2009-05-03%20until%3A2009-09-09.
+INFO: Got 14 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-3924239754-7679961991&q=from%3A%20sfpublicworks%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-463067136412221440-498136754742771712&q=from%3A%20sfpublicworks%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-408348953818583042-451505767292481536&q=from%3A%20sfpublicworks%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-16184896289-25238004921&q=from%3A%20sfpublicworks%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-47367921860743168-80755854206435328&q=from%3A%20sfpublicworks%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-106477893005230080-126402192642015232&q=from%3A%20sfpublicworks%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-5028701150384128-33627355381497857&q=from%3A%20sfpublicworks%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-197395056506843136-220253080720130048&q=from%3A%20sfpublicworks%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-9060466257-14307354348&q=from%3A%20sfpublicworks%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-329723728260898818-359177930812817410&q=from%3A%20sfpublicworks%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-147400036911816704-169884892463763456&q=from%3A%20sfpublicworks%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-232990576205758464-264053954000863232&q=from%3A%20sfpublicworks%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-282607111316316161-312286956346277888&q=from%3A%20sfpublicworks%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1196894078601842688-1199836032499216384&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-566070725308461056-593132156852940800&q=from%3A%20sfpublicworks%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1241861217452314624-1247625843930574848&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-509433992790032384-546848590245543936&q=from%3A%20sfpublicworks%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-620996796622336000-638877602036355073&q=from%3A%20sfpublicworks%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-809910138366808065-826592158303989761&q=from%3A%20sfpublicworks%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-741070998816968704-780470613844504576&q=from%3A%20sfpublicworks%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-907805641904754689-920795073062641665&q=from%3A%20sfpublicworks%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-674689585088196608-685148009169027072&q=from%3A%20sfpublicworks%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-713142547963445248-734088672899829760&q=from%3A%20sfpublicworks%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-860647595944718336-873278403465461760&q=from%3A%20sfpublicworks%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1051961162365976576-1059946883949322245&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1006690183738216448-1014264259277045760&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1101333445509230592-1107399041103495168&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-958007738470055936-967097475508027392&q=from%3A%20sfpublicworks%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1147047839987466240-1153823009901125634&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJKk8Jf3kgoWgICS1IqK56ILEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20sfpublicworks%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 40 tweets (26 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDQ7caS7QwWgICSwKev3ukNEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaUlrmeHRaOrpecORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sfpublicworks%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJKMuM3fqgsWgMCRmM2GicQMEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20sfpublicworks%20since%3A2014-04-10%20until%3A2014-08-17.
+INFO: Got 70 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20sfpublicworks%20since%3A2013-12-02%20until%3A2014-04-10.
+INFO: Got 102 tweets (32 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20sfpublicworks%20since%3A2009-09-09%20until%3A2010-01-15.
+INFO: Got 136 tweets (34 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbCrI_LeBbykuuEvAESNQAVACUAVQAVAAA%3D&q=from%3A%20sfpublicworks%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDE97ekqAEWgICQuLDB854CEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLQi8Wk-gIWgICQ9PuHicEDEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwICc9-TuERaCgIDE2fm7dxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sfpublicworks%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBai-d3AQxbYm8fMahI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sfpublicworks%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGx6mrchbykuuEvAESNQAVACUAVQAVAAA%3D&q=from%3A%20sfpublicworks%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJH4wfCkvQUWgICS0NHAv44GEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJGQ_P60kwkWhICQlJqbh_wJEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCsuuzfuwYWgICSnILrjaoHEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGAr-PViwQWgMCQwJvaxtsEEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20sfpublicworks%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 179 tweets (43 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJGQ9OqC7AcWgICQ0KHVu9UIEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJG86pSL2w8WgMClobujnbsQEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKMjuHvkQ4WgICS-Kf55ZYPEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKLp0oz9uyIWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKDZztfL5RMWgMCo3cbwgLAUEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbN1rScnCEWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPV-9KcnhEWgsCkxeny390REjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20sfpublicworks%20since%3A2014-08-17%20until%3A2014-12-24.
+INFO: Got 219 tweets (40 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKjZ28PZuhYWgMCgmfSbzfkWEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKCt_ZqWmRkWgoChjbGPqccZEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGRt5vR8RcWgICiyZiFwZ4YEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLPNy6b93BIWgICwkf-ekYITEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKLdtInoyBQWgMCp_ev45NQVEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK2x-uGXmR0WioCnqeeE2LUdEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKr5y73DyxoWgICqrfaB6esaEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKbN2JyK6x8WhICh7cH6mYMgEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLaJ7ti9-BsWgICqqYr-sZMcEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK3t37vcyB4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgIHUpKKjhAEWgICQuLDB854CEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJOklevZ5wgWhICQlJqbh_wJEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbW4ve4wgEWgoCAxNn5u3cSNQAVACUAVQAVAAA%3D&q=from%3A%20sfpublicworks%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20sfpublicworks%20since%3A2011-02-06%20until%3A2011-06-15.
+INFO: Got 269 tweets (50 new).
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOQzdfpoQYWgICSnILrjaoHEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20sfpublicworks%20since%3A2013-03-20%20until%3A2013-07-26.
+INFO: Got 317 tweets (48 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20sfpublicworks%20since%3A2010-09-30%20until%3A2011-02-06.
+INFO: Got 366 tweets (49 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb4kuKLOhbYm8fMahI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sfpublicworks%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOV_fK1shQWgMCp_ev45NQVEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20sfpublicworks%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 416 tweets (50 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20sfpublicworks%20since%3A2012-07-05%20until%3A2012-11-11.
+INFO: Got 464 tweets (48 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCgmN-TzgMWgMCQwJvaxtsEEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJCM9Z7KuQcWgICQ0KHVu9UIEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20sfpublicworks%20since%3A2016-05-22%20until%3A2016-09-28.
+INFO: Got 509 tweets (45 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqFody51xUWgMCgmfSbzfkWEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20sfpublicworks%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 559 tweets (50 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20sfpublicworks%20since%3A2012-11-11%20until%3A2013-03-20.
+INFO: Got 608 tweets (49 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGgqJ7cqQ8WgMClobujnbsQEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20sfpublicworks%20since%3A2016-09-28%20until%3A2017-02-03.
+INFO: Got 652 tweets (44 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJCsg4XOvQIWgICQ9PuHicEDEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20sfpublicworks%20since%3A2014-12-24%20until%3A2015-05-01.
+INFO: Got 703 tweets (51 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCQnPzMiAUWgICS0NHAv44GEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDFq_isvhAWgsCkxeny390REjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 56 tweets for from%3A%20sfpublicworks%20since%3A2015-05-01%20until%3A2015-09-07.
+INFO: Got 759 tweets (56 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKDBr639kBMWgMCo3cbwgLAUEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 54 tweets for from%3A%20sfpublicworks%20since%3A2016-01-14%20until%3A2016-05-22.
+INFO: Got 813 tweets (54 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJLI-87mpwIWgICQ9PuHicEDEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKeZyOyftCIWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKv1orah_BYWgICiyZiFwZ4YEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKOVntr_9iAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20sfpublicworks%20since%3A2011-06-15%20until%3A2011-10-21.
+INFO: Got 879 tweets (66 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKD5-p-O9xEWgICwkf-ekYITEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbh6u_V3hgWgoChjbGPqccZEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKK9tLzfrxoWgICqrfaB6esaEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKSVgqKg-xYWgICiyZiFwZ4YEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGAzvyU9QQWgICS0NHAv44GEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKi1nOyD3BsWgICqqYr-sZMcEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKbZ2ozGvB4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKORt87PiB0WioCnqeeE2LUdEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK-V74Dlyx8WhICh7cH6mYMgEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20sfpublicworks%20since%3A2017-02-03%20until%3A2017-06-12.
+INFO: Got 938 tweets (59 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 68 tweets for from%3A%20sfpublicworks%20since%3A2012-02-27%20until%3A2012-07-05.
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLCFvK-75hEWgICwkf-ekYITEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Got 1006 tweets (68 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 63 tweets for from%3A%20sfpublicworks%20since%3A2015-09-07%20until%3A2016-01-14.
+INFO: Got 1069 tweets (63 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK2RvbCeohgWgoChjbGPqccZEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 73 tweets for from%3A%20sfpublicworks%20since%3A2017-06-12%20until%3A2017-10-19.
+INFO: Got 1142 tweets (73 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKetqpDwpCIWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKaRpOSI5iAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKrloIC28xkWgICqrfaB6esaEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK3t9eLQrh4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLyB4LHaxBsWgICqqYr-sZMcEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLuF577n7RwWioCnqeeE2LUdEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqJ4OG1qx8WhICh7cH6mYMgEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKrlpZiJjCIWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKad7-G02iAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLXNwbDB0BkWgICqrfaB6esaEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKetqcDQpR4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwK7x27PQvRsWgICqqYr-sZMcEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwKKB7ZeR5hwWioCnqeeE2LUdEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwKCN3r-ylR8WhICh7cH6mYMgEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLC90KqryBkWgICqrfaB6esaEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 93 tweets for from%3A%20sfpublicworks%20since%3A2017-10-19%20until%3A2018-02-25.
+INFO: Got 1235 tweets (93 new).
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Retrying... (Attempts left: 34)
+INFO: Using proxy 144.91.116.171:443
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKLhp9eP-iEWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKLZx9mO2CAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKLl4MiWtBsWgICqqYr-sZMcEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbphefqjR8WhICh7cH6mYMgEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKfJp_T0kR4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgL2dv_DG1xwWioCnqeeE2LUdEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPRxNfe0iAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDt1O_B4SEWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnl_qaXqBsWgICqqYr-sZMcEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHNzLisjB8WhICh7cH6mYMgEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLb1i7aUih4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXJjpvYwRwWioCnqeeE2LUdEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKqJlpzFtyAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKO99drLxSEWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK-lqNbphRsWgICqqYr-sZMcEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbd9uCUiR4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKaRn8XY7B4WhICh7cH6mYMgEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKb1mpzP4B4WhICh7cH6mYMgEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfxmKOprhwWioCnqeeE2LUdEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 151 tweets for from%3A%20sfpublicworks%20since%3A2019-03-18%20until%3A2019-07-25.
+INFO: Got 1386 tweets (151 new).
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGh6rzn7xoWgICqqYr-sZMcEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaQgL_l8YWYqCAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 171 tweets for from%3A%20sfpublicworks%20since%3A2018-02-25%20until%3A2018-07-04.
+INFO: Got 1557 tweets (171 new).
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKKdwpHysSEWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbdypO7iB4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKex6MmerCEWgMChgYnGutAiEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaN59njlRwWioCnqeeE2LUdEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 160 tweets for from%3A%20sfpublicworks%20since%3A2018-07-04%20until%3A2018-11-09.
+INFO: Got 1717 tweets (160 new).
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 179 tweets for from%3A%20sfpublicworks%20since%3A2019-12-01%20until%3A2020-04-08.
+INFO: Got 1896 tweets (179 new).
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKrJkpGOjSAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL-txpmGiB4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKONsa3DhCAWgMCjnfeg1qYhEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 187 tweets for from%3A%20sfpublicworks%20since%3A2019-07-25%20until%3A2019-12-01.
+INFO: Got 2083 tweets (187 new).
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOJ0Jjzhx4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL6Zxrifgx4WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKbxy9fb3B0WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKuh9Jjjuh0WgICo2fDjot4eEjUAFQAlAFUAFQAA&q=from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 253 tweets for from%3A%20sfpublicworks%20since%3A2018-11-09%20until%3A2019-03-18.
+INFO: Got 2336 tweets (253 new).
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Got 0 tweets for from%3A%20sfpublicworks%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 2336 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfpublicworks%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 2336 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfpublicworks%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 2336 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20sfpublicworks%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 2336 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20sfpublicworks%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 2336 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfpublicworks%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 2336 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfpublicworks%20since%3A2007-12-05%20until%3A2008-04-11.
+INFO: Got 2336 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfpublicworks%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 2336 tweets (0 new).

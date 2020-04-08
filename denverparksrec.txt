@@ -1,0 +1,1743 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows NT 5.2; RW; rv:7.0a1) Gecko/20091211 SeaMonkey/9.23a1pre'}
+INFO: queries: ['from: denverparksrec since:2006-03-01 until:2006-07-07', 'from: denverparksrec since:2006-07-07 until:2006-11-13', 'from: denverparksrec since:2006-11-13 until:2007-03-22', 'from: denverparksrec since:2007-03-22 until:2007-07-29', 'from: denverparksrec since:2007-07-29 until:2007-12-05', 'from: denverparksrec since:2007-12-05 until:2008-04-11', 'from: denverparksrec since:2008-04-11 until:2008-08-18', 'from: denverparksrec since:2008-08-18 until:2008-12-25', 'from: denverparksrec since:2008-12-25 until:2009-05-03', 'from: denverparksrec since:2009-05-03 until:2009-09-09', 'from: denverparksrec since:2009-09-09 until:2010-01-15', 'from: denverparksrec since:2010-01-15 until:2010-05-24', 'from: denverparksrec since:2010-05-24 until:2010-09-30', 'from: denverparksrec since:2010-09-30 until:2011-02-06', 'from: denverparksrec since:2011-02-06 until:2011-06-15', 'from: denverparksrec since:2011-06-15 until:2011-10-21', 'from: denverparksrec since:2011-10-21 until:2012-02-27', 'from: denverparksrec since:2012-02-27 until:2012-07-05', 'from: denverparksrec since:2012-07-05 until:2012-11-11', 'from: denverparksrec since:2012-11-11 until:2013-03-20', 'from: denverparksrec since:2013-03-20 until:2013-07-26', 'from: denverparksrec since:2013-07-26 until:2013-12-02', 'from: denverparksrec since:2013-12-02 until:2014-04-10', 'from: denverparksrec since:2014-04-10 until:2014-08-17', 'from: denverparksrec since:2014-08-17 until:2014-12-24', 'from: denverparksrec since:2014-12-24 until:2015-05-01', 'from: denverparksrec since:2015-05-01 until:2015-09-07', 'from: denverparksrec since:2015-09-07 until:2016-01-14', 'from: denverparksrec since:2016-01-14 until:2016-05-22', 'from: denverparksrec since:2016-05-22 until:2016-09-28', 'from: denverparksrec since:2016-09-28 until:2017-02-03', 'from: denverparksrec since:2017-02-03 until:2017-06-12', 'from: denverparksrec since:2017-06-12 until:2017-10-19', 'from: denverparksrec since:2017-10-19 until:2018-02-25', 'from: denverparksrec since:2018-02-25 until:2018-07-04', 'from: denverparksrec since:2018-07-04 until:2018-11-09', 'from: denverparksrec since:2018-11-09 until:2019-03-18', 'from: denverparksrec since:2019-03-18 until:2019-07-25', 'from: denverparksrec since:2019-07-25 until:2019-12-01', 'from: denverparksrec since:2019-12-01 until:2020-04-08']
+INFO: Querying from: denverparksrec since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Querying from: denverparksrec since:2006-07-07 until:2006-11-13
+INFO: Using proxy 94.244.28.246:31280
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2007-12-05 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2008-12-25 until:2009-05-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2009-05-03 until:2009-09-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2009-09-09 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2010-05-24 until:2010-09-30
+INFO: Querying from: denverparksrec since:2010-09-30 until:2011-02-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2011-02-06 until:2011-06-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2011-06-15 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2012-02-27 until:2012-07-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2012-07-05 until:2012-11-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2012-11-11 until:2013-03-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2013-03-20 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2013-12-02 until:2014-04-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2014-04-10 until:2014-08-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2014-08-17 until:2014-12-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2014-12-24 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2015-05-01 until:2015-09-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2015-09-07 until:2016-01-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2016-01-14 until:2016-05-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2016-05-22 until:2016-09-28
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2016-09-28 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2017-02-03 until:2017-06-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2017-06-12 until:2017-10-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2017-10-19 until:2018-02-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2018-02-25 until:2018-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2018-07-04 until:2018-11-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2018-11-09 until:2019-03-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2019-03-18 until:2019-07-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2019-07-25 until:2019-12-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Querying from: denverparksrec since:2019-12-01 until:2020-04-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2337351167-2337351167&q=from%3A%20denverparksrec%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb-l4m1ERb-l4m1ERI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20denverparksrec%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20denverparksrec%20since%3A2009-05-03%20until%3A2009-09-09.
+INFO: Got 2 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-565594013009731585-591973809302810624&q=from%3A%20denverparksrec%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-281531684896272386-311156777792192512&q=from%3A%20denverparksrec%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-407565620591329280-430033854448300032&q=from%3A%20denverparksrec%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-14942036341-22754977971&q=from%3A%20denverparksrec%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-781556320428171264-823931687939649536&q=from%3A%20denverparksrec%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-504290283702738944-547539028573044737&q=from%3A%20denverparksrec%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-230463148006707200-253295215971033089&q=from%3A%20denverparksrec%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-26113303877-32961192855076864&q=from%3A%20denverparksrec%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-689143643525914624-730089040981073920&q=from%3A%20denverparksrec%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMOIw7Cy2Q8WgMCgsaOGwb0QEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-364492379388407808-405757934287613952&q=from%3A%20denverparksrec%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20denverparksrec%20since%3A2014-12-24%20until%3A2015-05-01.
+INFO: Got 10 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDguLH7pwsWgMDD_OPg5PcLEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-84054279664578560-127057008582078465&q=from%3A%20denverparksrec%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJP07OSZ6AcWgICSnJvcudEIEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-4926084716-7721225894&q=from%3A%20denverparksrec%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-314494139976798209-359811091750072321&q=from%3A%20denverparksrec%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-644620126386561024-680440654913257472&q=from%3A%20denverparksrec%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-7799054572-14193959618&q=from%3A%20denverparksrec%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20denverparksrec%20since%3A2013-12-02%20until%3A2014-04-10.
+INFO: Got 22 tweets (12 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20denverparksrec%20since%3A2012-11-11%20until%3A2013-03-20.
+INFO: Got 34 tweets (12 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbqheupbxbmouvEqQESNQAVACUAVQAVAAA%3D&q=from%3A%20denverparksrec%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-62680482202132480-75638395535233078&q=from%3A%20denverparksrec%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-736557704152383488-779358670815633409&q=from%3A%20denverparksrec%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKmxpNXS2BUWgMClrafgmO8WEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-874373189970804736-917417050619781121&q=from%3A%20denverparksrec%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20denverparksrec%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 52 tweets (18 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-131409801900072961-171973281585438721&q=from%3A%20denverparksrec%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-597855542476836864-639164395939999744&q=from%3A%20denverparksrec%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDs4sDisgYWgoCTtIWq8YMHEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1187480032878436353-1200812257577324545&q=from%3A%20denverparksrec%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-467332167279067136-498559744534392832&q=from%3A%20denverparksrec%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMP86tXM_w0WgoCSrI72n5kPEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-195320578121531392-220638766354800642&q=from%3A%20denverparksrec%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20denverparksrec%20since%3A2016-09-28%20until%3A2017-02-03.
+INFO: Got 66 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1027185299833724929-1055896857317015552&q=from%3A%20denverparksrec%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1088547505355157505-1106659835725012993&q=from%3A%20denverparksrec%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20denverparksrec%20since%3A2012-07-05%20until%3A2012-11-11.
+INFO: Got 84 tweets (18 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20denverparksrec%20since%3A2014-08-17%20until%3A2014-12-24.
+INFO: Got 102 tweets (18 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-834486768934096896-872550375278104576&q=from%3A%20denverparksrec%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKlcvHwgEWgICA-PeBjXUSNQAVACUAVQAVAAA%3D&q=from%3A%20denverparksrec%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1241748610070368258-1247268537720344580&q=from%3A%20denverparksrec%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1148606597956100098-1154094732114612225&q=from%3A%20denverparksrec%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1002656732655452161-1012060146640359424&q=from%3A%20denverparksrec%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-942878165625536512-967104818366988289&q=from%3A%20denverparksrec%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 125.133.214.16:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20denverparksrec%20since%3A2010-09-30%20until%3A2011-02-06.
+INFO: Got 124 tweets (22 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKX5wp-qkBMWgICp4aqH5qEUEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20denverparksrec%20since%3A2016-01-14%20until%3A2016-05-22.
+INFO: Got 146 tweets (22 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMPM6fj3jgoWgMCToKCsxaELEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGUgbvPqgIWgsCR7KLrssMDEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbY2fDZJBbMusTDORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20denverparksrec%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJKUobCn3QgWgsCR4IKSp_4JEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20denverparksrec%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 176 tweets (30 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWF3qWT8hEWgIC27fTKtPESEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbYg-GNOhaEi7XgaRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20denverparksrec%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20denverparksrec%20since%3A2011-06-15%20until%3A2011-10-21.
+INFO: Got 208 tweets (32 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20denverparksrec%20since%3A2009-09-09%20until%3A2010-01-15.
+INFO: Got 244 tweets (36 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20denverparksrec%20since%3A2013-03-20%20until%3A2013-07-26.
+INFO: Got 276 tweets (32 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20denverparksrec%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 312 tweets (36 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20denverparksrec%20since%3A2015-09-07%20until%3A2016-01-14.
+INFO: Got 340 tweets (28 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHAoOTX3gEW7MCQlIqu3IwCEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKSJi9XjuBQWgoCx6Z6l69AVEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20denverparksrec%20since%3A2016-05-22%20until%3A2016-09-28.
+INFO: Got 372 tweets (32 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK7Vk_KyohgWgoCh0cz8qLsZEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDE_cH1tQUWhICRxL_y7o8GEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKTF2JyBzBAWgMCl0bao4t4REjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJGkmKHu0gMWgoCR_Lqy_OIEEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMLsqYim_AwWgMDBhMfcnusNEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKf5gKSk-SAWgsCm7dqYkqohEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20denverparksrec%20since%3A2017-06-12%20until%3A2017-10-19.
+INFO: Got 404 tweets (32 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20denverparksrec%20since%3A2015-05-01%20until%3A2015-09-07.
+INFO: Got 442 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfN4dHkvhwWgICovZ2mpqcdEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKedioymmx4WgoCnubvQ0tseEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKSB8dLYlBcWgMCu8a_89ZsYEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKK5hPLJuyIWgsCnnYnYuNAiEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20denverparksrec%20since%3A2017-02-03%20until%3A2017-06-12.
+INFO: Got 480 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgL-dsOfV8B8WgsC6jerClYQgEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLyd4amF6hsWgMCgvevVx4scEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKiJxqzjlRoWgoCq9aqt7OsaEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 176.114.128.131:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKkudmo4AwWgMDBhMfcnusNEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLo6IqOxAMWgoCR_Lqy_OIEEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20denverparksrec%20since%3A2014-04-10%20until%3A2014-08-17.
+INFO: Got 526 tweets (46 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20denverparksrec%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 573 tweets (47 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHY6Iqt8AQWhICRxL_y7o8GEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIHMibjEexbswJCUiq7cjAISNQAVACUAVQAVAAA%3D&q=from%3A%20denverparksrec%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 58 tweets for from%3A%20denverparksrec%20since%3A2011-02-06%20until%3A2011-06-15.
+INFO: Got 631 tweets (58 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 50.97.79.197:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20denverparksrec%20since%3A2012-02-27%20until%3A2012-07-05.
+INFO: Got 683 tweets (52 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-xpoeb4hkWgoCq9aqt7OsaEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20denverparksrec%20since%3A2017-10-19%20until%3A2018-02-25.
+INFO: Got 731 tweets (48 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 134.35.29.49:8080
+INFO: Using proxy 134.35.29.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 134.35.29.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 134.35.29.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 134.35.29.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 134.35.29.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 134.35.29.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 134.35.29.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 134.35.29.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfVvsj6vx0WgoCnubvQ0tseEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLq5sMTbwCAWgsCm7dqYkqohEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbd1Pn9lRwWgICovZ2mpqcdEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20denverparksrec%20since%3A2018-11-09%20until%3A2019-03-18.
+INFO: Got 780 tweets (49 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20denverparksrec%20since%3A2018-07-04%20until%3A2018-11-09.
+INFO: Got 828 tweets (48 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKLFl9-mgyIWgsCnnYnYuNAiEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwKeZmruk4B8WgsC6jerClYQgEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKatrOHMuxsWgMCgvevVx4scEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 125.25.165.106:43730
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.225.63.134:38459
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 79.111.13.155:50625
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKa1gKbUhCAWgsCm7dqYkqohEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20denverparksrec%20since%3A2019-07-25%20until%3A2019-12-01.
+INFO: Got 903 tweets (75 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLWZq-DzrCEWgsCnnYnYuNAiEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 69 tweets for from%3A%20denverparksrec%20since%3A2019-12-01%20until%3A2020-04-08.
+INFO: Got 972 tweets (69 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKCZz6rauh8WgsC6jerClYQgEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKqh05ef-hoWgMCgvevVx4scEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.240.207:49623
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgKqVxM2d7hoWgMCgvevVx4scEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 78 tweets for from%3A%20denverparksrec%20since%3A2018-02-25%20until%3A2018-07-04.
+INFO: Got 1050 tweets (78 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 102.164.202.75:39933
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKKF1Z7w_B4WgsC6jerClYQgEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 61.118.35.94:55725
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.99.10.253:1080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.103.219.225:48612
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLzhtpzI3x4WgsC6jerClYQgEjUAFQAlAFUAFQAA&q=from%3A%20denverparksrec%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 88.99.10.250:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 108 tweets for from%3A%20denverparksrec%20since%3A2019-03-18%20until%3A2019-07-25.
+INFO: Got 1158 tweets (108 new).
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 61.75.77.198:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 204.44.92.139:3128
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 125.25.165.97:39021
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 124.41.240.126:31302
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 200.60.79.11:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.207.37.233:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 109.75.67.91:44151
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 5.140.233.194:40025
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 164.77.147.93:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 35.220.131.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.141.108.161:3127
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 177.202.43.110:46128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.9.75.42:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 139.59.109.156:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 80.48.119.28:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.197.222.35:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 154.16.63.16:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 88.198.24.108:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 198.199.119.119:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 45.55.9.218:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.55.9.218:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.55.9.218:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.243.108.161:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.55.9.218:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.55.9.218:8080
+INFO: Using proxy 45.55.9.218:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.55.9.218:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.55.9.218:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.64.9:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.55.9.218:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 67.205.174.209:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.68.41.90:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 159.203.166.41:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2008-12-25%20until%3A2009-05-03.
+INFO: Got 1158 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 1158 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1158 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1158 tweets (0 new).
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.217.163.138:8080
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 1158 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1158 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1158 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2007-12-05%20until%3A2008-04-11.
+INFO: Got 1158 tweets (0 new).
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.226.141.127:3128
+INFO: Got 0 tweets for from%3A%20denverparksrec%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1158 tweets (0 new).

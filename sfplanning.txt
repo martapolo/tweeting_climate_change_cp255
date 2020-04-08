@@ -1,0 +1,2329 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: sfplanning since:2006-03-01 until:2006-07-07', 'from: sfplanning since:2006-07-07 until:2006-11-13', 'from: sfplanning since:2006-11-13 until:2007-03-22', 'from: sfplanning since:2007-03-22 until:2007-07-29', 'from: sfplanning since:2007-07-29 until:2007-12-05', 'from: sfplanning since:2007-12-05 until:2008-04-11', 'from: sfplanning since:2008-04-11 until:2008-08-18', 'from: sfplanning since:2008-08-18 until:2008-12-25', 'from: sfplanning since:2008-12-25 until:2009-05-03', 'from: sfplanning since:2009-05-03 until:2009-09-09', 'from: sfplanning since:2009-09-09 until:2010-01-15', 'from: sfplanning since:2010-01-15 until:2010-05-24', 'from: sfplanning since:2010-05-24 until:2010-09-30', 'from: sfplanning since:2010-09-30 until:2011-02-06', 'from: sfplanning since:2011-02-06 until:2011-06-15', 'from: sfplanning since:2011-06-15 until:2011-10-21', 'from: sfplanning since:2011-10-21 until:2012-02-27', 'from: sfplanning since:2012-02-27 until:2012-07-05', 'from: sfplanning since:2012-07-05 until:2012-11-11', 'from: sfplanning since:2012-11-11 until:2013-03-20', 'from: sfplanning since:2013-03-20 until:2013-07-26', 'from: sfplanning since:2013-07-26 until:2013-12-02', 'from: sfplanning since:2013-12-02 until:2014-04-10', 'from: sfplanning since:2014-04-10 until:2014-08-17', 'from: sfplanning since:2014-08-17 until:2014-12-24', 'from: sfplanning since:2014-12-24 until:2015-05-01', 'from: sfplanning since:2015-05-01 until:2015-09-07', 'from: sfplanning since:2015-09-07 until:2016-01-14', 'from: sfplanning since:2016-01-14 until:2016-05-22', 'from: sfplanning since:2016-05-22 until:2016-09-28', 'from: sfplanning since:2016-09-28 until:2017-02-03', 'from: sfplanning since:2017-02-03 until:2017-06-12', 'from: sfplanning since:2017-06-12 until:2017-10-19', 'from: sfplanning since:2017-10-19 until:2018-02-25', 'from: sfplanning since:2018-02-25 until:2018-07-04', 'from: sfplanning since:2018-07-04 until:2018-11-09', 'from: sfplanning since:2018-11-09 until:2019-03-18', 'from: sfplanning since:2019-03-18 until:2019-07-25', 'from: sfplanning since:2019-07-25 until:2019-12-01', 'from: sfplanning since:2019-12-01 until:2020-04-08']
+INFO: Querying from: sfplanning since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2007-12-05 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2008-12-25 until:2009-05-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2009-05-03 until:2009-09-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2009-09-09 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2010-09-30 until:2011-02-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2011-02-06 until:2011-06-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2011-06-15 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2012-02-27 until:2012-07-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2012-07-05 until:2012-11-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2012-11-11 until:2013-03-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2013-03-20 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2013-12-02 until:2014-04-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2014-04-10 until:2014-08-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2014-08-17 until:2014-12-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2014-12-24 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2015-05-01 until:2015-09-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2015-09-07 until:2016-01-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2016-01-14 until:2016-05-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2016-05-22 until:2016-09-28
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2016-09-28 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2017-02-03 until:2017-06-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2017-06-12 until:2017-10-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2017-10-19 until:2018-02-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2018-02-25 until:2018-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2018-07-04 until:2018-11-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2018-11-09 until:2019-03-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2019-03-18 until:2019-07-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2019-07-25 until:2019-12-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: sfplanning since:2019-12-01 until:2020-04-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-65148219235110912-76329022094712832&q=from%3A%20sfplanning%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-128973220920561667-169890227723317248&q=from%3A%20sfplanning%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-5877262546-5877262546&q=from%3A%20sfplanning%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-101813408726396930-108767540817305600&q=from%3A%20sfplanning%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-269113132310466561-311209711615750144&q=from%3A%20sfplanning%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCUuv255wEWgICRgOu1lo8CEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBako__kKxako__kKxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sfplanning%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwJCowZ2aygMWgMCRpOKQydsEEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20sfplanning%20since%3A2009-09-09%20until%3A2010-01-15.
+INFO: Got 2 tweets (2 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20sfplanning%20since%3A2011-02-06%20until%3A2011-06-15.
+INFO: Got 6 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20sfplanning%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 10 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJHIr7Db6QIWgICRmJHgtYIDEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20sfplanning%20since%3A2011-06-15%20until%3A2011-10-21.
+INFO: Got 16 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJD8-b2KvAcWgMCR-K7l0dEIEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-220972224981643264-255759229724536834&q=from%3A%20sfplanning%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20sfplanning%20since%3A2012-11-11%20until%3A2013-03-20.
+INFO: Got 24 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-361993003864301568-404142876201738240&q=from%3A%20sfplanning%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-314320067334639616-356965623970004993&q=from%3A%20sfplanning%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-501488773176123392-546029815459872768&q=from%3A%20sfplanning%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-182201302938431489-220270253316382720&q=from%3A%20sfplanning%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-462314054015401984-497090464386793472&q=from%3A%20sfplanning%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-409108752671838208-449256237948207104&q=from%3A%20sfplanning%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-798427953960984576-826858413594386432&q=from%3A%20sfplanning%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-646069360977514496-676850190335258624&q=from%3A%20sfplanning%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-879800523334926337-916066534342107136&q=from%3A%20sfplanning%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-573591389868441600-591456115012993024&q=from%3A%20sfplanning%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1100168860928360448-1106701862957400070&q=from%3A%20sfplanning%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-740254267785633792-779394157907410944&q=from%3A%20sfplanning%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1024256277990526977-1059498077386502145&q=from%3A%20sfplanning%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-703047127824379904-729135385469558784&q=from%3A%20sfplanning%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1175183048268075008-1199750879370366976&q=from%3A%20sfplanning%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1212057299377770499-1244701672779272195&q=from%3A%20sfplanning%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-613902086380490752-639688403982745601&q=from%3A%20sfplanning%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJH0q8SGkQYWhMCRvMLq0YwHEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-843919321692692480-870472494607499265&q=from%3A%20sfplanning%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1130957379091087360-1154149341411475456&q=from%3A%20sfplanning%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-943556055333715968-966462257210146816&q=from%3A%20sfplanning%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-998232058119024643-1012837334406950912&q=from%3A%20sfplanning%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHogq6HhgoWgICT6L_z5psLEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20sfplanning%20since%3A2012-07-05%20until%3A2012-11-11.
+INFO: Got 44 tweets (20 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJD08pvY3AgWgoCQ3P-VmfQJEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20sfplanning%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 66 tweets (22 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20sfplanning%20since%3A2013-03-20%20until%3A2013-07-26.
+INFO: Got 90 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOAu9jS9Q0WgICQtKzO8ZMPEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20sfplanning%20since%3A2014-08-17%20until%3A2014-12-24.
+INFO: Got 116 tweets (26 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJG01MenhwUWgICRuJuox44GEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20sfplanning%20since%3A2012-02-27%20until%3A2012-07-05.
+INFO: Got 148 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLE2Iu86gwWgICS8JjJguYNEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDYxo-5rQsWgIDAwOGKirwMEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20sfplanning%20since%3A2014-04-10%20until%3A2014-08-17.
+INFO: Got 182 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20sfplanning%20since%3A2013-12-02%20until%3A2014-04-10.
+INFO: Got 218 tweets (36 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLHpzf_KlBYWgICx3ZTWy_kWEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKapxPrWtRgWgICi2a-M47YZEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOttNX0xRQWgICwoe62-9AVEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKCVpaqm9xEWgMC1ka_q0-QSEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbJgPDKxB4WjIC23eLe5dseEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKb1j5Xn9Q8WgICouf6Mo7UQEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKSZvayChREWgoCg5drN0OAREjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLaJj-rxthwWgsCn7en4i7QdEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKWl6ejcwRMWgIClwaOxtJ4UEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKKhsbCLzyAWgMCq_a7Er6YhEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwKaNpeyL0iEWhsC-lfTkiMYiEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKmpmcDU5BUWgICx3ZTWy_kWEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK799c6XmBoWgMCmvb35hOsaEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLu5k7G32hsWgMCjyY-MqY4cEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbN0O_7sR8WgICoicGtroQgEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfJ24mathcWgoCgveaHxZQYEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 33 tweets for from%3A%20sfplanning%20since%3A2016-09-28%20until%3A2017-02-03.
+INFO: Got 251 tweets (33 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKOlsoijtSEWhsC-lfTkiMYiEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJO05PXKtg8WgICouf6Mo7UQEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20sfplanning%20since%3A2019-12-01%20until%3A2020-04-08.
+INFO: Got 292 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDBk4KV6REWgMC1ka_q0-QSEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKS147eusBQWgICwoe62-9AVEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK_ps5DblxwWgsCn7en4i7QdEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20sfplanning%20since%3A2014-12-24%20until%3A2015-05-01.
+INFO: Got 337 tweets (45 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20sfplanning%20since%3A2015-09-07%20until%3A2016-01-14.
+INFO: Got 384 tweets (47 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20sfplanning%20since%3A2016-05-22%20until%3A2016-09-28.
+INFO: Got 431 tweets (47 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20sfplanning%20since%3A2018-07-04%20until%3A2018-11-09.
+INFO: Got 472 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKSNrqK3wxAWgoCg5drN0OAREjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKHhvtaQzxkWgMCmvb35hOsaEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20sfplanning%20since%3A2015-05-01%20until%3A2015-09-07.
+INFO: Got 522 tweets (50 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKTN9dbiihMWgIClwaOxtJ4UEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20sfplanning%20since%3A2017-10-19%20until%3A2018-02-25.
+INFO: Got 562 tweets (40 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKT9xezmhRcWgoCgveaHxZQYEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20sfplanning%20since%3A2016-01-14%20until%3A2016-05-22.
+INFO: Got 612 tweets (50 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20sfplanning%20since%3A2017-02-03%20until%3A2017-06-12.
+INFO: Got 663 tweets (51 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKL1ubugphgWgICi2a-M47YZEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLrR-5qtph4WjIC23eLe5dseEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPpoMTZjyAWgMCq_a7Er6YhEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKH5s4X7ixsWgMCjyY-MqY4cEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKf5k4iBhR8WgICoicGtroQgEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK7tkv_ToxgWgICi2a-M47YZEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 53 tweets for from%3A%20sfplanning%20since%3A2017-06-12%20until%3A2017-10-19.
+INFO: Got 716 tweets (53 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKit6vnSiiAWgMCq_a7Er6YhEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 62 tweets for from%3A%20sfplanning%20since%3A2019-07-25%20until%3A2019-12-01.
+INFO: Got 778 tweets (62 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKax0LKyxR0WjIC23eLe5dseEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 73 tweets for from%3A%20sfplanning%20since%3A2018-11-09%20until%3A2019-03-18.
+INFO: Got 851 tweets (73 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgK2Rx7bj8hoWgMCjyY-MqY4cEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20sfplanning%20since%3A2018-02-25%20until%3A2018-07-04.
+INFO: Got 917 tweets (66 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKaZi7aa6h4WgICoicGtroQgEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKO1v-C-3x4WgICoicGtroQgEjUAFQAlAFUAFQAA&q=from%3A%20sfplanning%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 79 tweets for from%3A%20sfplanning%20since%3A2019-03-18%20until%3A2019-07-25.
+INFO: Got 996 tweets (79 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 996 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2010-09-30%20until%3A2011-02-06.
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 996 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2009-05-03%20until%3A2009-09-09.
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2008-12-25%20until%3A2009-05-03.
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 996 tweets (0 new).
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2007-12-05%20until%3A2008-04-11.
+INFO: Got 996 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sfplanning%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 996 tweets (0 new).

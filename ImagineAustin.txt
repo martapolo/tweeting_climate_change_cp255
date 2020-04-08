@@ -1,0 +1,1872 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: ImagineAustin since:2006-03-01 until:2006-07-07', 'from: ImagineAustin since:2006-07-07 until:2006-11-13', 'from: ImagineAustin since:2006-11-13 until:2007-03-22', 'from: ImagineAustin since:2007-03-22 until:2007-07-29', 'from: ImagineAustin since:2007-07-29 until:2007-12-05', 'from: ImagineAustin since:2007-12-05 until:2008-04-11', 'from: ImagineAustin since:2008-04-11 until:2008-08-18', 'from: ImagineAustin since:2008-08-18 until:2008-12-25', 'from: ImagineAustin since:2008-12-25 until:2009-05-03', 'from: ImagineAustin since:2009-05-03 until:2009-09-09', 'from: ImagineAustin since:2009-09-09 until:2010-01-15', 'from: ImagineAustin since:2010-01-15 until:2010-05-24', 'from: ImagineAustin since:2010-05-24 until:2010-09-30', 'from: ImagineAustin since:2010-09-30 until:2011-02-06', 'from: ImagineAustin since:2011-02-06 until:2011-06-15', 'from: ImagineAustin since:2011-06-15 until:2011-10-21', 'from: ImagineAustin since:2011-10-21 until:2012-02-27', 'from: ImagineAustin since:2012-02-27 until:2012-07-05', 'from: ImagineAustin since:2012-07-05 until:2012-11-11', 'from: ImagineAustin since:2012-11-11 until:2013-03-20', 'from: ImagineAustin since:2013-03-20 until:2013-07-26', 'from: ImagineAustin since:2013-07-26 until:2013-12-02', 'from: ImagineAustin since:2013-12-02 until:2014-04-10', 'from: ImagineAustin since:2014-04-10 until:2014-08-17', 'from: ImagineAustin since:2014-08-17 until:2014-12-24', 'from: ImagineAustin since:2014-12-24 until:2015-05-01', 'from: ImagineAustin since:2015-05-01 until:2015-09-07', 'from: ImagineAustin since:2015-09-07 until:2016-01-14', 'from: ImagineAustin since:2016-01-14 until:2016-05-22', 'from: ImagineAustin since:2016-05-22 until:2016-09-28', 'from: ImagineAustin since:2016-09-28 until:2017-02-03', 'from: ImagineAustin since:2017-02-03 until:2017-06-12', 'from: ImagineAustin since:2017-06-12 until:2017-10-19', 'from: ImagineAustin since:2017-10-19 until:2018-02-25', 'from: ImagineAustin since:2018-02-25 until:2018-07-04', 'from: ImagineAustin since:2018-07-04 until:2018-11-09', 'from: ImagineAustin since:2018-11-09 until:2019-03-18', 'from: ImagineAustin since:2019-03-18 until:2019-07-25', 'from: ImagineAustin since:2019-07-25 until:2019-12-01', 'from: ImagineAustin since:2019-12-01 until:2020-04-08']
+INFO: Querying from: ImagineAustin since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2007-12-05 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2008-12-25 until:2009-05-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2009-05-03 until:2009-09-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2009-09-09 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2010-09-30 until:2011-02-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2011-06-15 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Querying from: ImagineAustin since:2011-10-21 until:2012-02-27
+INFO: Using proxy 47.90.54.45:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2012-02-27 until:2012-07-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2012-07-05 until:2012-11-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2011-02-06 until:2011-06-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2013-03-20 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2013-12-02 until:2014-04-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2012-11-11 until:2013-03-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2014-04-10 until:2014-08-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2014-08-17 until:2014-12-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2014-12-24 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2015-05-01 until:2015-09-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2015-09-07 until:2016-01-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2016-01-14 until:2016-05-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2016-05-22 until:2016-09-28
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2016-09-28 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2017-02-03 until:2017-06-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2017-06-12 until:2017-10-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2017-10-19 until:2018-02-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2018-02-25 until:2018-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2018-07-04 until:2018-11-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2018-11-09 until:2019-03-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2019-07-25 until:2019-12-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2019-03-18 until:2019-07-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: ImagineAustin since:2019-12-01 until:2020-04-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-968880758013267968-975732411844780032&q=from%3A%20ImagineAustin%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-902562382265950209-902573025047883776&q=from%3A%20ImagineAustin%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-755101228447563777-773583306315096064&q=from%3A%20ImagineAustin%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1204512360821448704-1234959052876193793&q=from%3A%20ImagineAustin%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-26000303164-22781266067718145&q=from%3A%20ImagineAustin%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-5297718525-7671071573&q=from%3A%20ImagineAustin%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-922476499441242112-967083923481251840&q=from%3A%20ImagineAustin%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-362611680548618240-402818738082562048&q=from%3A%20ImagineAustin%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL3pjO3FhhkWgMCh3cvYyoYZEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLyx0PqT8hoWgIC_va_dv4obEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-38751156889063424-64033563317772289&q=from%3A%20ImagineAustin%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20ImagineAustin%20since%3A2017-06-12%20until%3A2017-10-19.
+INFO: Got 4 tweets (4 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20ImagineAustin%20since%3A2018-02-25%20until%3A2018-07-04.
+INFO: Got 10 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1158567524184838144-1198086835454586881&q=from%3A%20ImagineAustin%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-14836097631-25800668790&q=from%3A%20ImagineAustin%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-231027347833376770-265867282180366336&q=from%3A%20ImagineAustin%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-837054597617303552-870406408914833409&q=from%3A%20ImagineAustin%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1116468561038532608-1141731603049267200&q=from%3A%20ImagineAustin%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1068595794603847680-1090287183020331008&q=from%3A%20ImagineAustin%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOliOektyEWgoC1reWtuqMiEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKCxoaTU-hQWgICrkeT6qLwVEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-269068539443441666-311101873140690945&q=from%3A%20ImagineAustin%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb4kOnbwQEWgoCA-Jrc91ASNQAVACUAVQAVAAA%3D&q=from%3A%20ImagineAustin%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8196128861-13132524667&q=from%3A%20ImagineAustin%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-781196485605990401-826824316473974786&q=from%3A%20ImagineAustin%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20ImagineAustin%20since%3A2019-12-01%20until%3A2020-04-08.
+INFO: Got 18 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-102051005927137280-123876533776551936&q=from%3A%20ImagineAustin%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20ImagineAustin%20since%3A2016-05-22%20until%3A2016-09-28.
+INFO: Got 28 tweets (10 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20ImagineAustin%20since%3A2010-09-30%20until%3A2011-02-06.
+INFO: Got 42 tweets (14 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrto9-lzRkWgMC68Yvt4usaEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb6k6a8JxaqjdqTORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20ImagineAustin%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCo39mgiAoWgIDChMLgjJcLEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20ImagineAustin%20since%3A2009-09-09%20until%3A2010-01-15.
+INFO: Got 58 tweets (16 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20ImagineAustin%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 72 tweets (14 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20ImagineAustin%20since%3A2017-10-19%20until%3A2018-02-25.
+INFO: Got 86 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-213487029860843521-219889235484876801&q=from%3A%20ImagineAustin%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-141271940651429889-170634587028979713&q=from%3A%20ImagineAustin%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-321692314663780352-358100634827882496&q=from%3A%20ImagineAustin%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLr1y8GHlCAWgsC91aHouqAhEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-454642957136953344-495280460348801024&q=from%3A%20ImagineAustin%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDQmf7ViQEWgoCRtPiLv-MBEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-605440897833152512-638412933530304512&q=from%3A%20ImagineAustin%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-529631071726751744-547482015843368961&q=from%3A%20ImagineAustin%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-411160411480678400-450717404763398145&q=from%3A%20ImagineAustin%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20ImagineAustin%20since%3A2019-07-25%20until%3A2019-12-01.
+INFO: Got 100 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa-iefEbhbs2bedwAESNQAVACUAVQAVAAA%3D&q=from%3A%20ImagineAustin%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-661241042537218048-686971904381435904&q=from%3A%20ImagineAustin%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-547906141607305217-592760797664784384&q=from%3A%20ImagineAustin%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1039172911200960512-1060648030947418112&q=from%3A%20ImagineAustin%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-690240385587675136-734022320898121729&q=from%3A%20ImagineAustin%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20ImagineAustin%20since%3A2011-02-06%20until%3A2011-06-15.
+INFO: Got 120 tweets (20 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLLJl67onRcWgsC82Y2Bp5QYEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWd1Y211B0WgMC08dKavaEeEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20ImagineAustin%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 142 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLzB4ras8R4WgIC2yYC2n9gfEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJKQw4njtAYWgICT_M24xrAHEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20ImagineAustin%20since%3A2017-02-03%20until%3A2017-06-12.
+INFO: Got 162 tweets (20 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20ImagineAustin%20since%3A2018-11-09%20until%3A2019-03-18.
+INFO: Got 178 tweets (16 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20ImagineAustin%20since%3A2019-03-18%20until%3A2019-07-25.
+INFO: Got 196 tweets (18 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20ImagineAustin%20since%3A2012-07-05%20until%3A2012-11-11.
+INFO: Got 218 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJOcp5r2uwcWgsCT2KvgoNEIEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKGFkoSv1xUWhICxsbmVvPkWEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa6gbiIPRb2sZPsYRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20ImagineAustin%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHUrLbH6gIWgMCQ_KLDjLgDEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20ImagineAustin%20since%3A2012-11-11%20until%3A2013-03-20.
+INFO: Got 244 tweets (26 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20ImagineAustin%20since%3A2016-09-28%20until%3A2017-02-03.
+INFO: Got 268 tweets (24 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20ImagineAustin%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 298 tweets (30 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20ImagineAustin%20since%3A2011-06-15%20until%3A2011-10-21.
+INFO: Got 326 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKw0tS69gUWgoCRsIeGmo0GEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDold3w9ggWgICQzKmonfgJEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMD8itebzwwWgIDC9Iu9y98NEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJH0m4Xz9QMWgoCQpJfQm94EEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20ImagineAustin%20since%3A2014-04-10%20until%3A2014-08-17.
+INFO: Got 364 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyFuZDx6xwWgIC1xffwlrgdEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOA6I3etAsWgoCR0O7FosEMEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMLE6qnQ2Q4WgoCStMT_hZkPEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLX9vdL65hAWgIC2scfLjNwREjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLi1sc6ZrRIWgICitdXTzogTEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJHM8-7Gmg8WgMCx2cGz9LkQEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKiJqP6clBMWgoC55a3a4q8UEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKM0PaI3QgWgICQzKmonfgJEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20ImagineAustin%20since%3A2014-12-24%20until%3A2015-05-01.
+INFO: Got 404 tweets (40 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPsxorcqwsWgoCR0O7FosEMEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20ImagineAustin%20since%3A2013-03-20%20until%3A2013-07-26.
+INFO: Got 449 tweets (45 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLOBs4SzkBMWgoC55a3a4q8UEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20ImagineAustin%20since%3A2013-12-02%20until%3A2014-04-10.
+INFO: Got 491 tweets (42 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20ImagineAustin%20since%3A2016-01-14%20until%3A2016-05-22.
+INFO: Got 532 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJHshcXzyQMWgoCQpJfQm94EEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLOh1uDswhAWgIC2scfLjNwREjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20ImagineAustin%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 582 tweets (50 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20ImagineAustin%20since%3A2015-05-01%20until%3A2015-09-07.
+INFO: Got 628 tweets (46 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLTh6aLcpxwWgIC1xffwlrgdEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20ImagineAustin%20since%3A2018-07-04%20until%3A2018-11-09.
+INFO: Got 677 tweets (49 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLP1rdOO5REWgICitdXTzogTEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJC478OgnQUWgoCRsIeGmo0GEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20ImagineAustin%20since%3A2015-09-07%20until%3A2016-01-14.
+INFO: Got 729 tweets (52 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMCgiJSt-Q0WgoCStMT_hZkPEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 60 tweets for from%3A%20ImagineAustin%20since%3A2014-08-17%20until%3A2014-12-24.
+INFO: Got 789 tweets (60 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGw19SS8AQWgoCRsIeGmo0GEjUAFQAlAFUAFQAA&q=from%3A%20ImagineAustin%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 72 tweets for from%3A%20ImagineAustin%20since%3A2012-02-27%20until%3A2012-07-05.
+INFO: Got 861 tweets (72 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 861 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 861 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 861 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 861 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2007-12-05%20until%3A2008-04-11.
+INFO: Got 861 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2008-12-25%20until%3A2009-05-03.
+INFO: Got 861 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 861 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2009-05-03%20until%3A2009-09-09.
+INFO: Got 861 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 861 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20ImagineAustin%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 861 tweets (0 new).

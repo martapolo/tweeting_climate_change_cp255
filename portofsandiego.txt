@@ -1,0 +1,1583 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko'}
+INFO: queries: ['from: portofsandiego since:2006-03-01 until:2006-07-07', 'from: portofsandiego since:2006-07-07 until:2006-11-13', 'from: portofsandiego since:2006-11-13 until:2007-03-22', 'from: portofsandiego since:2007-03-22 until:2007-07-29', 'from: portofsandiego since:2007-07-29 until:2007-12-04', 'from: portofsandiego since:2007-12-04 until:2008-04-11', 'from: portofsandiego since:2008-04-11 until:2008-08-18', 'from: portofsandiego since:2008-08-18 until:2008-12-25', 'from: portofsandiego since:2008-12-25 until:2009-05-02', 'from: portofsandiego since:2009-05-02 until:2009-09-08', 'from: portofsandiego since:2009-09-08 until:2010-01-15', 'from: portofsandiego since:2010-01-15 until:2010-05-24', 'from: portofsandiego since:2010-05-24 until:2010-09-30', 'from: portofsandiego since:2010-09-30 until:2011-02-05', 'from: portofsandiego since:2011-02-05 until:2011-06-14', 'from: portofsandiego since:2011-06-14 until:2011-10-21', 'from: portofsandiego since:2011-10-21 until:2012-02-27', 'from: portofsandiego since:2012-02-27 until:2012-07-04', 'from: portofsandiego since:2012-07-04 until:2012-11-10', 'from: portofsandiego since:2012-11-10 until:2013-03-19', 'from: portofsandiego since:2013-03-19 until:2013-07-26', 'from: portofsandiego since:2013-07-26 until:2013-12-02', 'from: portofsandiego since:2013-12-02 until:2014-04-09', 'from: portofsandiego since:2014-04-09 until:2014-08-16', 'from: portofsandiego since:2014-08-16 until:2014-12-23', 'from: portofsandiego since:2014-12-23 until:2015-05-01', 'from: portofsandiego since:2015-05-01 until:2015-09-06', 'from: portofsandiego since:2015-09-06 until:2016-01-13', 'from: portofsandiego since:2016-01-13 until:2016-05-21', 'from: portofsandiego since:2016-05-21 until:2016-09-27', 'from: portofsandiego since:2016-09-27 until:2017-02-03', 'from: portofsandiego since:2017-02-03 until:2017-06-11', 'from: portofsandiego since:2017-06-11 until:2017-10-18', 'from: portofsandiego since:2017-10-18 until:2018-02-24', 'from: portofsandiego since:2018-02-24 until:2018-07-03', 'from: portofsandiego since:2018-07-03 until:2018-11-08', 'from: portofsandiego since:2018-11-08 until:2019-03-17', 'from: portofsandiego since:2019-03-17 until:2019-07-24', 'from: portofsandiego since:2019-07-24 until:2019-11-30', 'from: portofsandiego since:2019-11-30 until:2020-04-07']
+INFO: Querying from: portofsandiego since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2007-07-29 until:2007-12-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2007-12-04 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2008-12-25 until:2009-05-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2009-05-02 until:2009-09-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2009-09-08 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2010-09-30 until:2011-02-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2011-02-05 until:2011-06-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2011-06-14 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2012-02-27 until:2012-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2012-11-10 until:2013-03-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2013-03-19 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2012-07-04 until:2012-11-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2013-12-02 until:2014-04-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2014-04-09 until:2014-08-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2014-08-16 until:2014-12-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2014-12-23 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2015-05-01 until:2015-09-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2015-09-06 until:2016-01-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2016-01-13 until:2016-05-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2016-09-27 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2016-05-21 until:2016-09-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2017-02-03 until:2017-06-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2017-06-11 until:2017-10-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2017-10-18 until:2018-02-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2018-02-24 until:2018-07-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2018-07-03 until:2018-11-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2018-11-08 until:2019-03-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2019-03-17 until:2019-07-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2019-07-24 until:2019-11-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: portofsandiego since:2019-11-30 until:2020-04-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-926042485-1068279728&q=from%3A%20portofsandiego%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbqpZLzBhbgnuX6BxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20portofsandiego%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 10 tweets (10 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-597078551901306880-638737469656010752&q=from%3A%20portofsandiego%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1097439453-1604746163&q=from%3A%20portofsandiego%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-3408653711-3764381733&q=from%3A%20portofsandiego%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-5334422496743424-29984629486256129&q=from%3A%20portofsandiego%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15184125081-25032211269&q=from%3A%20portofsandiego%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-11667155786-13870625656&q=from%3A%20portofsandiego%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-46237056254488576-78860736054566912&q=from%3A%20portofsandiego%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-6248014890-7753980035&q=from%3A%20portofsandiego%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-190506846900076544-217650321814593536&q=from%3A%20portofsandiego%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-712687059098423296-732973615021318146&q=from%3A%20portofsandiego%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-335403833540898817-357277038991777794&q=from%3A%20portofsandiego%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-372893590856290304-403573845816143872&q=from%3A%20portofsandiego%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-284389873991950338-310135369519755264&q=from%3A%20portofsandiego%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-422915214661533696-452647640329883648&q=from%3A%20portofsandiego%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-641956884308586496-687044067599892480&q=from%3A%20portofsandiego%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-950838304618008576-966465966417694720&q=from%3A%20portofsandiego%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-249179034724995072-266720667913822208&q=from%3A%20portofsandiego%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1237421918346571776-1245775797496860672&q=from%3A%20portofsandiego%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-147808342440546304-169831712644268032&q=from%3A%20portofsandiego%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1091048038838067200-1106641049374449666&q=from%3A%20portofsandiego%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-119454358181122048-126928892505235456&q=from%3A%20portofsandiego%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-744248195996233728-778994376445874176&q=from%3A%20portofsandiego%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-513849641889456128-547148421258543104&q=from%3A%20portofsandiego%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-471442944600182786-496675322280947714&q=from%3A%20portofsandiego%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1004103972607553536-1013910961583882240&q=from%3A%20portofsandiego%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-560130399532118016-589147504123351040&q=from%3A%20portofsandiego%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1190289407439323141-1199480057888006145&q=from%3A%20portofsandiego%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-907258289649475585-917879883291811840&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1045362167627710464-1060290877858312193&q=from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1129169994929958912-1151862603540361217&q=from%3A%20portofsandiego%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-790940666972864512-826935719180410882&q=from%3A%20portofsandiego%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-864844047210250240-870371175058231296&q=from%3A%20portofsandiego%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjR8fGfyRAWgMCg-YWWoN0REjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20portofsandiego%20since%3A2015-05-01%20until%3A2015-09-06.
+INFO: Got 34 tweets (24 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa648yWCBbm7rP6CxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20portofsandiego%20since%3A2008-12-25%20until%3A2009-05-02.
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Got 68 tweets (34 new).
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaett-yGRbKoP-FHBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwIDgoOj5EhaCgIDUkrfDahI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBay8tqQcRaK7cnAugESNQAVACUAVQAVAAA%3D&q=from%3A%20portofsandiego%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaUrdX2VhbwzYesZxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGY8paipAEWgICR9P3alZgCEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbUkMnGLhaG4uLiORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKKZ1sb84xMWhICjkdLnhawUEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJLg2K_krAoWgMCTiMmR5JkLEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKM-b3opAUWgICR0JD0n4UGEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJGQrcWt8gcWgMCTyLae6c0IEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKOl0pjY6BEWgICmpY-874gTEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJOozoDMpwkWhICRuN7kpvUJEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLAtMm_3gsWgMDApK6okMgMEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCk48axqAMWgICR2PfJ-MIDEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCg8LmPjQQWgICQ_N7CrtsEEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCk4cCh9QYWgICRlJnCyrMHEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJDMh7fzig0WhMCRlN_kxeQNEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKOFt6uarCIWgMCi-Zif8ckiEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKO9pJqXpB4WhICjnfqKytseEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKWx0PKM1BQWgMCqocLQxc8VEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20portofsandiego%20since%3A2015-09-06%20until%3A2016-01-13.
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKDBhcXFgBgWgMCugZ3-lpQYEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Got 106 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLqZz5mHshoWgMCm_aDryekaEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMPM2-HHoQ4WgIDAiOOl7pcPEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJPAruj9xQ8WgMCk-ZKiia0QEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKaZm4ahgiEWgoCj2b2wtKUhEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfNx8-l7xsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK-h8aadlxkWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPtlojPqx8WgoC2tbHa2YIgEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjxytbvgR0WgsCn1fG79LYdEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKDVkpb--RUWhIClnfjp7vkWEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKCdooitixMWhICjkdLnhawUEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb6r6qTbRaK7cnAugESNQAVACUAVQAVAAA%3D&q=from%3A%20portofsandiego%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20portofsandiego%20since%3A2016-01-13%20until%3A2016-05-21.
+INFO: Got 150 tweets (44 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20portofsandiego%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIHgipjNfBaAgJH0_dqVmAISNQAVACUAVQAVAAA%3D&q=from%3A%20portofsandiego%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Got 198 tweets (48 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDggPvyiQoWgMCTiMmR5JkLEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbAgf-5wgEWgoCA1JK3w2oSNQAVACUAVQAVAAA%3D&q=from%3A%20portofsandiego%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20portofsandiego%20since%3A2011-02-05%20until%3A2011-06-14.
+INFO: Got 247 tweets (49 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20portofsandiego%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 295 tweets (48 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJL4-Z6f-Q0WgIDAiOOl7pcPEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20portofsandiego%20since%3A2010-09-30%20until%3A2011-02-05.
+INFO: Got 346 tweets (51 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKkms2SmQ8WgMCk-ZKiia0QEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJPwsNPb4wgWhICRuN7kpvUJEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLnJuPzXsxQWgMCqocLQxc8VEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20portofsandiego%20since%3A2014-08-16%20until%3A2014-12-23.
+INFO: Got 392 tweets (46 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20portofsandiego%20since%3A2014-12-23%20until%3A2015-05-01.
+INFO: Got 439 tweets (47 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJOUtsu2zgcWgMCTyLae6c0IEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20portofsandiego%20since%3A2013-03-19%20until%3A2013-07-26.
+INFO: Got 488 tweets (49 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKow4qb6wQWgICR0JD0n4UGEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqZyefH1xUWhIClnfjp7vkWEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20portofsandiego%20since%3A2016-05-21%20until%3A2016-09-27.
+INFO: Got 536 tweets (48 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20portofsandiego%20since%3A2012-11-10%20until%3A2013-03-19.
+INFO: Got 586 tweets (50 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20portofsandiego%20since%3A2012-02-27%20until%3A2012-07-04.
+INFO: Got 637 tweets (51 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20portofsandiego%20since%3A2016-09-27%20until%3A2017-02-03.
+INFO: Got 684 tweets (47 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBam9OHsFRbKoP-FHBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCAg62ezgwWhMCRlN_kxeQNEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa4p-j_JRaG4uLiORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBao-cWHShbwzYesZxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCA9pPCqgsWgMDApK6okMgMEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20portofsandiego%20since%3A2014-04-09%20until%3A2014-08-16.
+INFO: Got 736 tweets (52 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJC4ifOdkAYWgICRlJnCyrMHEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20portofsandiego%20since%3A2012-07-04%20until%3A2012-11-10.
+INFO: Got 793 tweets (57 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 56 tweets for from%3A%20portofsandiego%20since%3A2013-12-02%20until%3A2014-04-09.
+INFO: Got 849 tweets (56 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKXZpprFhBcWgMCugZ3-lpQYEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJCY6umSjgMWgICR2PfJ-MIDEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20portofsandiego%20since%3A2017-02-03%20until%3A2017-06-11.
+INFO: Got 906 tweets (57 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK-1vs7V7B0WhICjnfqKytseEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLgz9DW0wMWgICQ_N7CrtsEEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_F0ry_9yEWgMCi-Zif8ckiEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKqVzsvX_hkWgMCm_aDryekaEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrdiO_w1yAWgoCj2b2wtKUhEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwKHF7sK_3BgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqFl8fSlh8WgoC2tbHa2YIgEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaWwLSxoZ_1xRsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKehx5T05RwWgsCn1fG79LYdEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaK2fWCERbKoP-FHBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDB397zzxkWgMCm_aDryekaEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGswsmWxQMWgICQ_N7CrtsEEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 69 tweets for from%3A%20portofsandiego%20since%3A2017-10-18%20until%3A2018-02-24.
+INFO: Got 975 tweets (69 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaWlO-6PhbwzYesZxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 73 tweets for from%3A%20portofsandiego%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 1048 tweets (73 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbEwZmlHhaG4uLiORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKb9_biFriEWgMCi-Zif8ckiEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJHskaLAzwIWgICR2PfJ-MIDEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLX9uPCTwB0WhICjnfqKytseEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb8293PHBaG4uLiORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Twitter returned : 'has_more_items' 
+INFO: Using proxy 186.211.106.227:34334
+INFO: Got 73 tweets for from%3A%20portofsandiego%20since%3A2019-11-30%20until%3A2020-04-07.
+INFO: Got 1121 tweets (73 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbq2vaROxbwzYesZxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbdmZ2vyxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLa1tPGFwyAWgoCj2b2wtKUhEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 86 tweets for from%3A%20portofsandiego%20since%3A2009-09-08%20until%3A2010-01-15.
+INFO: Got 1207 tweets (86 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa49avnDBbKoP-FHBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20portofsandiego%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKSVu6264x4WgoC2tbHa2YIgEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 86 tweets for from%3A%20portofsandiego%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 1293 tweets (86 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKn54Y2bqhsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 93 tweets for from%3A%20portofsandiego%20since%3A2009-05-02%20until%3A2009-09-08.
+INFO: Got 1386 tweets (93 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK_VpbTltx0WhICjnfqKytseEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjxsNyt0hwWgsCn1fG79LYdEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLbp7omY4x4WgoC2tbHa2YIgEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 82 tweets for from%3A%20portofsandiego%20since%3A2018-11-08%20until%3A2019-03-17.
+INFO: Got 1468 tweets (82 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJH4x5TopgIWgICR2PfJ-MIDEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 88 tweets for from%3A%20portofsandiego%20since%3A2011-06-14%20until%3A2011-10-21.
+INFO: Got 1556 tweets (88 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 72 tweets for from%3A%20portofsandiego%20since%3A2019-03-17%20until%3A2019-07-24.
+INFO: Got 1628 tweets (72 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLr116O77hoWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK6Jw9mhyxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 90 tweets for from%3A%20portofsandiego%20since%3A2018-02-24%20until%3A2018-07-03.
+INFO: Got 1718 tweets (90 new).
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKrFpMKYjiAWgoCj2b2wtKUhEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL3VitOJxBwWgsCn1fG79LYdEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKf1t_GFhiAWgoCj2b2wtKUhEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 91 tweets for from%3A%20portofsandiego%20since%3A2019-07-24%20until%3A2019-11-30.
+INFO: Got 1809 tweets (91 new).
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK31qpX6yhgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKrNronWqxwWgsCn1fG79LYdEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHdstuIyhgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnxouL8lBwWgsCn1fG79LYdEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 130 tweets for from%3A%20portofsandiego%20since%3A2018-07-03%20until%3A2018-11-08.
+INFO: Got 1939 tweets (130 new).
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKHV4sTuyBgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKDF0ZH6xxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGd7oXIxxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKvZq7_CxxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKCN-5OaxhgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwK7l5qufxRgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKKljLfqxBgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK25qsznwxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK3Rsbn2whgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKahx97OwhgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK2NqdSFuRgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKKFqNKSuBgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Got 0 tweets for from%3A%20portofsandiego%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1939 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20portofsandiego%20since%3A2007-07-29%20until%3A2007-12-04.
+INFO: Got 1939 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK7JuKPTthgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Got 0 tweets for from%3A%20portofsandiego%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1939 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20portofsandiego%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1939 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20portofsandiego%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 1939 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20portofsandiego%20since%3A2007-12-04%20until%3A2008-04-11.
+INFO: Got 1939 tweets (0 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHh7df1tBgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Got 0 tweets for from%3A%20portofsandiego%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1939 tweets (0 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK6xht7VsxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKH9pPWrshgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKDV7_fwsBgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKvlxobsrxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKLJ_dujrxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKCNipGnrhgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK6BkojSrRgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKC9oM6MrRgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK6ByKXfrBgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKL93ODJrBgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK7Fsp6-rBgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKahserQoxgWgICv4YC5-7wZEjUAFQAlAFUAFQAA&q=from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 656 tweets for from%3A%20portofsandiego%20since%3A2017-06-11%20until%3A2017-10-18.
+INFO: Got 2595 tweets (656 new).

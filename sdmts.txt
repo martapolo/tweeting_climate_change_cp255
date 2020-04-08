@@ -1,0 +1,1709 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: sdmts since:2006-03-01 until:2006-07-07', 'from: sdmts since:2006-07-07 until:2006-11-13', 'from: sdmts since:2006-11-13 until:2007-03-22', 'from: sdmts since:2007-03-22 until:2007-07-29', 'from: sdmts since:2007-07-29 until:2007-12-04', 'from: sdmts since:2007-12-04 until:2008-04-11', 'from: sdmts since:2008-04-11 until:2008-08-18', 'from: sdmts since:2008-08-18 until:2008-12-25', 'from: sdmts since:2008-12-25 until:2009-05-02', 'from: sdmts since:2009-05-02 until:2009-09-08', 'from: sdmts since:2009-09-08 until:2010-01-15', 'from: sdmts since:2010-01-15 until:2010-05-24', 'from: sdmts since:2010-05-24 until:2010-09-30', 'from: sdmts since:2010-09-30 until:2011-02-05', 'from: sdmts since:2011-02-05 until:2011-06-14', 'from: sdmts since:2011-06-14 until:2011-10-21', 'from: sdmts since:2011-10-21 until:2012-02-27', 'from: sdmts since:2012-02-27 until:2012-07-04', 'from: sdmts since:2012-07-04 until:2012-11-10', 'from: sdmts since:2012-11-10 until:2013-03-19', 'from: sdmts since:2013-03-19 until:2013-07-26', 'from: sdmts since:2013-07-26 until:2013-12-02', 'from: sdmts since:2013-12-02 until:2014-04-09', 'from: sdmts since:2014-04-09 until:2014-08-16', 'from: sdmts since:2014-08-16 until:2014-12-23', 'from: sdmts since:2014-12-23 until:2015-05-01', 'from: sdmts since:2015-05-01 until:2015-09-06', 'from: sdmts since:2015-09-06 until:2016-01-13', 'from: sdmts since:2016-01-13 until:2016-05-21', 'from: sdmts since:2016-05-21 until:2016-09-27', 'from: sdmts since:2016-09-27 until:2017-02-03', 'from: sdmts since:2017-02-03 until:2017-06-11', 'from: sdmts since:2017-06-11 until:2017-10-18', 'from: sdmts since:2017-10-18 until:2018-02-24', 'from: sdmts since:2018-02-24 until:2018-07-03', 'from: sdmts since:2018-07-03 until:2018-11-08', 'from: sdmts since:2018-11-08 until:2019-03-17', 'from: sdmts since:2019-03-17 until:2019-07-24', 'from: sdmts since:2019-07-24 until:2019-11-30', 'from: sdmts since:2019-11-30 until:2020-04-07']
+INFO: Querying from: sdmts since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2007-07-29 until:2007-12-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2007-12-04 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2008-04-11 until:2008-08-18
+INFO: Querying from: sdmts since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2008-12-25 until:2009-05-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2009-05-02 until:2009-09-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2009-09-08 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2010-09-30 until:2011-02-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2011-02-05 until:2011-06-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2011-06-14 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2012-02-27 until:2012-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2012-07-04 until:2012-11-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2012-11-10 until:2013-03-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2013-03-19 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2013-12-02 until:2014-04-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2014-04-09 until:2014-08-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2014-08-16 until:2014-12-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2014-12-23 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2015-05-01 until:2015-09-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2015-09-06 until:2016-01-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2016-01-13 until:2016-05-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2016-05-21 until:2016-09-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2016-09-27 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2017-02-03 until:2017-06-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2017-06-11 until:2017-10-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2017-10-18 until:2018-02-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2018-02-24 until:2018-07-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2018-07-03 until:2018-11-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2018-11-08 until:2019-03-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2019-03-17 until:2019-07-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2019-07-24 until:2019-11-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: sdmts since:2019-11-30 until:2020-04-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1004605924-1073128212&q=from%3A%20sdmts%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-524315068993765378-541347184378413056&q=from%3A%20sdmts%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1465297749-1671208811&q=from%3A%20sdmts%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-21931577361-25894392659&q=from%3A%20sdmts%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-11450439402-14382641270&q=from%3A%20sdmts%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-205678348922388481-220184867231633408&q=from%3A%20sdmts%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2240252527-3543132500&q=from%3A%20sdmts%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-11941832132923394-33305744547921920&q=from%3A%20sdmts%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-385994619453853696-403696301897826304&q=from%3A%20sdmts%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-106856404345823233-127016816466870272&q=from%3A%20sdmts%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-59030921915019264-79250333016145920&q=from%3A%20sdmts%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-730264299692642305-733673969312751616&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-6605405073-7550968072&q=from%3A%20sdmts%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-433112154015690752-452933760414007296&q=from%3A%20sdmts%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-279589819334676483-313394871442485248&q=from%3A%20sdmts%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-249243019528781824-265976042748002304&q=from%3A%20sdmts%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-344203121653862401-360474175737053184&q=from%3A%20sdmts%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-775708586374668288-780227679173746688&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-677965407274139648-686994040282169345&q=from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-866066122910699521-873229388715769858&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-822824202206003200-827191579328655362&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-959131932482088960-966830843380490240&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-588049415069421568-593860191831076864&q=from%3A%20sdmts%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1055844703915061253-1060199308006350848&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-912059329603424256-918981697848336384&q=from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-144578727014170625-173516105216831488&q=from%3A%20sdmts%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-490585803592957953-500427083869609987&q=from%3A%20sdmts%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-630809615110832132-639465480671985664&q=from%3A%20sdmts%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1102978154086297602-1106804578027069441&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1194089448214016000-1200170143977881600&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1150905556384641024-1153762109827637249&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1009532437385265152-1013910961583882240&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1244770610359595010-1247310894410780673&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbIx4i-BxaojLX_BxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20sdmts%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 32 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbU2_6nVRbswa2UaxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaqrbX1ChbW_eS5DBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaiwMqzowEWps3o9sABEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJDc3_Hexg4WgIDEkKyZoIMPEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbeqbzYEBaopf-yGhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBai7rObMRaQhJWhOBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwIDkjsK2KhaAgJKMvtmpdhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJG48ZPc0QEWgICSvMHwxpkCEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJKc9oOq2woWgICS_Lnpm5oLEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJHwrNXQ-wIWgICSoOTHoMMDEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKL13eC1ohQWgICzndClxK4UEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJDYy9fb2gUWgMCQxIu-oI4GEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKclc2-9QYWgICSrKfz97AHEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwJKEs92m4QcWgMCRrLS-s9kIEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJCcwuXSgQQWgMCR5M7-uegEEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKnBrrbvwxUWgICh0Ze89tMVEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKDpxPzO6BIWgoCi3ZLc2IgTEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOAs83cggwWgICShN-2kskMEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLyBm6PxhBgWhICunZTgqp4YEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJCwjcz0zg0WhoDDoIHy7_ENEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLb5-fSVqRAWgMCxxdas6L0QEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJLMy7rtxgkWgICSuMvW1IAKEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKrRk5Ch6xYWhMCh8fqW4_oWEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgKjZloCLwREWgICg2e6d698REjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6xmMikqBkWgICv9Ya_8MAZEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXt2YGhkiEWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwK2twMqOpx0WgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKedydahzR4WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGFptrCzxoWgICvmfLh7-oaEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKr55ZnKghwWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKOlr6Dr-B8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKOVzZGoxiIWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOklOrQuAcWgMCRrLS-s9kIEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20sdmts%20since%3A2012-11-10%20until%3A2013-03-19.
+INFO: Got 83 tweets (51 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbihoqCTRbswa2UaxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbylIv1CBbW_eS5DBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbisJP7DBaopf-yGhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIH4ypz4dxaAgJK8wfDGmQISNQAVACUAVQAVAAA%3D&q=from%3A%20sdmts%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb2kdGYjQEWps3o9sABEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbM0PXHKhaQhJWhOBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa0i7fL2QEWgICSjL7ZqXYSNQAVACUAVQAVAAA%3D&q=from%3A%20sdmts%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJH88vDgpwoWgICS_Lnpm5oLEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20sdmts%20since%3A2011-02-05%20until%3A2011-06-14.
+INFO: Got 140 tweets (57 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJL0u5TDmA4WgIDEkKyZoIMPEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKgrt3U2wgWgICSuMvW1IAKEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJC03KSfpwUWgMCQxIu-oI4GEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKClvaWxgBQWgICzndClxK4UEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCA_ICsxAYWgICSrKfz97AHEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJG0yaP0ywIWgICSoOTHoMMDEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaiuvLSDBaopf-yGhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKvpzOGgsxUWgICh0Ze89tMVEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaNq9-PgRAWgMCxxdas6L0QEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKYzKL5rgsWgICShN-2kskMEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHo06PR1gMWgMCR5M7-uegEEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 58 tweets for from%3A%20sdmts%20since%3A2013-03-19%20until%3A2013-07-26.
+INFO: Got 198 tweets (58 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKON6PO01BYWhMCh8fqW4_oWEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKP1u4ydnREWgICg2e6d698REjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLD5gKW25BcWhICunZTgqp4YEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMOwz9bBmw0WhoDDoIHy7_ENEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLCdnMj_0xIWgoCi3ZLc2IgTEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 60 tweets for from%3A%20sdmts%20since%3A2009-05-02%20until%3A2009-09-08.
+INFO: Got 258 tweets (60 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKiFspDQmh0WgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 58 tweets for from%3A%20sdmts%20since%3A2013-12-02%20until%3A2014-04-09.
+INFO: Got 316 tweets (58 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKv9qN-qiBkWgICv9Ya_8MAZEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKqFjIHAvRoWgICvmfLh7-oaEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPBkNutvx4WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKrx5r2uhyEWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJCsvaijywMWgMCR5M7-uegEEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgKLh0sGh3hsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHcpLfLkgoWgICS_Lnpm5oLEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKilvYXs3h8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 61 tweets for from%3A%20sdmts%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 377 tweets (61 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKjd5J-ssSIWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 63 tweets for from%3A%20sdmts%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 440 tweets (63 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaun8ftwQEWgICSjL7ZqXYSNQAVACUAVQAVAAA%3D&q=from%3A%20sdmts%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 74 tweets for from%3A%20sdmts%20since%3A2010-09-30%20until%3A2011-02-05.
+INFO: Got 514 tweets (74 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGglPP_8wQWgMCQxIu-oI4GEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbwyd-BbRamzej2wAESNQAVACUAVQAVAAA%3D&q=from%3A%20sdmts%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJOA24yq9Q0WgIDEkKyZoIMPEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbE0dGdQxbswa2UaxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20sdmts%20since%3A2012-02-27%20until%3A2012-07-04.
+INFO: Got 589 tweets (75 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 78 tweets for from%3A%20sdmts%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 667 tweets (78 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHI3JPungIWgICSoOTHoMMDEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaoq9SwCBbW_eS5DBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 74 tweets for from%3A%20sdmts%20since%3A2014-08-16%20until%3A2014-12-23.
+INFO: Got 741 tweets (74 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbm-uK8JRaQhJWhOBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20sdmts%20since%3A2011-06-14%20until%3A2011-10-21.
+INFO: Got 816 tweets (75 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJG0xrOomgYWgICSrKfz97AHEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDltOGBkxUWgICh0Ze89tMVEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPI1O741g8WgMCxxdas6L0QEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKLll6yr5BMWgICzndClxK4UEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLuhvpjGyRcWhICunZTgqp4YEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKO516TZjREWgICg2e6d698REjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLiVv9KesBYWhMCh8fqW4_oWEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMHkw5698gwWhoDDoIHy7_ENEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKK5zvXXiB0WgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKrtuoGEoxoWgICvmfLh7-oaEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaVgtH44hgWgICv9Ya_8MAZEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDlk5jXshIWgoCi3ZLc2IgTEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjRkLvWsh4WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKeR7PimgiEWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL7p6b-8wxsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKAyKfhjgYWgICSrKfz97AHEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjtqp-uoiIWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKH1hK3Zzx8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBao4_mFCBbW_eS5DBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 83 tweets for from%3A%20sdmts%20since%3A2012-07-04%20until%3A2012-11-10.
+INFO: Got 899 tweets (83 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 87 tweets for from%3A%20sdmts%20since%3A2008-12-25%20until%3A2009-05-02.
+INFO: Got 986 tweets (87 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbO0PqQPhbswa2UaxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCUm6PT0wwWhoDDoIHy7_ENEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 88 tweets for from%3A%20sdmts%20since%3A2014-04-09%20until%3A2014-08-16.
+INFO: Got 1074 tweets (88 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaI1I3sHBaQhJWhOBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 98 tweets for from%3A%20sdmts%20since%3A2009-09-08%20until%3A2010-01-15.
+INFO: Got 1172 tweets (98 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMLU4o-nmQ8WgMCxxdas6L0QEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKXZ8qDc9hQWgICh0Ze89tMVEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfhutC0wRcWhICunZTgqp4YEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 99 tweets for from%3A%20sdmts%20since%3A2014-12-23%20until%3A2015-05-01.
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKOtppGo9RAWgICg2e6d698REjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Got 1271 tweets (99 new).
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbYu5COOhbswa2UaxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdmts%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDhsNv2xxMWgICzndClxK4UEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKjdqIGfihIWgoCi3ZLc2IgTEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwKGpmOeUhBYWhMCh8fqW4_oWEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 106 tweets for from%3A%20sdmts%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 1377 tweets (106 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK-xxJ3SgBoWgICvmfLh7-oaEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzB-LzvyxgWgICv9Ya_8MAZEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfxiqSg_xwWgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKKJ_ZrK-CAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK2d18edox4WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKellZzdkyIWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgK_J6MvCyx8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKb5hYSGuBsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKGduOTxvhAWgICg2e6d698REjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 117 tweets for from%3A%20sdmts%20since%3A2015-05-01%20until%3A2015-09-06.
+INFO: Got 1494 tweets (117 new).
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKuticia4RQWgICh0Ze89tMVEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwK2Nup3RqxcWhICunZTgqp4YEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKmlwN3HtRMWgICzndClxK4UEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbF-e_u7xwWgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnB88Xb8xUWhMCh8fqW4_oWEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKKh0aj8thgWgICv9Ya_8MAZEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKCd3vbu6hEWgoCi3ZLc2IgTEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK7lkZ6d-RkWgICvmfLh7-oaEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKfVsu_1shsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKCts4ym6hEWgoCi3ZLc2IgTEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjJwpTqnB4WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKedj7Ti7SAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 121 tweets for from%3A%20sdmts%20since%3A2015-09-06%20until%3A2016-01-13.
+INFO: Got 1615 tweets (121 new).
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKb14enTvR8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKOhhOSx_yEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPBy-vmyRQWgICh0Ze89tMVEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqBrabkgxcWhICunZTgqp4YEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbV7L6pixMWgICzndClxK4UEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKvZoImNpRgWgICv9Ya_8MAZEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLPhvcGbihMWgICzndClxK4UEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLz9mp2x4xUWhMCh8fqW4_oWEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 132 tweets for from%3A%20sdmts%20since%3A2017-06-11%20until%3A2017-10-18.
+INFO: Got 1747 tweets (132 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 139 tweets for from%3A%20sdmts%20since%3A2016-01-13%20until%3A2016-05-21.
+INFO: Got 1886 tweets (139 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKXpz_adgRcWhICunZTgqp4YEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK7Z1OnD1xkWgICvmfLh7-oaEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 141 tweets for from%3A%20sdmts%20since%3A2017-02-03%20until%3A2017-06-11.
+INFO: Got 2027 tweets (141 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfl-qKj3xwWgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLbJqeX8lBsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwKeVw6G2iR4WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKa97v_c5yAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKeN-ZHZsB8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLLp9djEsRQWgICh0Ze89tMVEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKKVzLKp8SEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKCNo7HxyRkWgICvmfLh7-oaEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKTxp-eA1hUWhMCh8fqW4_oWEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 153 tweets for from%3A%20sdmts%20since%3A2016-05-21%20until%3A2016-09-27.
+INFO: Got 2180 tweets (153 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 141 tweets for from%3A%20sdmts%20since%3A2017-10-18%20until%3A2018-02-24.
+INFO: Got 2321 tweets (141 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 149 tweets for from%3A%20sdmts%20since%3A2016-09-27%20until%3A2017-02-03.
+INFO: Got 2470 tweets (149 new).
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_1kKuyzRwWgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK21r_mTgxsWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPxsZX79R0WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbxtePC3iAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKGhrN2HoR8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKe53Ijl5CEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK_174-C7RoWgICosbmpkZIcEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 165 tweets for from%3A%20sdmts%20since%3A2018-02-24%20until%3A2018-07-03.
+INFO: Got 2635 tweets (165 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKe5-pSgsxwWgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLX1k7rb3h0WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKj1lty92SAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaNtYKYlx8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKO9h4Tx2SEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKiZ6O3lphwWgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjFmMCi0x0WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKiN7dyozyAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKPd0NG-kR8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKahjYKN0SEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKb5rLabkxwWgICrjenpyrYdEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 190 tweets for from%3A%20sdmts%20since%3A2018-07-03%20until%3A2018-11-08.
+INFO: Got 2825 tweets (190 new).
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKiFsLOUuR0WgoCj0cm5lNweEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 201 tweets for from%3A%20sdmts%20since%3A2018-11-08%20until%3A2019-03-17.
+INFO: Got 3026 tweets (201 new).
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKe1qNrywSAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLSRkYuOgh8WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKrRosLKvCEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKCpk9GKsCAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfJ4cfS7R4WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPNlduntyEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgL3F3qW9oCAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwKah2YPv4R4WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKb9pNnFsCEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfdwN-x3x4WgoCn-dSh_oIgEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHF5MnvkyAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 237 tweets for from%3A%20sdmts%20since%3A2019-03-17%20until%3A2019-07-24.
+INFO: Got 3263 tweets (237 new).
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKCNrZmkqiEWgsCincypq88iEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 235 tweets for from%3A%20sdmts%20since%3A2019-11-30%20until%3A2020-04-07.
+INFO: Got 3498 tweets (235 new).
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKD56ZidiCAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPtqviuhCAWgICm3eOY7qchEjUAFQAlAFUAFQAA&q=from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 275 tweets for from%3A%20sdmts%20since%3A2019-07-24%20until%3A2019-11-30.
+INFO: Got 3773 tweets (275 new).
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Got 0 tweets for from%3A%20sdmts%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 3773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdmts%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 3773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdmts%20since%3A2007-12-04%20until%3A2008-04-11.
+INFO: Got 3773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdmts%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 3773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdmts%20since%3A2007-07-29%20until%3A2007-12-04.
+INFO: Got 3773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdmts%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 3773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdmts%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 3773 tweets (0 new).

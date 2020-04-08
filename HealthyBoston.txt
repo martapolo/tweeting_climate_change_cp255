@@ -1,0 +1,1812 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows NT 5.2; RW; rv:7.0a1) Gecko/20091211 SeaMonkey/9.23a1pre'}
+INFO: queries: ['from: HealthyBoston since:2006-03-01 until:2006-07-07', 'from: HealthyBoston since:2006-07-07 until:2006-11-13', 'from: HealthyBoston since:2006-11-13 until:2007-03-22', 'from: HealthyBoston since:2007-03-22 until:2007-07-29', 'from: HealthyBoston since:2007-07-29 until:2007-12-05', 'from: HealthyBoston since:2007-12-05 until:2008-04-11', 'from: HealthyBoston since:2008-04-11 until:2008-08-18', 'from: HealthyBoston since:2008-08-18 until:2008-12-25', 'from: HealthyBoston since:2008-12-25 until:2009-05-03', 'from: HealthyBoston since:2009-05-03 until:2009-09-09', 'from: HealthyBoston since:2009-09-09 until:2010-01-15', 'from: HealthyBoston since:2010-01-15 until:2010-05-24', 'from: HealthyBoston since:2010-05-24 until:2010-09-30', 'from: HealthyBoston since:2010-09-30 until:2011-02-06', 'from: HealthyBoston since:2011-02-06 until:2011-06-15', 'from: HealthyBoston since:2011-06-15 until:2011-10-21', 'from: HealthyBoston since:2011-10-21 until:2012-02-27', 'from: HealthyBoston since:2012-02-27 until:2012-07-05', 'from: HealthyBoston since:2012-07-05 until:2012-11-11', 'from: HealthyBoston since:2012-11-11 until:2013-03-20', 'from: HealthyBoston since:2013-03-20 until:2013-07-26', 'from: HealthyBoston since:2013-07-26 until:2013-12-02', 'from: HealthyBoston since:2013-12-02 until:2014-04-10', 'from: HealthyBoston since:2014-04-10 until:2014-08-17', 'from: HealthyBoston since:2014-08-17 until:2014-12-24', 'from: HealthyBoston since:2014-12-24 until:2015-05-01', 'from: HealthyBoston since:2015-05-01 until:2015-09-07', 'from: HealthyBoston since:2015-09-07 until:2016-01-14', 'from: HealthyBoston since:2016-01-14 until:2016-05-22', 'from: HealthyBoston since:2016-05-22 until:2016-09-28', 'from: HealthyBoston since:2016-09-28 until:2017-02-03', 'from: HealthyBoston since:2017-02-03 until:2017-06-12', 'from: HealthyBoston since:2017-06-12 until:2017-10-19', 'from: HealthyBoston since:2017-10-19 until:2018-02-25', 'from: HealthyBoston since:2018-02-25 until:2018-07-04', 'from: HealthyBoston since:2018-07-04 until:2018-11-09', 'from: HealthyBoston since:2018-11-09 until:2019-03-18', 'from: HealthyBoston since:2019-03-18 until:2019-07-25', 'from: HealthyBoston since:2019-07-25 until:2019-12-01', 'from: HealthyBoston since:2019-12-01 until:2020-04-08']
+INFO: Querying from: HealthyBoston since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2007-12-05 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2008-12-25 until:2009-05-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2009-05-03 until:2009-09-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2009-09-09 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2010-09-30 until:2011-02-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2011-02-06 until:2011-06-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2011-06-15 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2012-02-27 until:2012-07-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2012-07-05 until:2012-11-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2012-11-11 until:2013-03-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2013-03-20 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2013-12-02 until:2014-04-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2014-04-10 until:2014-08-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2014-08-17 until:2014-12-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2014-12-24 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2015-05-01 until:2015-09-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2016-01-14 until:2016-05-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2015-09-07 until:2016-01-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2016-05-22 until:2016-09-28
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2016-09-28 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2017-02-03 until:2017-06-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2017-06-12 until:2017-10-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2017-10-19 until:2018-02-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2018-02-25 until:2018-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2018-07-04 until:2018-11-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2018-11-09 until:2019-03-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2019-03-18 until:2019-07-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2019-07-25 until:2019-12-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: HealthyBoston since:2019-12-01 until:2020-04-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1631819916-1648583376&q=from%3A%20HealthyBoston%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaY4pyUDBagi5ukDBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-29503550420-22684445010038784&q=from%3A%20HealthyBoston%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20HealthyBoston%20since%3A2008-12-25%20until%3A2009-05-03.
+INFO: Got 6 tweets (6 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15666855704-24484197980&q=from%3A%20HealthyBoston%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaoz-Po2wEWgMCA7L3Yy1ASNQAVACUAVQAVAAA%3D&q=from%3A%20HealthyBoston%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20HealthyBoston%20since%3A2010-09-30%20until%3A2011-02-06.
+INFO: Got 18 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8510220922-14322473472&q=from%3A%20HealthyBoston%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-3449388239-3740792236&q=from%3A%20HealthyBoston%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-5805132140-7723599659&q=from%3A%20HealthyBoston%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-77723587854872576-80714422888300544&q=from%3A%20HealthyBoston%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-350309195645595649-360428956870131713&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-201107963803467776-218383359750045696&q=from%3A%20HealthyBoston%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-158670420663484416-169886946594783233&q=from%3A%20HealthyBoston%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-111129426791641088-124160191456485376&q=from%3A%20HealthyBoston%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-535551949710835713-545315151235518464&q=from%3A%20HealthyBoston%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-492723797121056768-500022639378059264&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-864541314855165952-873933104938962945&q=from%3A%20HealthyBoston%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-401395287429615616-407193135543234560&q=from%3A%20HealthyBoston%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-579267349796294656-593433528257409024&q=from%3A%20HealthyBoston%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-903614761509761024-920680935330406403&q=from%3A%20HealthyBoston%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-667076769514696704-687360341408362497&q=from%3A%20HealthyBoston%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-306471456315940864-312571712938070016&q=from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-806608089235542020-826530009854705664&q=from%3A%20HealthyBoston%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-447394232312270848-451807884595441666&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1148578055310467072-1154177900054286341&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-250290951577296896-263460249636319233&q=from%3A%20HealthyBoston%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-726092886236913664-733688084622147584&q=from%3A%20HealthyBoston%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-632651587798876160-640556487299997696&q=from%3A%20HealthyBoston%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-960845818289905664-967035388438212608&q=from%3A%20HealthyBoston%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1096061990454345730-1105151399090896896&q=from%3A%20HealthyBoston%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1002004796197556225-1013146448429342720&q=from%3A%20HealthyBoston%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1192170323178852354-1199364932485238784&q=from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1055102687786778629-1059765706730934273&q=from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-773531424171307012-780781594751733761&q=from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1247184862915825665-1247651926159884288&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaw_InddBa42fm1tgESNQAVACUAVQAVAAA%3D&q=from%3A%20HealthyBoston%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20HealthyBoston%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 46 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbYpZqgKxbWnObFORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBae88vZGRbY1r_vGxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb0qf2zPxaA6PzaahI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHMn8yQlAIWgICQiOHV4J4CEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCc5LiFkgsWgMDB8Pr_0aYLEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJGA8JbG3AkWgoCS0MCOwIAKEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLAhfraswQWgMCRyL3wmN4EEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCAlai9ygUWgICQ7Mag7YcGEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGA_-fnigMWgICRsKnCjbkDEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMKUperU7g4WgMDAgLXPrJEPEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWZ0bWkihkWhoC_3dib9cYZEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJH4zYrnwAgWgMCSyKOUvdYIEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLjpvKX8iRAWgMC3mcupprwQEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXNs7L3wRIWgsCx5dal_4kTEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJO065Kb-QYWgsCRgPDs_6cHEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMK82uvA1g0WgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwKmF7K6RvBUWgsC4paiu8tUVEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbVjNHQxxEWgIC1weeu2-MREjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMC44qu7tQwWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLvZ2e-7_xcWgsC61erh6qAYEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwLr9kvLSsRYWgIC4mcaqtvgWEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLf5_OnI8B8WisC8xeuru4QgEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLfhwejMkxQWgIC4vZ_byq4UEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBak9P6KOhaA6PzaahI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLexyovO1RoWgMC70f3jzOsaEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLaN16T_tR4WgIC23fLVpNYeEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL7JtIPr5xsWgICjwfbUtY8cEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgLqxvZO9pB0WgsC07fPShbUdEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLSN9qW4iyEWgMC-zaaDgKUhEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLy1zIHyziIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20HealthyBoston%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 88 tweets (42 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaE_YbLDBbY1r_vGxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20HealthyBoston%20since%3A2009-05-03%20until%3A2009-09-09.
+INFO: Got 145 tweets (57 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbsrJ3eIhbWnObFORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHw66eH_AEWgICQiOHV4J4CEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDsgeDlsAIWgICRsKnCjbkDEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHw68q_vQkWgoCS0MCOwIAKEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJHUucHs9goWgMDB8Pr_0aYLEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLUmtK2owUWgICQ7Mag7YcGEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGQkc-7zAMWgMCRyL3wmN4EEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgMLMroX3wg4WgMDAgLXPrJEPEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLj15veF8g8WgMC3mcupprwQEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLOt857YnhUWgsC4paiu8tUVEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJCon523oAgWgMCSyKOUvdYIEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLHJw9GppBIWgsCx5dal_4kTEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJGwrZzxngYWgsCRgPDs_6cHEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMDU7vn-yw0WgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLXhsq-10BgWhoC_3dib9cYZEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMS078_eqAwWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCp5rfP1BMWgIC4vZ_byq4UEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL39pYfQ0hcWgsC61erh6qAYEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKOZyMGelBEWgIC1weeu2-MREjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLvt4un--RUWgIC4mcaqtvgWEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL31tpOr1B8WisC8xeuru4QgEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJHYnoP9ygMWgMCRyL3wmN4EEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgJG05M_QmAYWgsCRgPDs_6cHEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLzB4qbPvBsWgICjwfbUtY8cEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLz1z5K6iB0WgsC07fPShbUdEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 61 tweets for from%3A%20HealthyBoston%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 206 tweets (61 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCF3KWXzCIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLXVqbLp7iAWgMC-zaaDgKUhEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 62 tweets for from%3A%20HealthyBoston%20since%3A2012-07-05%20until%3A2012-11-11.
+INFO: Got 268 tweets (62 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLTF4rGFlx4WgIC23fLVpNYeEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTR4bzspBoWgMC70f3jzOsaEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaImaycHhbWnObFORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLs1dSk7AEWgICQiOHV4J4CEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJLQzNfz6gQWgICQ7Mag7YcGEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGMqYiPnwIWgICRsKnCjbkDEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 74 tweets for from%3A%20HealthyBoston%20since%3A2012-02-27%20until%3A2012-07-05.
+INFO: Got 342 tweets (74 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 80 tweets for from%3A%20HealthyBoston%20since%3A2011-06-15%20until%3A2011-10-21.
+INFO: Got 422 tweets (80 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJKQg5yUrgkWgoCS0MCOwIAKEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyV9_mg1xUWgIC4mcaqtvgWEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMC0-byV6goWgMDB8Pr_0aYLEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMDUxtyxpw4WgMDAgLXPrJEPEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 74 tweets for from%3A%20HealthyBoston%20since%3A2016-09-28%20until%3A2017-02-03.
+INFO: Got 496 tweets (74 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJO8iuqPgwgWgMCSyKOUvdYIEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgMCQwpGKwg0WgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLP91P3q6BEWgsCx5dal_4kTEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKGFyZXxrhgWhoC_3dib9cYZEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMSAuZbtow8WgMC3mcupprwQEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMLg99-VmQwWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyZrMzQ9hQWgsC4paiu8tUVEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLap7pKq3xAWgIC1weeu2-MREjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLjho9n7rxcWgsC61erh6qAYEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLbBxo-DrhMWgIC4vZ_byq4UEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOpciZHRbWnObFORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HealthyBoston%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 90 tweets for from%3A%20HealthyBoston%20since%3A2009-09-09%20until%3A2010-01-15.
+INFO: Got 586 tweets (90 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLzZ_tvHtR8WisC8xeuru4QgEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL2ZsZ7BySAWgMC-zaaDgKUhEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKHp0u3noRsWgICjwfbUtY8cEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLrd7526ohgWhoC_3dib9cYZEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMD46_fBmw8WgMC3mcupprwQEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLrF9d74-xkWgMC70f3jzOsaEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLzlwN6-9xwWgsC07fPShbUdEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWRw4zp5BEWgsCx5dal_4kTEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 84 tweets for from%3A%20HealthyBoston%20since%3A2014-12-24%20until%3A2015-05-01.
+INFO: Got 670 tweets (84 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 76 tweets for from%3A%20HealthyBoston%20since%3A2017-06-12%20until%3A2017-10-19.
+INFO: Got 746 tweets (76 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLSRgp7LyCIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 85 tweets for from%3A%20HealthyBoston%20since%3A2015-09-07%20until%3A2016-01-14.
+INFO: Got 831 tweets (85 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLXtgMuLjh4WgIC23fLVpNYeEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJL4vdjFkgEWgICQiOHV4J4CEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 99 tweets for from%3A%20HealthyBoston%20since%3A2011-02-06%20until%3A2011-06-15.
+INFO: Got 930 tweets (99 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLDRsPn8kRMWgIC4vZ_byq4UEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 90 tweets for from%3A%20HealthyBoston%20since%3A2016-01-14%20until%3A2016-05-22.
+INFO: Got 1020 tweets (90 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJO8kZSkkwkWgoCS0MCOwIAKEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDAt8LnoAoWgMDB8Pr_0aYLEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJP0_6Cm5QcWgMCSyKOUvdYIEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMGokIW4sg0WgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMKs0O2CgQ4WgMDAgLXPrJEPEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDg8Y-mhwwWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLbVse64yRQWgsC4paiu8tUVEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLChv6KtxRAWgIC1weeu2-MREjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLPl0M-dgBcWgsC61erh6qAYEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKmprrDuvhAWgIC1weeu2-MREjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 100 tweets for from%3A%20HealthyBoston%20since%3A2015-05-01%20until%3A2015-09-07.
+INFO: Got 1120 tweets (100 new).
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLj1s_3s-xYWgsC61erh6qAYEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 96 tweets for from%3A%20HealthyBoston%20since%3A2017-02-03%20until%3A2017-06-12.
+INFO: Got 1216 tweets (96 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-p2qyynh8WisC8xeuru4QgEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLvVoYyihBsWgICjwfbUtY8cEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgLeBwIa00hkWgMC70f3jzOsaEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLflwqqNryAWgMC-zaaDgKUhEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLbNjd3MwRwWgsC07fPShbUdEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJDozZ_mhQoWgMDB8Pr_0aYLEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzhh5XmxSIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgLyF_Yimxh0WgIC23fLVpNYeEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 108 tweets for from%3A%20HealthyBoston%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 1324 tweets (108 new).
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJDkq7n_9w0WgMDAgLXPrJEPEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 110 tweets for from%3A%20HealthyBoston%20since%3A2014-08-17%20until%3A2014-12-24.
+INFO: Got 1434 tweets (110 new).
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCI6Ku7hwkWgoCS0MCOwIAKEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLbhm8CoyRkWgMC70f3jzOsaEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLC1-Iz38BoWgICjwfbUtY8cEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 106 tweets for from%3A%20HealthyBoston%20since%3A2017-10-19%20until%3A2018-02-25.
+INFO: Got 1540 tweets (106 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 109 tweets for from%3A%20HealthyBoston%20since%3A2018-02-25%20until%3A2018-07-04.
+INFO: Got 1649 tweets (109 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKI0sbc1AcWgMCSyKOUvdYIEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMDMlpDQ9gsWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMLEs_zDkg0WgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLydnpqOuR0WgIC23fLVpNYeEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLi15ermsxQWgsC4paiu8tUVEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 106 tweets for from%3A%20HealthyBoston%20since%3A2018-11-09%20until%3A2019-03-18.
+INFO: Got 1755 tweets (106 new).
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLjJrb7SsxQWgsC4paiu8tUVEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 117 tweets for from%3A%20HealthyBoston%20since%3A2016-05-22%20until%3A2016-09-28.
+INFO: Got 1872 tweets (117 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPlzp--gx8WisC8xeuru4QgEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL21n9OvnCAWgMC-zaaDgKUhEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLDl6ZmlnBwWgsC07fPShbUdEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPMhoH-ugcWgMCSyKOUvdYIEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6Ji8_WwCIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 131 tweets for from%3A%20HealthyBoston%20since%3A2012-11-11%20until%3A2013-03-20.
+INFO: Got 2003 tweets (131 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJGMqY6e8AgWgoCS0MCOwIAKEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLe9vf6DlhwWgsC07fPShbUdEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgML47Lew2gsWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMSkktezgQ0WgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 119 tweets for from%3A%20HealthyBoston%20since%3A2018-07-04%20until%3A2018-11-09.
+INFO: Got 2122 tweets (119 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCYtuT54AgWgoCS0MCOwIAKEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 148 tweets for from%3A%20HealthyBoston%20since%3A2013-03-20%20until%3A2013-07-26.
+INFO: Got 2270 tweets (148 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLT9mb7EhiAWgMC-zaaDgKUhEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 129 tweets for from%3A%20HealthyBoston%20since%3A2019-07-25%20until%3A2019-12-01.
+INFO: Got 2399 tweets (129 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLaRhMTf8x4WisC8xeuru4QgEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLvd7bnjuyIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMCQsseAyAsWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMLgwuKZ6QwWgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLq9qsGh6R4WisC8xeuru4QgEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOwL2FqpfntiIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMTUqPeRuwsWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLWRrd6Y3x4WisC8xeuru4QgEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMDMkpOt3AwWgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 164 tweets for from%3A%20HealthyBoston%20since%3A2019-03-18%20until%3A2019-07-25.
+INFO: Got 2563 tweets (164 new).
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwMH4quTuzQwWgMDC_J78t_ANEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 194 tweets for from%3A%20HealthyBoston%20since%3A2014-04-10%20until%3A2014-08-17.
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Got 2757 tweets (194 new).
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMLssou1swsWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLSRntbSsSIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJO87PzOqgsWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLzhq4npriIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMHc7umIpwsWhMDBwJK4ksUMEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 227 tweets for from%3A%20HealthyBoston%20since%3A2013-12-02%20until%3A2014-04-10.
+INFO: Got 2984 tweets (227 new).
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKb9pYHkrCIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWxmNmiqyIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCtp6m6pyIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLeh9paAoSIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL3hgM7MgCIWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKqhtK3E5SEWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLv13cjQxyEWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Got 0 tweets for from%3A%20HealthyBoston%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 2984 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Got 0 tweets for from%3A%20HealthyBoston%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 2984 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HealthyBoston%20since%3A2007-12-05%20until%3A2008-04-11.
+INFO: Got 2984 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HealthyBoston%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 2984 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HealthyBoston%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 2984 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HealthyBoston%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 2984 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HealthyBoston%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 2984 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HealthyBoston%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 2984 tweets (0 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLX58N3SrCEWgIC84aC0xtAiEjUAFQAlAFUAFQAA&q=from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 335 tweets for from%3A%20HealthyBoston%20since%3A2019-12-01%20until%3A2020-04-08.
+INFO: Got 3319 tweets (335 new).
