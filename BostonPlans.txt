@@ -1,0 +1,1849 @@
+INFO: {'User-Agent': 'Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16'}
+INFO: queries: ['from: BostonPlans since:2006-03-01 until:2006-07-07', 'from: BostonPlans since:2006-07-07 until:2006-11-13', 'from: BostonPlans since:2006-11-13 until:2007-03-22', 'from: BostonPlans since:2007-03-22 until:2007-07-29', 'from: BostonPlans since:2007-07-29 until:2007-12-05', 'from: BostonPlans since:2007-12-05 until:2008-04-11', 'from: BostonPlans since:2008-04-11 until:2008-08-18', 'from: BostonPlans since:2008-08-18 until:2008-12-25', 'from: BostonPlans since:2008-12-25 until:2009-05-03', 'from: BostonPlans since:2009-05-03 until:2009-09-09', 'from: BostonPlans since:2009-09-09 until:2010-01-15', 'from: BostonPlans since:2010-01-15 until:2010-05-24', 'from: BostonPlans since:2010-05-24 until:2010-09-30', 'from: BostonPlans since:2010-09-30 until:2011-02-06', 'from: BostonPlans since:2011-02-06 until:2011-06-15', 'from: BostonPlans since:2011-06-15 until:2011-10-21', 'from: BostonPlans since:2011-10-21 until:2012-02-27', 'from: BostonPlans since:2012-02-27 until:2012-07-05', 'from: BostonPlans since:2012-07-05 until:2012-11-11', 'from: BostonPlans since:2012-11-11 until:2013-03-20', 'from: BostonPlans since:2013-03-20 until:2013-07-26', 'from: BostonPlans since:2013-07-26 until:2013-12-02', 'from: BostonPlans since:2013-12-02 until:2014-04-10', 'from: BostonPlans since:2014-04-10 until:2014-08-17', 'from: BostonPlans since:2014-08-17 until:2014-12-24', 'from: BostonPlans since:2014-12-24 until:2015-05-01', 'from: BostonPlans since:2015-05-01 until:2015-09-07', 'from: BostonPlans since:2015-09-07 until:2016-01-14', 'from: BostonPlans since:2016-01-14 until:2016-05-22', 'from: BostonPlans since:2016-05-22 until:2016-09-28', 'from: BostonPlans since:2016-09-28 until:2017-02-03', 'from: BostonPlans since:2017-02-03 until:2017-06-12', 'from: BostonPlans since:2017-06-12 until:2017-10-19', 'from: BostonPlans since:2017-10-19 until:2018-02-25', 'from: BostonPlans since:2018-02-25 until:2018-07-04', 'from: BostonPlans since:2018-07-04 until:2018-11-09', 'from: BostonPlans since:2018-11-09 until:2019-03-18', 'from: BostonPlans since:2019-03-18 until:2019-07-25', 'from: BostonPlans since:2019-07-25 until:2019-12-01', 'from: BostonPlans since:2019-12-01 until:2020-04-08']
+INFO: Querying from: BostonPlans since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2007-12-05 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2008-12-25 until:2009-05-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2009-05-03 until:2009-09-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2009-09-09 until:2010-01-15
+INFO: Querying from: BostonPlans since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2010-09-30 until:2011-02-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2011-02-06 until:2011-06-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2011-06-15 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2012-02-27 until:2012-07-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2012-07-05 until:2012-11-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2012-11-11 until:2013-03-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2013-03-20 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2013-12-02 until:2014-04-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2014-04-10 until:2014-08-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2014-08-17 until:2014-12-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2014-12-24 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2015-05-01 until:2015-09-07
+INFO: Querying from: BostonPlans since:2015-09-07 until:2016-01-14
+INFO: Querying from: BostonPlans since:2016-01-14 until:2016-05-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2016-05-22 until:2016-09-28
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2016-09-28 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2017-02-03 until:2017-06-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2017-06-12 until:2017-10-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2017-10-19 until:2018-02-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2018-02-25 until:2018-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2018-07-04 until:2018-11-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2018-11-09 until:2019-03-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2019-03-18 until:2019-07-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2019-07-25 until:2019-12-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Querying from: BostonPlans since:2019-12-01 until:2020-04-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.227.147.142:37581
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2891981856-3539432981&q=from%3A%20BostonPlans%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-37178800299048960-51374774408056832&q=from%3A%20BostonPlans%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-27762781955-28169610582827008&q=from%3A%20BostonPlans%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbAkIHGFRaq2LuvGhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20BostonPlans%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-82829465293561856-96271117626507265&q=from%3A%20BostonPlans%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-235747528241446913-261925653056720896&q=from%3A%20BostonPlans%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20BostonPlans%20since%3A2009-05-03%20until%3A2009-09-09.
+INFO: Got 4 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgICQgPuKhAEWgMCQsLnFwrYBEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-177868772252712960-215208847126695938&q=from%3A%20BostonPlans%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-4375088819-7752902425&q=from%3A%20BostonPlans%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20BostonPlans%20since%3A2011-02-06%20until%3A2011-06-15.
+INFO: Got 10 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-456920330733629440-497006162819416064&q=from%3A%20BostonPlans%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-387701226886164480-405404128018706432&q=from%3A%20BostonPlans%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGvNPszgEWgICBhJKHimQSNQAVACUAVQAVAAA%3D&q=from%3A%20BostonPlans%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-16475510876-24037319307&q=from%3A%20BostonPlans%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJH8tr2ipgIWgoCQhMmEg9YCEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Twitter returned : 'has_more_items' 
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-335017592697802752-360383633019764738&q=from%3A%20BostonPlans%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Got 10 tweets for from%3A%20BostonPlans%20since%3A2010-09-30%20until%3A2011-02-06.
+INFO: Using proxy 109.245.239.125:55311
+INFO: Got 20 tweets (10 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJDYl8jFxQYWgMCQwMz_xaIHEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20BostonPlans%20since%3A2011-06-15%20until%3A2011-10-21.
+INFO: Got 30 tweets (10 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-408728300862078976-451797145621106688&q=from%3A%20BostonPlans%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20BostonPlans%20since%3A2012-07-05%20until%3A2012-11-11.
+INFO: Got 42 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-137602313027194880-172709830014926848&q=from%3A%20BostonPlans%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-502087793162850304-546011776207187968&q=from%3A%20BostonPlans%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8381652591-14242321728&q=from%3A%20BostonPlans%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-547815231003447296-593474910011330560&q=from%3A%20BostonPlans%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-662994994773426176-687031342966558720&q=from%3A%20BostonPlans%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCsl6319wQWhMCQ2MzTyfwFEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbmurTMIBaynN_hORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20BostonPlans%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-761619342245101570-780766344992227328&q=from%3A%20BostonPlans%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20BostonPlans%20since%3A2012-02-27%20until%3A2012-07-05.
+INFO: Got 58 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-715156933188141058-733744901758844929&q=from%3A%20BostonPlans%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-598984187249430529-639836208122695680&q=from%3A%20BostonPlans%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-911286151599751168-918860799388643330&q=from%3A%20BostonPlans%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-274524824045502464-312566289157730305&q=from%3A%20BostonPlans%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1235283488967929857-1247197019741073410&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20BostonPlans%20since%3A2009-09-09%20until%3A2010-01-15.
+INFO: Got 78 tweets (20 new).
+INFO: Using proxy 109.245.239.125:55311
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1055845007847026689-1060303907526770688&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-822120352004341760-827257999387267077&q=from%3A%20BostonPlans%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-867403654457937921-873280679362142208&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-961293158679220229-966344138911354880&q=from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1149427908886302721-1154038842845884417&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMHA1qen1wwWgIDAoJme3OUNEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1101528246913564672-1107008210551140352&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMO4xo2y4QoWgMDBkIK6pKALEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1192843544660267011-1199754379856949249&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1006629726667059200-1012768438014631936&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 109.245.239.125:55311
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20BostonPlans%20since%3A2014-04-10%20until%3A2014-08-17.
+INFO: Got 100 tweets (22 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20BostonPlans%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 122 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa44aLgehaWiuOLswESNQAVACUAVQAVAAA%3D&q=from%3A%20BostonPlans%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJLkt66cpgkWhICQ0KfAq4AKEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20BostonPlans%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 148 tweets (26 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20BostonPlans%20since%3A2013-03-20%20until%3A2013-07-26.
+INFO: Got 172 tweets (24 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDE46Tu6AMWgICQtJyry-UEEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMToq46MrAsWgMDA9IbHjcUMEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20BostonPlans%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 202 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20BostonPlans%20since%3A2013-12-02%20until%3A2014-04-10.
+INFO: Got 234 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMDYgYzj9w0WgMCTwKm06ZMPEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbe-a65PhaA1cSOahI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20BostonPlans%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20BostonPlans%20since%3A2014-08-17%20until%3A2014-12-24.
+INFO: Got 268 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20BostonPlans%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 306 tweets (38 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJLomsOdmg8WgMCopamSubwQEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKj165u3sxIWgMCmsbnX6YgTEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20BostonPlans%20since%3A2014-12-24%20until%3A2015-05-01.
+INFO: Got 342 tweets (36 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLDJtbDokRUWgIC83dS269UVEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLKVotzf7BMWgoC4kbjG5K4UEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKCxu7yC0BAWgMCwuYXpk-EREjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJK077enzwcWgsCRoMnYutYIEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCtp_vEpRkWgMC2zaTVzMAZEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLrN5cHRiRgWgIC9qdWJwp4YEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLXNuvLNpCIWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLvpmNyOpx0WgIC8oaiy-rYdEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLT91obh6BYWisCg8Y6xgfsWEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLSBnMKZ1xoWgMC8qfu3kukaEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLy114a1yR4WgMC7lcaG8dweEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLTB-6XL8x8WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXl5Zmi-BsWgIC3uenhiY4cEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL7lora-jCEWgsC90Y-QsaYhEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLa52cDswhAWgMCwuYXpk-EREjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJPkz_a2uQcWgsCRoMnYutYIEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20BostonPlans%20since%3A2015-05-01%20until%3A2015-09-07.
+INFO: Got 387 tweets (45 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20BostonPlans%20since%3A2012-11-11%20until%3A2013-03-20.
+INFO: Got 434 tweets (47 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLLNkqedthQWgIC83dS269UVEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKjRzt6n_BEWgMCmsbnX6YgTEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 56 tweets for from%3A%20BostonPlans%20since%3A2016-05-22%20until%3A2016-09-28.
+INFO: Got 490 tweets (56 new).
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKORp_iDnBMWgoC4kbjG5K4UEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK2ljZO9-BgWgMC2zaTVzMAZEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyNt_DP5RcWgIC9qdWJwp4YEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLvptuTWxBYWisCg8Y6xgfsWEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLyBntymlB0WgIC8oaiy-rYdEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTZxM_-kyIWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLSpidyWth4WgMC7lcaG8dweEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL-Zv8fO3h8WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTVr6eduBoWgMC8qfu3kukaEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLTVma3FjBMWgoC4kbjG5K4UEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLupiI-q3RsWgIC3uenhiY4cEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLi94uiQ5hEWgMCmsbnX6YgTEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLTVn7Sn-iAWgsC90Y-QsaYhEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 103.220.207.242:32227
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20BostonPlans%20since%3A2016-01-14%20until%3A2016-05-22.
+INFO: Got 556 tweets (66 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 69 tweets for from%3A%20BostonPlans%20since%3A2015-09-07%20until%3A2016-01-14.
+INFO: Got 625 tweets (69 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLz59uKR1hcWgIC9qdWJwp4YEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWFh_TP2hgWgMC2zaTVzMAZEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLfF2IO1qBYWisCg8Y6xgfsWEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLydl56cgh0WgIC8oaiy-rYdEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLbRn5jZkBoWgMC8qfu3kukaEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLaVt4vApR4WgMC7lcaG8dweEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLvZ7uew1B8WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.43.7.93:30004
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLSFn7nuhiIWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrNp4usyxsWgIC3uenhiY4cEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKa5s-r65iAWgsC90Y-QsaYhEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 41.160.252.116:53281
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.217.52:33154
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.10.189.126:57959
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwLjp7u75sBcWgIC9qdWJwp4YEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXh55frwBgWgMC2zaTVzMAZEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.15.195.25:57412
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-NlIOs7BkWgMC8qfu3kukaEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLOpusjn6xUWisCg8Y6xgfsWEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgLrp8I6skh4WgMC7lcaG8dweEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgL2168KFxR8WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL2dl5KX7hwWgIC8oaiy-rYdEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLXJ8Jna_CEWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.31.40.46:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL3ljpeE3iAWgsC90Y-QsaYhEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLWNq-fosxsWgIC3uenhiY4cEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKOdo8zQ-CEWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.173.145.211:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLuxmr-K1xUWisCg8Y6xgfsWEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLe57Jnz5yEWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 109 tweets for from%3A%20BostonPlans%20since%3A2016-09-28%20until%3A2017-02-03.
+INFO: Got 734 tweets (109 new).
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.246.36.140:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLLt3veBoBcWgIC9qdWJwp4YEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLyJ4qqeoxgWgMC2zaTVzMAZEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 102 tweets for from%3A%20BostonPlans%20since%3A2017-06-12%20until%3A2017-10-19.
+INFO: Got 836 tweets (102 new).
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLX50JiR0RkWgMC8qfu3kukaEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLX5y8Sk9x0WgMC7lcaG8dweEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaQgL29v-nlsh8WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.36.5.29:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLaBhp_51BwWgIC8oaiy-rYdEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLzJsr2GnhsWgIC3uenhiY4cEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLqh-KTYyRkWgMC8qfu3kukaEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXx0aDBzCAWgsC90Y-QsaYhEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 116.203.159.231:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 121 tweets for from%3A%20BostonPlans%20since%3A2017-10-19%20until%3A2018-02-25.
+INFO: Got 957 tweets (121 new).
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.103.178.15:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLX9sJHbziEWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLHB3terkxcWgIC9qdWJwp4YEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 222.124.154.19:23500
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgLqFhNCv0x0WgMC7lcaG8dweEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbVyayNxBwWgIC8oaiy-rYdEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOwLWB-6CMoh8WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.237.175.183:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLW90pSEjBsWgIC3uenhiY4cEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLXRpLOIuiAWgsC90Y-QsaYhEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 41.217.217.60:47981
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLfdlIKh_BYWgIC9qdWJwp4YEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 157 tweets for from%3A%20BostonPlans%20since%3A2017-02-03%20until%3A2017-06-12.
+INFO: Got 1114 tweets (157 new).
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.144.118.106:54784
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6VgcvWsCEWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLSB5_-7ryEWhMC96ZvF984iEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 132 tweets for from%3A%20BostonPlans%20since%3A2019-12-01%20until%3A2020-04-08.
+INFO: Got 1246 tweets (132 new).
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLeh56vlvh0WgMC7lcaG8dweEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLDl3_nglx8WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLX53rSFoBwWgIC8oaiy-rYdEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKetkvfu-BoWgIC3uenhiY4cEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLatgZD6pyAWgsC90Y-QsaYhEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 175.111.181.18:56297
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwL7lvbDhlRwWgIC8oaiy-rYdEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 34.76.103.185:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLvpwfanuB0WgMC7lcaG8dweEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 159 tweets for from%3A%20BostonPlans%20since%3A2018-07-04%20until%3A2018-11-09.
+INFO: Got 1405 tweets (159 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-RnImZ8RoWgIC3uenhiY4cEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 160 tweets for from%3A%20BostonPlans%20since%3A2018-11-09%20until%3A2019-03-18.
+INFO: Got 1565 tweets (160 new).
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 153 tweets for from%3A%20BostonPlans%20since%3A2018-02-25%20until%3A2018-07-04.
+INFO: Got 1718 tweets (153 new).
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 84.126.43.184:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 134.90.229.118:49769
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLz9-qLh_x4WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXVnvXJiiAWgsC90Y-QsaYhEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 170.238.255.90:34586
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 160 tweets for from%3A%20BostonPlans%20since%3A2019-07-25%20until%3A2019-12-01.
+INFO: Got 1878 tweets (160 new).
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 81.190.208.52:38264
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 197.234.35.82:53281
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 58.96.135.89:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLTB0K3O8h4WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 103.116.203.242:43520
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 119.252.160.165:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.99.58.110:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyVr8mp4B4WgsCnzdKN_IMgEjUAFQAlAFUAFQAA&q=from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 203.190.53.45:60130
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.100.24.251:21776
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 201 tweets for from%3A%20BostonPlans%20since%3A2019-03-18%20until%3A2019-07-25.
+INFO: Got 2079 tweets (201 new).
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 121.122.43.161:52890
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.76.214.158:1080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 219.94.250.151:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.161.202.2:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.200.63.108:60579
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 27.2.7.59:52148
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.239.255.242:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.171.88.245:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2008-12-25%20until%3A2009-05-03.
+INFO: Got 2079 tweets (0 new).
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 140.82.23.25:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 131.161.47.34:3128
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 2079 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 2079 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 2079 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 2079 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2007-12-05%20until%3A2008-04-11.
+INFO: Got 2079 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 2079 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 2079 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20BostonPlans%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 2079 tweets (0 new).

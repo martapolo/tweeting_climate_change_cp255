@@ -1,0 +1,2121 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows NT 5.2; RW; rv:7.0a1) Gecko/20091211 SeaMonkey/9.23a1pre'}
+INFO: queries: ['from: CityofSanJose since:2006-03-01 until:2006-07-07', 'from: CityofSanJose since:2006-07-07 until:2006-11-13', 'from: CityofSanJose since:2006-11-13 until:2007-03-22', 'from: CityofSanJose since:2007-03-22 until:2007-07-29', 'from: CityofSanJose since:2007-07-29 until:2007-12-04', 'from: CityofSanJose since:2007-12-04 until:2008-04-11', 'from: CityofSanJose since:2008-04-11 until:2008-08-18', 'from: CityofSanJose since:2008-08-18 until:2008-12-25', 'from: CityofSanJose since:2008-12-25 until:2009-05-02', 'from: CityofSanJose since:2009-05-02 until:2009-09-08', 'from: CityofSanJose since:2009-09-08 until:2010-01-15', 'from: CityofSanJose since:2010-01-15 until:2010-05-24', 'from: CityofSanJose since:2010-05-24 until:2010-09-30', 'from: CityofSanJose since:2010-09-30 until:2011-02-05', 'from: CityofSanJose since:2011-02-05 until:2011-06-14', 'from: CityofSanJose since:2011-06-14 until:2011-10-21', 'from: CityofSanJose since:2011-10-21 until:2012-02-27', 'from: CityofSanJose since:2012-02-27 until:2012-07-04', 'from: CityofSanJose since:2012-07-04 until:2012-11-10', 'from: CityofSanJose since:2012-11-10 until:2013-03-19', 'from: CityofSanJose since:2013-03-19 until:2013-07-26', 'from: CityofSanJose since:2013-07-26 until:2013-12-02', 'from: CityofSanJose since:2013-12-02 until:2014-04-09', 'from: CityofSanJose since:2014-04-09 until:2014-08-16', 'from: CityofSanJose since:2014-08-16 until:2014-12-23', 'from: CityofSanJose since:2014-12-23 until:2015-05-01', 'from: CityofSanJose since:2015-05-01 until:2015-09-06', 'from: CityofSanJose since:2015-09-06 until:2016-01-13', 'from: CityofSanJose since:2016-01-13 until:2016-05-21', 'from: CityofSanJose since:2016-05-21 until:2016-09-27', 'from: CityofSanJose since:2016-09-27 until:2017-02-03', 'from: CityofSanJose since:2017-02-03 until:2017-06-11', 'from: CityofSanJose since:2017-06-11 until:2017-10-18', 'from: CityofSanJose since:2017-10-18 until:2018-02-24', 'from: CityofSanJose since:2018-02-24 until:2018-07-03', 'from: CityofSanJose since:2018-07-03 until:2018-11-08', 'from: CityofSanJose since:2018-11-08 until:2019-03-17', 'from: CityofSanJose since:2019-03-17 until:2019-07-24', 'from: CityofSanJose since:2019-07-24 until:2019-11-30', 'from: CityofSanJose since:2019-11-30 until:2020-04-07']
+INFO: Querying from: CityofSanJose since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2007-07-29 until:2007-12-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2007-12-04 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2008-12-25 until:2009-05-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2009-09-08 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2009-05-02 until:2009-09-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2011-02-05 until:2011-06-14
+INFO: Querying from: CityofSanJose since:2010-09-30 until:2011-02-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2011-06-14 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2012-02-27 until:2012-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2012-07-04 until:2012-11-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2012-11-10 until:2013-03-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2013-03-19 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Querying from: CityofSanJose since:2013-12-02 until:2014-04-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2014-04-09 until:2014-08-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2014-08-16 until:2014-12-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2014-12-23 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2015-05-01 until:2015-09-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2015-09-06 until:2016-01-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2016-01-13 until:2016-05-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2016-05-21 until:2016-09-27
+INFO: Querying from: CityofSanJose since:2016-09-27 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2017-02-03 until:2017-06-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2017-06-11 until:2017-10-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2017-10-18 until:2018-02-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2018-02-24 until:2018-07-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2018-07-03 until:2018-11-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2018-11-08 until:2019-03-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2019-03-17 until:2019-07-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2019-07-24 until:2019-11-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Querying from: CityofSanJose since:2019-11-30 until:2020-04-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-14376410688-14376410688&q=from%3A%20CityofSanJose%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-5695704857059328-10115446829223937&q=from%3A%20CityofSanJose%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15887543448-25319602334&q=from%3A%20CityofSanJose%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-258053401206722560-258053409339486209&q=from%3A%20CityofSanJose%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaA-bSOaxaA-bSOaxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20CityofSanJose%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-188016166181158912-204972849453207552&q=from%3A%20CityofSanJose%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20CityofSanJose%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 2 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIGM1I2eFBaCwIDwv_z3IxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20CityofSanJose%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-131466259211620352-159706456684380161&q=from%3A%20CityofSanJose%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-316934707872927747-357645594375888896&q=from%3A%20CityofSanJose%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCA8IzllAcWgsCRzKyN5ZQHEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBawssWvdha84tPSvAESNQAVACUAVQAVAAA%3D&q=from%3A%20CityofSanJose%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20CityofSanJose%20since%3A2010-09-30%20until%3A2011-02-05.
+INFO: Got 6 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLUn-37mwUWgMCQhI_umtgFEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-83223802976272385-120989049187074048&q=from%3A%20CityofSanJose%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20CityofSanJose%20since%3A2012-07-04%20until%3A2012-11-10.
+INFO: Got 10 tweets (4 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20CityofSanJose%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 16 tweets (6 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-275631302525476864-309310050709676032&q=from%3A%20CityofSanJose%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20CityofSanJose%20since%3A2012-02-27%20until%3A2012-07-04.
+INFO: Got 22 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCEuPeH0wMWgoCSsKOLsrcEEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-362295839516921856-403995528301510656&q=from%3A%20CityofSanJose%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20CityofSanJose%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 30 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-550080731494764545-593621343293165568&q=from%3A%20CityofSanJose%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-40902983680008192-73158810935640064&q=from%3A%20CityofSanJose%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwJD8gJz95QgWgICRhL6xzvYJEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-641897070845149184-684993509099634688&q=from%3A%20CityofSanJose%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-464550674295177217-496357138521133056&q=from%3A%20CityofSanJose%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20CityofSanJose%20since%3A2013-03-19%20until%3A2013-07-26.
+INFO: Got 40 tweets (10 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJDU8-bVpwIWgICQqMa5660DEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPAss2e0wcWgICRoMb28coIEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-511415306431234048-543471541007417345&q=from%3A%20CityofSanJose%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20CityofSanJose%20since%3A2011-06-14%20until%3A2011-10-21.
+INFO: Got 56 tweets (16 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20CityofSanJose%20since%3A2012-11-10%20until%3A2013-03-19.
+INFO: Got 72 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-702899941635543040-733795910283460608&q=from%3A%20CityofSanJose%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-410118132297367552-444252165310132224&q=from%3A%20CityofSanJose%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-851210900644143104-872379723346825218&q=from%3A%20CityofSanJose%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-595729355956957185-638441292494581760&q=from%3A%20CityofSanJose%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-738767222819065858-773997184840630272&q=from%3A%20CityofSanJose%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1147219594706391051-1153312031501475840&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-894711279352516609-917567214684848128&q=from%3A%20CityofSanJose%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1244691677874249735-1247269309535010817&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-946750852856975362-966714759910326272&q=from%3A%20CityofSanJose%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1193986655935270912-1200093275522093056&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-780569371638833156-826609519442665473&q=from%3A%20CityofSanJose%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1103427063233560576-1106563930371952640&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1055022350469660672-1058890646801600512&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCgsImRhwoWgICQtNzyo5sLEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1008184896752250881-1013918302509285378&q=from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 102.129.249.120:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20CityofSanJose%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 94 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwMLo2OCjog8WgMCioe7d-7wQEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20CityofSanJose%20since%3A2014-12-23%20until%3A2015-05-01.
+INFO: Got 118 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIHIgMOokQEWgICSoKHj9IMCEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20CityofSanJose%20since%3A2011-02-05%20until%3A2011-06-14.
+INFO: Got 146 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLahhf-86BEWgICo9fP9yoETEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMKYkJi18gwWgMDAtIGMteMNEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20CityofSanJose%20since%3A2015-09-06%20until%3A2016-01-13.
+INFO: Got 174 tweets (28 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20CityofSanJose%20since%3A2014-04-09%20until%3A2014-08-16.
+INFO: Got 202 tweets (28 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMD4lpGEsQsWgMCRgLO_pqoMEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLHBrKy6xBAWgMClkaK-mdwREjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMCI3-D0mA4WgoDAtJaf5ooPEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20CityofSanJose%20since%3A2013-12-02%20until%3A2014-04-09.
+INFO: Got 240 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKLduvGZwRMWgICkocPf-64UEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK2dvPON0BcWhMC69Y-vqJsYEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKj9_7fQwBQWgICgudeV5b0VEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLS1zrjEoxoWgICo-fj8uuoaEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaWwLzdlInf6x8WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLP5udiwxBAWgMClkaK-mdwREjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOgKOpkJ-ExiIWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLzl4crT6hgWgICqxfuQ4cEZEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMCk95yQig4WgoDAtJaf5ooPEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgKnxpu2R1RUWgoCx5c6-2vgWEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 39 tweets for from%3A%20CityofSanJose%20since%3A2015-05-01%20until%3A2015-09-06.
+INFO: Got 279 tweets (39 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLa5q8SU0B4WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDZs6LykSEWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20CityofSanJose%20since%3A2014-08-16%20until%3A2014-12-23.
+INFO: Got 321 tweets (42 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLzdnc-YpB0WgMC-qdvb97EdEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20CityofSanJose%20since%3A2016-09-27%20until%3A2017-02-03.
+INFO: Got 361 tweets (40 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKftzbTl_RsWhICqxd_UlJIcEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 46.4.96.137:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLiRq6HZsRQWgICgudeV5b0VEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20CityofSanJose%20since%3A2016-05-21%20until%3A2016-09-27.
+INFO: Got 407 tweets (46 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLPt5MD3iBMWgICkocPf-64UEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20CityofSanJose%20since%3A2016-01-13%20until%3A2016-05-21.
+INFO: Got 458 tweets (51 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzdtJH9oRgWgICqxfuQ4cEZEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20CityofSanJose%20since%3A2017-06-11%20until%3A2017-10-18.
+INFO: Got 506 tweets (48 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLH9o6G3gBcWhMC69Y-vqJsYEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20CityofSanJose%20since%3A2017-02-03%20until%3A2017-06-11.
+INFO: Got 565 tweets (59 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDR_La71x8WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDlxvWavSIWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgK_55oqgxxkWgICo-fj8uuoaEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLaV3ZCghSEWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyNyYemwx4WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 58 tweets for from%3A%20CityofSanJose%20since%3A2017-10-18%20until%3A2018-02-24.
+INFO: Got 623 tweets (58 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK2NkaD6kx0WgMC-qdvb97EdEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgKLBi-7H5RsWhICqxd_UlJIcEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 174.138.54.49:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbhkerXyx8WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKHdqsmmtSIWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPpp4O5_CAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-JyKjxvB4WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL612KXthR0WgMC-qdvb97EdEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnls9TyzhsWhICqxd_UlJIcEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 151.232.72.18:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.13:80
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKP1563LrSIWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL3FnfrSrx8WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6R_I_0tR4WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLf5s6Go8CAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL2J6Yfc7hwWgMC-qdvb97EdEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 94.139.230.234:53281
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLbJ6a-zuRsWhICqxd_UlJIcEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.93.23.119:59341
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 63.82.52.254:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaRk9nvpyIWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPV4tKsnB8WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfJlcu_5yAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKaxzISZqR4WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfNnKSC2RwWgMC-qdvb97EdEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.68.173.29:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK3hyJjShRsWhICqxd_UlJIcEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 201.193.180.14:61892
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKihg7-c8RoWhICqxd_UlJIcEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 108 tweets for from%3A%20CityofSanJose%20since%3A2018-02-24%20until%3A2018-07-03.
+INFO: Got 731 tweets (108 new).
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.99.119:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfZ6LSdlSIWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKOFv_7jjR8WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKb51Ly95CAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLbp1tzlyxwWgMC-qdvb97EdEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKPpju31mh4WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 139.59.99.63:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.14:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKalvff7iCIWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTNpPTVgB8WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLut7KKatxwWgMC-qdvb97EdEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.19:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPJyZWG1CAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKb5_fjOjR4WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.21:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.17:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKC9n9Gf_iEWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLeRgOqX9R4WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKjZ-f63khwWgMC-qdvb97EdEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjVw7H-yiAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 207.154.231.213:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 160 tweets for from%3A%20CityofSanJose%20since%3A2018-07-03%20until%3A2018-11-08.
+INFO: Got 891 tweets (160 new).
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK3VisPx-R0WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 178.151.156.112:34689
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.119.170:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 207.154.231.212:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKPJ_86q7iEWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKeVz8SK4R4WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKelobO3uiAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbBvv754B0WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 31.14.133.130:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKaRjpHt4B4WgICjjdTLsYEgEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.15:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 185 tweets for from%3A%20CityofSanJose%20since%3A2019-03-17%20until%3A2019-07-24.
+INFO: Got 1076 tweets (185 new).
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 67.205.146.29:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKats-Hw3CEWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.87.38.28:53281
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHRj-DHqCAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK2d_KKW0h0WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 151.232.72.20:80
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.91.144.53:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.45.123.137:36559
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTh_N-dryEWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwKbN2eTcrCEWgoCm4YS1mM8iEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKC9gZO8nyAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSN0OqpuB0WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 186.211.106.227:34334
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 217 tweets for from%3A%20CityofSanJose%20since%3A2019-11-30%20until%3A2020-04-07.
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.85.65.146:39736
+INFO: Got 1293 tweets (217 new).
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfV_6aQtx0WgMCk8YSCp9seEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.243.108.129:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 230 tweets for from%3A%20CityofSanJose%20since%3A2018-11-08%20until%3A2019-03-17.
+INFO: Got 1523 tweets (230 new).
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.139.193.145:37929
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHVxpySliAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 139.59.53.107:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 35.222.208.56:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 169.204.212.254:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Retrying... (Attempts left: 9)
+INFO: Using proxy 45.55.27.15:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKa5o4yfhCAWgMCijbmey6chEjUAFQAlAFUAFQAA&q=from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 151.232.72.22:80
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.55.27.15:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 250 tweets for from%3A%20CityofSanJose%20since%3A2019-07-24%20until%3A2019-11-30.
+INFO: Got 1773 tweets (250 new).
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.245.39.195:39155
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 151.232.72.16:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 1.10.189.84:35138
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 128.199.217.244:47503
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 128.199.246.10:44344
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 85.10.219.97:1080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 1773 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 93.157.189.86:30452
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2007-07-29%20until%3A2007-12-04.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2007-12-04%20until%3A2008-04-11.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2009-09-08%20until%3A2010-01-15.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2009-05-02%20until%3A2009-09-08.
+INFO: Got 1773 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CityofSanJose%20since%3A2008-12-25%20until%3A2009-05-02.
+INFO: Got 1773 tweets (0 new).

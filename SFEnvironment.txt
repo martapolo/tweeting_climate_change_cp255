@@ -1,0 +1,1829 @@
+INFO: {'User-Agent': 'Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16'}
+INFO: queries: ['from: SFEnvironment since:2006-03-01 until:2006-07-07', 'from: SFEnvironment since:2006-07-07 until:2006-11-13', 'from: SFEnvironment since:2006-11-13 until:2007-03-22', 'from: SFEnvironment since:2007-03-22 until:2007-07-29', 'from: SFEnvironment since:2007-07-29 until:2007-12-05', 'from: SFEnvironment since:2007-12-05 until:2008-04-11', 'from: SFEnvironment since:2008-04-11 until:2008-08-18', 'from: SFEnvironment since:2008-08-18 until:2008-12-25', 'from: SFEnvironment since:2008-12-25 until:2009-05-03', 'from: SFEnvironment since:2009-05-03 until:2009-09-09', 'from: SFEnvironment since:2009-09-09 until:2010-01-15', 'from: SFEnvironment since:2010-01-15 until:2010-05-24', 'from: SFEnvironment since:2010-05-24 until:2010-09-30', 'from: SFEnvironment since:2010-09-30 until:2011-02-06', 'from: SFEnvironment since:2011-02-06 until:2011-06-15', 'from: SFEnvironment since:2011-06-15 until:2011-10-21', 'from: SFEnvironment since:2011-10-21 until:2012-02-27', 'from: SFEnvironment since:2012-02-27 until:2012-07-05', 'from: SFEnvironment since:2012-07-05 until:2012-11-11', 'from: SFEnvironment since:2012-11-11 until:2013-03-20', 'from: SFEnvironment since:2013-03-20 until:2013-07-26', 'from: SFEnvironment since:2013-07-26 until:2013-12-02', 'from: SFEnvironment since:2013-12-02 until:2014-04-10', 'from: SFEnvironment since:2014-04-10 until:2014-08-17', 'from: SFEnvironment since:2014-08-17 until:2014-12-24', 'from: SFEnvironment since:2014-12-24 until:2015-05-01', 'from: SFEnvironment since:2015-05-01 until:2015-09-07', 'from: SFEnvironment since:2015-09-07 until:2016-01-14', 'from: SFEnvironment since:2016-01-14 until:2016-05-22', 'from: SFEnvironment since:2016-05-22 until:2016-09-28', 'from: SFEnvironment since:2016-09-28 until:2017-02-03', 'from: SFEnvironment since:2017-02-03 until:2017-06-12', 'from: SFEnvironment since:2017-06-12 until:2017-10-19', 'from: SFEnvironment since:2017-10-19 until:2018-02-25', 'from: SFEnvironment since:2018-02-25 until:2018-07-04', 'from: SFEnvironment since:2018-07-04 until:2018-11-09', 'from: SFEnvironment since:2018-11-09 until:2019-03-18', 'from: SFEnvironment since:2019-03-18 until:2019-07-25', 'from: SFEnvironment since:2019-07-25 until:2019-12-01', 'from: SFEnvironment since:2019-12-01 until:2020-04-08']
+INFO: Querying from: SFEnvironment since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2007-12-05 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2008-12-25 until:2009-05-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2009-09-09 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2009-05-03 until:2009-09-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2010-09-30 until:2011-02-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2011-02-06 until:2011-06-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2011-06-15 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2012-02-27 until:2012-07-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2012-07-05 until:2012-11-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2012-11-11 until:2013-03-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2013-03-20 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2013-12-02 until:2014-04-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2014-04-10 until:2014-08-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2014-08-17 until:2014-12-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2014-12-24 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2015-05-01 until:2015-09-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2015-09-07 until:2016-01-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2016-01-14 until:2016-05-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2016-05-22 until:2016-09-28
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2016-09-28 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2017-02-03 until:2017-06-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2017-06-12 until:2017-10-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2017-10-19 until:2018-02-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2018-02-25 until:2018-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2018-07-04 until:2018-11-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2018-11-09 until:2019-03-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2019-03-18 until:2019-07-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2019-07-25 until:2019-12-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SFEnvironment since:2019-12-01 until:2020-04-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-27496228273-32522247960797184&q=from%3A%20SFEnvironment%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8120672118-14250088340&q=from%3A%20SFEnvironment%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15514788401-23024881074&q=from%3A%20SFEnvironment%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-86474594952818689-124662025895936001&q=from%3A%20SFEnvironment%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbilrnuzAEWgICB0P2zxXMSNQAVACUAVQAVAAA%3D&q=from%3A%20SFEnvironment%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20SFEnvironment%20since%3A2010-09-30%20until%3A2011-02-06.
+INFO: Got 12 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-4302889919-7684302475&q=from%3A%20SFEnvironment%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2182949429-3757326202&q=from%3A%20SFEnvironment%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-43378165799854080-78102678374334464&q=from%3A%20SFEnvironment%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-342375371834019840-359386973976276993&q=from%3A%20SFEnvironment%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-175701793878192128-218560691790020609&q=from%3A%20SFEnvironment%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-476847617197215744-498948326050779136&q=from%3A%20SFEnvironment%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-601924327819386880-639221040149757952&q=from%3A%20SFEnvironment%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-860542183832793092-873312594760679424&q=from%3A%20SFEnvironment%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-443892442937303040-453989149759246337&q=from%3A%20SFEnvironment%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-723253761368592386-733729696731541508&q=from%3A%20SFEnvironment%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-141219976416722944-168132834169589760&q=from%3A%20SFEnvironment%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-647092853336838144-684782227167657989&q=from%3A%20SFEnvironment%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-390911576834076673-403778840910000128&q=from%3A%20SFEnvironment%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-504742826316660736-547158523335802880&q=from%3A%20SFEnvironment%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-294605272415096832-314096844894531584&q=from%3A%20SFEnvironment%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-257961415229456384-266342245286952961&q=from%3A%20SFEnvironment%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1230901671372345350-1247343844036882432&q=from%3A%20SFEnvironment%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-585570444427841537-590918782098374656&q=from%3A%20SFEnvironment%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-742866770235527168-780266816757112832&q=from%3A%20SFEnvironment%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1187836629332852736-1199480494015963136&q=from%3A%20SFEnvironment%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1005254402817646593-1014235247502716928&q=from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1050242091488559104-1059523503534301186&q=from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-796888153747439616-825497972599164928&q=from%3A%20SFEnvironment%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1098058409872629760-1107408519706353666&q=from%3A%20SFEnvironment%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1140683728131219460-1152601678593630210&q=from%3A%20SFEnvironment%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-905179240894693378-920696840294563840&q=from%3A%20SFEnvironment%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-957031239382257664-966772110281625601&q=from%3A%20SFEnvironment%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbs_bzAPBao3viVahI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SFEnvironment%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJGk84ucswIWgoCQqPfc8boDEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbiiIfMcxbktp7GqwESNQAVACUAVQAVAAA%3D&q=from%3A%20SFEnvironment%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20SFEnvironment%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 38 tweets (26 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20SFEnvironment%20since%3A2011-06-15%20until%3A2011-10-21.
+INFO: Got 64 tweets (26 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20SFEnvironment%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 92 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb-jseHIBaWmqmgORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SFEnvironment%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20SFEnvironment%20since%3A2009-09-09%20until%3A2010-01-15.
+INFO: Got 126 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbqqOmhEBb0_aH_GxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SFEnvironment%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJG4yI2OmgEWgICSiJz-vJUCEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJG85vSCqQwWgsDAtL6u8swMEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCYwLTb9QMWgMCQ_P_6qdUEEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMCYpLuagQ4WgICQtOXx8pcPEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJKgxqWuwAkWgsCRjI-j5vwJEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHotKCKhwEWgICSiJz-vJUCEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLnVlb-72hAWgICo8caJ_N4REjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGouPab8AQWgoCQwNHyvYgGEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwMO8wYDm7AoWgMCTxO2twZoLEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMCwtJiNng0WgMDC-Py2z-wNEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLC9seH3-hEWioCi7dbz6oATEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKIy6K7lAcWgoCS8Iy3nrIHEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJK05vvSlggWgMCTkNLa8tsIEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20SFEnvironment%20since%3A2011-02-06%20until%3A2011-06-15.
+INFO: Got 167 tweets (41 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLiN2d3BiRQWiMC17bHR3a4UEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKS1iNmYzxQWgICpraWiiNQVEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwKq5jaOFlSIWgMC1icKnus8iEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjp3seF_CAWgICnje_JtKUhEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwL3Z0aOh8RcWgICuybHL0J4YEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLax782uoBAWgICkoYzgrrMQEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20SFEnvironment%20since%3A2012-02-27%20until%3A2012-07-05.
+INFO: Got 207 tweets (40 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKT1iLas8REWioCi7dbz6oATEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKqduOOOjxYWgMCguYmC4fQWEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL_NtOOw8xsWgMCj4a_lpJMcEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDw6_LlyAMWgMCQ_P_6qdUEEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMGU-cmc9Q0WgICQtOXx8pcPEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLD5qO7rjxkWgICo-b25_MYZEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK25ro_1vB4WhIC15c2Lp94eEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLb1xOeakx0WhIC3tenAl7QdEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20SFEnvironment%20since%3A2015-09-07%20until%3A2016-01-14.
+INFO: Got 248 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgKOF1PPC1B8WhIC9wdbH7v4fEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20SFEnvironment%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 291 tweets (43 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLDVsKX2whAWgICo8caJ_N4REjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20SFEnvironment%20since%3A2014-08-17%20until%3A2014-12-24.
+INFO: Got 334 tweets (43 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnB0ZysxRoWgICtqem5--oaEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20SFEnvironment%20since%3A2015-05-01%20until%3A2015-09-07.
+INFO: Got 379 tweets (45 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjJ65antRQWgICpraWiiNQVEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20SFEnvironment%20since%3A2016-05-22%20until%3A2016-09-28.
+INFO: Got 426 tweets (47 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa44sSfEBb0_aH_GxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SFEnvironment%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKH196eS3hUWgMCguYmC4fQWEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20SFEnvironment%20since%3A2016-09-28%20until%3A2017-02-03.
+INFO: Got 472 tweets (46 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOA_fyAmQkWgsCRjI-j5vwJEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwML0j8nFtQoWgMCTxO2twZoLEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOEnJb43QcWgMCTkNLa8tsIEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGA1MykzwwWgMDC-Py2z-wNEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHwy5aj-QsWgsDAtL6u8swMEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJPQgIKn9QYWgoCS8Iy3nrIHEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbRk-zplhMWiMC17bHR3a4UEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJLwptafzwwWgMDC-Py2z-wNEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL_Rxu2f9iEWgMC1icKnus8iEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMOg-oz91w8WgICkoYzgrrMQEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 61 tweets for from%3A%20SFEnvironment%20since%3A2014-04-10%20until%3A2014-08-17.
+INFO: Got 533 tweets (61 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLuNmczt2BcWgICuybHL0J4YEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKCl_KaU1SAWgICnje_JtKUhEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKv5l-q7yhgWgICo-b25_MYZEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbx-evdjBMWiMC17bHR3a4UEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOgK-d8PPq0hsWgMCj4a_lpJMcEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLux4tvJpB4WhIC15c2Lp94eEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK-9tbX0ox8WhIC9wdbH7v4fEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKP5tpi_8RwWhIC3tenAl7QdEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 63 tweets for from%3A%20SFEnvironment%20since%3A2016-01-14%20until%3A2016-05-22.
+INFO: Got 596 tweets (63 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbgga-6Dhb0_aH_GxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SFEnvironment%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK-5kNz3oxoWgICtqem5--oaEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20SFEnvironment%20since%3A2009-05-03%20until%3A2009-09-09.
+INFO: Got 671 tweets (75 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrp9ou6pxgWgICo-b25_MYZEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJG8jvCZnwYWgoCS8Iy3nrIHEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJLsjeGMnQ8WgICkoYzgrrMQEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 73 tweets for from%3A%20SFEnvironment%20since%3A2012-07-05%20until%3A2012-11-11.
+INFO: Got 744 tweets (73 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 62 tweets for from%3A%20SFEnvironment%20since%3A2017-06-12%20until%3A2017-10-19.
+INFO: Got 806 tweets (62 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 70 tweets for from%3A%20SFEnvironment%20since%3A2014-12-24%20until%3A2015-05-01.
+INFO: Got 876 tweets (70 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCslsayiAoWgMCTxO2twZoLEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKwo8PUuQcWgMCTkNLa8tsIEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20SFEnvironment%20since%3A2012-11-11%20until%3A2013-03-20.
+INFO: Got 951 tweets (75 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 77 tweets for from%3A%20SFEnvironment%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 1028 tweets (77 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCk7O7BggkWgsCRjI-j5vwJEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMTgvbnpzwsWgsDAtL6u8swMEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTppt-gyCEWgMC1icKnus8iEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKfZjtb_nhcWgICuybHL0J4YEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbB1efVySAWgICnje_JtKUhEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKDZztD6ixcWgICuybHL0J4YEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKrF8r7TsRsWgMCj4a_lpJMcEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK-Ng5e47hwWhIC3tenAl7QdEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 81 tweets for from%3A%20SFEnvironment%20since%3A2017-02-03%20until%3A2017-06-12.
+INFO: Got 1109 tweets (81 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLuB2Zub_B0WhIC15c2Lp94eEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbptLrnjR8WhIC9wdbH7v4fEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLvBx9b1hBoWgICtqem5--oaEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMHY-tKNqQsWgsDAtL6u8swMEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 91 tweets for from%3A%20SFEnvironment%20since%3A2013-12-02%20until%3A2014-04-10.
+INFO: Got 1200 tweets (91 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKe51IOurSEWgMC1icKnus8iEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 84 tweets for from%3A%20SFEnvironment%20since%3A2019-12-01%20until%3A2020-04-08.
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJH07Ir73AgWgsCRjI-j5vwJEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Got 1284 tweets (84 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 97 tweets for from%3A%20SFEnvironment%20since%3A2013-03-20%20until%3A2013-07-26.
+INFO: Got 1381 tweets (97 new).
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaRlLbgriAWgICnje_JtKUhEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjJjPmR0BkWgICtqem5--oaEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwK2B39211hwWhIC3tenAl7QdEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOgKqF6_aJphsWgMCj4a_lpJMcEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLf9ppKf_h4WhIC9wdbH7v4fEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLbJrJy2yh0WhIC15c2Lp94eEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLqptdmrzRkWgICtqem5--oaEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 91 tweets for from%3A%20SFEnvironment%20since%3A2017-10-19%20until%3A2018-02-25.
+INFO: Got 1472 tweets (91 new).
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLqlxPOsuR0WhIC15c2Lp94eEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKPRhsbihiAWgICnje_JtKUhEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 94 tweets for from%3A%20SFEnvironment%20since%3A2018-11-09%20until%3A2019-03-18.
+INFO: Got 1566 tweets (94 new).
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 114 tweets for from%3A%20SFEnvironment%20since%3A2019-07-25%20until%3A2019-12-01.
+INFO: Got 1680 tweets (114 new).
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLy1oqqi3x4WhIC9wdbH7v4fEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 104 tweets for from%3A%20SFEnvironment%20since%3A2019-03-18%20until%3A2019-07-25.
+INFO: Got 1784 tweets (104 new).
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKiR_96hmxwWhIC3tenAl7QdEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKHtms-KiBsWgMCj4a_lpJMcEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKOdtr6qlBwWhIC3tenAl7QdEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 103 tweets for from%3A%20SFEnvironment%20since%3A2018-07-04%20until%3A2018-11-09.
+INFO: Got 1887 tweets (103 new).
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgKiBs6HV7xoWgMCj4a_lpJMcEjUAFQAlAFUAFQAA&q=from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 120 tweets for from%3A%20SFEnvironment%20since%3A2018-02-25%20until%3A2018-07-04.
+INFO: Got 2007 tweets (120 new).
+INFO: Retrying... (Attempts left: 28)
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 2007 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 2007 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 2007 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2007-12-05%20until%3A2008-04-11.
+INFO: Got 2007 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 2007 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2008-12-25%20until%3A2009-05-03.
+INFO: Got 2007 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 2007 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 2007 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SFEnvironment%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 2007 tweets (0 new).

@@ -1,0 +1,1477 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: SF_emergency since:2006-03-01 until:2006-07-07', 'from: SF_emergency since:2006-07-07 until:2006-11-13', 'from: SF_emergency since:2006-11-13 until:2007-03-22', 'from: SF_emergency since:2007-03-22 until:2007-07-29', 'from: SF_emergency since:2007-07-29 until:2007-12-05', 'from: SF_emergency since:2007-12-05 until:2008-04-11', 'from: SF_emergency since:2008-04-11 until:2008-08-18', 'from: SF_emergency since:2008-08-18 until:2008-12-25', 'from: SF_emergency since:2008-12-25 until:2009-05-03', 'from: SF_emergency since:2009-05-03 until:2009-09-09', 'from: SF_emergency since:2009-09-09 until:2010-01-15', 'from: SF_emergency since:2010-01-15 until:2010-05-24', 'from: SF_emergency since:2010-05-24 until:2010-09-30', 'from: SF_emergency since:2010-09-30 until:2011-02-06', 'from: SF_emergency since:2011-02-06 until:2011-06-15', 'from: SF_emergency since:2011-06-15 until:2011-10-21', 'from: SF_emergency since:2011-10-21 until:2012-02-27', 'from: SF_emergency since:2012-02-27 until:2012-07-05', 'from: SF_emergency since:2012-07-05 until:2012-11-11', 'from: SF_emergency since:2012-11-11 until:2013-03-20', 'from: SF_emergency since:2013-03-20 until:2013-07-26', 'from: SF_emergency since:2013-07-26 until:2013-12-02', 'from: SF_emergency since:2013-12-02 until:2014-04-10', 'from: SF_emergency since:2014-04-10 until:2014-08-17', 'from: SF_emergency since:2014-08-17 until:2014-12-24', 'from: SF_emergency since:2014-12-24 until:2015-05-01', 'from: SF_emergency since:2015-05-01 until:2015-09-07', 'from: SF_emergency since:2015-09-07 until:2016-01-14', 'from: SF_emergency since:2016-01-14 until:2016-05-22', 'from: SF_emergency since:2016-05-22 until:2016-09-28', 'from: SF_emergency since:2016-09-28 until:2017-02-03', 'from: SF_emergency since:2017-02-03 until:2017-06-12', 'from: SF_emergency since:2017-06-12 until:2017-10-19', 'from: SF_emergency since:2017-10-19 until:2018-02-25', 'from: SF_emergency since:2018-02-25 until:2018-07-04', 'from: SF_emergency since:2018-07-04 until:2018-11-09', 'from: SF_emergency since:2018-11-09 until:2019-03-18', 'from: SF_emergency since:2019-03-18 until:2019-07-25', 'from: SF_emergency since:2019-07-25 until:2019-12-01', 'from: SF_emergency since:2019-12-01 until:2020-04-08']
+INFO: Querying from: SF_emergency since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2007-12-05 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2008-12-25 until:2009-05-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2009-05-03 until:2009-09-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2009-09-09 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2010-09-30 until:2011-02-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2011-02-06 until:2011-06-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2011-06-15 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2012-02-27 until:2012-07-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2012-07-05 until:2012-11-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2012-11-11 until:2013-03-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2013-03-20 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2013-12-02 until:2014-04-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2014-04-10 until:2014-08-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2014-08-17 until:2014-12-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2014-12-24 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2015-05-01 until:2015-09-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2015-09-07 until:2016-01-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2016-01-14 until:2016-05-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2016-05-22 until:2016-09-28
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2016-09-28 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2017-02-03 until:2017-06-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2017-06-12 until:2017-10-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2017-10-19 until:2018-02-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2018-02-25 until:2018-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2018-07-04 until:2018-11-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2018-11-09 until:2019-03-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2019-03-18 until:2019-07-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2019-07-25 until:2019-12-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Querying from: SF_emergency since:2019-12-01 until:2020-04-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 47.90.54.45:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-784850231-784850231&q=from%3A%20SF_emergency%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1649426322-1672098815&q=from%3A%20SF_emergency%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbu9L7sBRbu9L7sBRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SF_emergency%20since%3A2007-12-05%20until%3A2008-04-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-651816361950359552-682797710559186944&q=from%3A%20SF_emergency%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20SF_emergency%20since%3A2007-12-05%20until%3A2008-04-11.
+INFO: Got 2 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15789150306-22330956906&q=from%3A%20SF_emergency%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-28045625739-23970039489110016&q=from%3A%20SF_emergency%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-801151397039378432-818222968530554880&q=from%3A%20SF_emergency%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBak_oGlDBb-z9G6DBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SF_emergency%20since%3A2008-12-25%20until%3A2009-05-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20SF_emergency%20since%3A2008-12-25%20until%3A2009-05-03.
+INFO: Got 8 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-550027110912253952-590991752254783488&q=from%3A%20SF_emergency%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWN4-HbixIWgMCk9c255PkSEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2015-09-07%20until%3A2016-01-14&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-595610254265556992-630963586899128320&q=from%3A%20SF_emergency%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-690335030695034880-728672052048060416&q=from%3A%20SF_emergency%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbEwdrRdRbU8bqwpgESNQAVACUAVQAVAAA%3D&q=from%3A%20SF_emergency%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-361959300198969344-401401594786615296&q=from%3A%20SF_emergency%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20SF_emergency%20since%3A2015-09-07%20until%3A2016-01-14.
+INFO: Got 16 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-418927797575229440-454006314025226240&q=from%3A%20SF_emergency%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8880574661-13710100615&q=from%3A%20SF_emergency%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-735516504947630080-775378450131525632&q=from%3A%20SF_emergency%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20SF_emergency%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 26 tweets (10 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaWprL60AEWgICBkPenlFUSNQAVACUAVQAVAAA%3D&q=from%3A%20SF_emergency%20since%3A2010-09-30%20until%3A2011-02-06&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-454267278377246720-500419700874964993&q=from%3A%20SF_emergency%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLj97byhnhYWgMCipY3d9NoWEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2016-09-28%20until%3A2017-02-03&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20SF_emergency%20since%3A2010-09-30%20until%3A2011-02-06.
+INFO: Got 38 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20SF_emergency%20since%3A2016-09-28%20until%3A2017-02-03.
+INFO: Got 48 tweets (10 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-274036986526978049-310078834886193152&q=from%3A%20SF_emergency%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-829756345993662464-871086633134604288&q=from%3A%20SF_emergency%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-177102581791854592-220020356101046272&q=from%3A%20SF_emergency%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-5218671871-6906658179&q=from%3A%20SF_emergency%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-318875538762629121-357148592466690049&q=from%3A%20SF_emergency%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-47172716322754560-79332412319997952&q=from%3A%20SF_emergency%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2049030489-3762918829&q=from%3A%20SF_emergency%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-507707977348837376-547439093647675392&q=from%3A%20SF_emergency%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-144825071754678272-173098260569923584&q=from%3A%20SF_emergency%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-89872853763239936-125987706563080192&q=from%3A%20SF_emergency%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1182019232252383232-1200455104865816577&q=from%3A%20SF_emergency%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHh25eExBAWgMCh9cGC0cEREjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2015-05-01%20until%3A2015-09-07&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1085778818399268865-1100455885405532160&q=from%3A%20SF_emergency%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-903310790190436353-920374481901707264&q=from%3A%20SF_emergency%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-248655101512798209-266703913464524801&q=from%3A%20SF_emergency%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-986264941354147840-1013503684934660096&q=from%3A%20SF_emergency%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOsyK-Log8WgICopcL3z7MQEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2014-12-24%20until%3A2015-05-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCJsYPIlBMWgICjwdzX4ZwUEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2016-01-14%20until%3A2016-05-22&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1040756949552250880-1060628750780354560&q=from%3A%20SF_emergency%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1126135131733839872-1150864717138685952&q=from%3A%20SF_emergency%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1245715929582850049-1247662196902916098&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20SF_emergency%20since%3A2015-05-01%20until%3A2015-09-07.
+INFO: Got 66 tweets (18 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-955780119884316673-966925449178750977&q=from%3A%20SF_emergency%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 178.219.171.43:45637
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20SF_emergency%20since%3A2014-12-24%20until%3A2015-05-01.
+INFO: Got 86 tweets (20 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJH4moT4hQoWgMDA2PWniJILEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20SF_emergency%20since%3A2016-01-14%20until%3A2016-05-22.
+INFO: Got 106 tweets (20 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKw5aVQhaOovySZhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SF_emergency%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGQmKeq0AsWgMCQlMqV-swMEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2013-12-02%20until%3A2014-04-10&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20SF_emergency%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 130 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLm9qJeKtRQWgICp6fOl2cIVEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2016-05-22%20until%3A2016-09-28&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20SF_emergency%20since%3A2013-12-02%20until%3A2014-04-10.
+INFO: Got 154 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOM2uvwzQwWgsCT1KHE7PENEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2014-04-10%20until%3A2014-08-17&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20SF_emergency%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 180 tweets (26 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20SF_emergency%20since%3A2016-05-22%20until%3A2016-09-28.
+INFO: Got 204 tweets (24 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20SF_emergency%20since%3A2014-04-10%20until%3A2014-08-17.
+INFO: Got 230 tweets (26 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDRg8DxgxcWgICiia-r3JYYEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2017-02-03%20until%3A2017-06-12&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20SF_emergency%20since%3A2017-02-03%20until%3A2017-06-12.
+INFO: Got 258 tweets (28 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJLU_svJzQcWgMCR3NbDz80IEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2012-11-11%20until%3A2013-03-20&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDIg_eY9QQWgICQjKTW1Y0GEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2012-02-27%20until%3A2012-07-05&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20SF_emergency%20since%3A2012-11-11%20until%3A2013-03-20.
+INFO: Got 290 tweets (32 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20SF_emergency%20since%3A2012-02-27%20until%3A2012-07-05.
+INFO: Got 324 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb-8_TwJhaG9tm6MxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SF_emergency%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJD4nefv7AgWgoCQoJWw7PQJEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2013-03-20%20until%3A2013-07-26&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJD4vNXLpwEWgICR-JOa7JkCEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBay5Y2iDxba1syEHBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SF_emergency%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20SF_emergency%20since%3A2013-03-20%20until%3A2013-07-26.
+INFO: Got 362 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJG4zLilvwIWgMCR_NnJzL8DEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJP45O3eiw4WgMDAkJG98pgPEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBawgoLVDBba1syEHBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SF_emergency%20since%3A2009-05-03%20until%3A2009-09-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJLU6p-z8wYWgsCT5PrywrMHEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDI1ejCggQWgICRyO38--YEEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqB1Y6w5yAWgsCm5dfj76ghEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKCxlpiaiRkWgICv4eDt6cUZEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKOZ-vCXkR4WgMCtyYOzzcUeEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20SF_emergency%20since%3A2009-05-03%20until%3A2009-09-09.
+INFO: Got 402 tweets (40 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK-9o6_1rxsWgMCj8emO2JAcEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKadtoLWySIWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqB8vvqoB8WgICmjc7Y0oAgEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK6RkL3OwxoWgoCtqdbkmusaEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKa5zrvB8RwWgMCijdeOjrgdEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 101.109.83.202:40391
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOM49ac-A0WgMDAkJG98pgPEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2014-08-17%20until%3A2014-12-24&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20SF_emergency%20since%3A2014-08-17%20until%3A2014-12-24.
+INFO: Got 447 tweets (45 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJD4-6CqpAIWgMCR_NnJzL8DEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2011-06-15%20until%3A2011-10-21&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDUp5LtxAMWgICRyO38--YEEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20SF_emergency%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 496 tweets (49 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHg6_rQhgEWgICR-JOa7JkCEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2011-02-06%20until%3A2011-06-15&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20SF_emergency%20since%3A2011-06-15%20until%3A2011-10-21.
+INFO: Got 547 tweets (51 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb6_auTIRaG9tm6MxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SF_emergency%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20SF_emergency%20since%3A2011-02-06%20until%3A2011-06-15.
+INFO: Got 604 tweets (57 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKmF4tDEnRwWgMCijdeOjrgdEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2018-07-04%20until%3A2018-11-09&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKqhyLjt9BoWgMCj8emO2JAcEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2018-02-25%20until%3A2018-07-04&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20SF_emergency%20since%3A2018-07-04%20until%3A2018-11-09.
+INFO: Got 653 tweets (49 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20SF_emergency%20since%3A2018-02-25%20until%3A2018-07-04.
+INFO: Got 700 tweets (47 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCw0e23lgYWgsCT5PrywrMHEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaa98OdHhaG9tm6MxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SF_emergency%20since%3A2009-09-09%20until%3A2010-01-15&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHpi_jTrBgWgICv4eDt6cUZEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2017-06-12%20until%3A2017-10-19&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKbd5KKo8B4WgICmjc7Y0oAgEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-03-18%20until%3A2019-07-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK_B27GuzR0WgMCtyYOzzcUeEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20SF_emergency%20since%3A2009-09-09%20until%3A2010-01-15.
+INFO: Got 766 tweets (66 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOR1IbImCAWgsCm5dfj76ghEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 58 tweets for from%3A%20SF_emergency%20since%3A2017-06-12%20until%3A2017-10-19.
+INFO: Got 824 tweets (58 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20SF_emergency%20since%3A2019-03-18%20until%3A2019-07-25.
+INFO: Got 875 tweets (51 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJLspozekAYWgsCT5PrywrMHEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2012-07-05%20until%3A2012-11-11&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOV-6riwCIWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKKJ3NLZghoWgoCtqdbkmusaEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 145.239.81.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 63 tweets for from%3A%20SF_emergency%20since%3A2012-07-05%20until%3A2012-11-11.
+INFO: Got 938 tweets (63 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_l0eKGjSAWgsCm5dfj76ghEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-07-25%20until%3A2019-12-01&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 56 tweets for from%3A%20SF_emergency%20since%3A2019-07-25%20until%3A2019-12-01.
+INFO: Got 994 tweets (56 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKG5odCNyxkWgoCtqdbkmusaEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2017-10-19%20until%3A2018-02-25&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 67 tweets for from%3A%20SF_emergency%20since%3A2017-10-19%20until%3A2018-02-25.
+INFO: Got 1061 tweets (67 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKaV0dTlux0WgMCtyYOzzcUeEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbZwp2CuSIWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 176.121.48.48:49678
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKeZw9X-uB0WgMCtyYOzzcUeEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2018-11-09%20until%3A2019-03-18&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 83 tweets for from%3A%20SF_emergency%20since%3A2018-11-09%20until%3A2019-03-18.
+INFO: Got 1144 tweets (83 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.29.220.34:42673
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Retrying... (Attempts left: 36)
+INFO: Using proxy 202.29.220.34:42673
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKalrc2atCIWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 52.156.59.213:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Using proxy 1.2.169.49:36335
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 35)
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.109.143.71:36127
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKP1t-f0qSIWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 162.144.220.192:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 144.91.116.171:443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.2.169.12:47678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.142.116.146:38523
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLeJ1pbXnyIWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 103.116.118.133:52156
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.202.240.208:51678
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 1.20.101.62:47985
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKq98sqSgyIWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 85.10.219.103:1080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.6.104.104:38898
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKexyNOr-iEWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 36.89.182.211:45795
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 101.51.141.46:37858
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 181.52.85.249:36107
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKe9vsu16SEWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 180.211.193.74:40536
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 190.152.213.126:47399
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 111.95.22.28:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.165.89:43139
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKb5yPzTryEWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 203.30.236.148:56802
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 223.165.1.170:46958
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPNg9OLriEWhMCn4YuKy9AiEjUAFQAlAFUAFQAA&q=from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08&l=en
+INFO: Using proxy 128.199.77.66:47503
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 218 tweets for from%3A%20SF_emergency%20since%3A2019-12-01%20until%3A2020-04-08.
+INFO: Got 1362 tweets (218 new).
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 47.91.217.100:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 128.199.245.99:44344
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 188.129.161.55:36631
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 200.108.183.2:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.180.150:8811
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 212.43.123.18:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 46.235.53.26:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.68.133:8811
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 3.17.40.89:3838
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 45.33.90.184:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.38.71.101:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Got 0 tweets for from%3A%20SF_emergency%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1362 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 151.232.72.12:80
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20SF_emergency%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1362 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SF_emergency%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1362 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SF_emergency%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1362 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.165.18:8811
+INFO: Got 0 tweets for from%3A%20SF_emergency%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1362 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SF_emergency%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 1362 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SF_emergency%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 1362 tweets (0 new).

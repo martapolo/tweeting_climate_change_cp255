@@ -1,0 +1,1729 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: sdcountydpw since:2006-03-01 until:2006-07-07', 'from: sdcountydpw since:2006-07-07 until:2006-11-13', 'from: sdcountydpw since:2006-11-13 until:2007-03-22', 'from: sdcountydpw since:2007-03-22 until:2007-07-29', 'from: sdcountydpw since:2007-07-29 until:2007-12-04', 'from: sdcountydpw since:2007-12-04 until:2008-04-11', 'from: sdcountydpw since:2008-04-11 until:2008-08-18', 'from: sdcountydpw since:2008-08-18 until:2008-12-25', 'from: sdcountydpw since:2008-12-25 until:2009-05-02', 'from: sdcountydpw since:2009-05-02 until:2009-09-08', 'from: sdcountydpw since:2009-09-08 until:2010-01-15', 'from: sdcountydpw since:2010-01-15 until:2010-05-24', 'from: sdcountydpw since:2010-05-24 until:2010-09-30', 'from: sdcountydpw since:2010-09-30 until:2011-02-05', 'from: sdcountydpw since:2011-02-05 until:2011-06-14', 'from: sdcountydpw since:2011-06-14 until:2011-10-21', 'from: sdcountydpw since:2011-10-21 until:2012-02-27', 'from: sdcountydpw since:2012-02-27 until:2012-07-04', 'from: sdcountydpw since:2012-07-04 until:2012-11-10', 'from: sdcountydpw since:2012-11-10 until:2013-03-19', 'from: sdcountydpw since:2013-03-19 until:2013-07-26', 'from: sdcountydpw since:2013-07-26 until:2013-12-02', 'from: sdcountydpw since:2013-12-02 until:2014-04-09', 'from: sdcountydpw since:2014-04-09 until:2014-08-16', 'from: sdcountydpw since:2014-08-16 until:2014-12-23', 'from: sdcountydpw since:2014-12-23 until:2015-05-01', 'from: sdcountydpw since:2015-05-01 until:2015-09-06', 'from: sdcountydpw since:2015-09-06 until:2016-01-13', 'from: sdcountydpw since:2016-01-13 until:2016-05-21', 'from: sdcountydpw since:2016-05-21 until:2016-09-27', 'from: sdcountydpw since:2016-09-27 until:2017-02-03', 'from: sdcountydpw since:2017-02-03 until:2017-06-11', 'from: sdcountydpw since:2017-06-11 until:2017-10-18', 'from: sdcountydpw since:2017-10-18 until:2018-02-24', 'from: sdcountydpw since:2018-02-24 until:2018-07-03', 'from: sdcountydpw since:2018-07-03 until:2018-11-08', 'from: sdcountydpw since:2018-11-08 until:2019-03-17', 'from: sdcountydpw since:2019-03-17 until:2019-07-24', 'from: sdcountydpw since:2019-07-24 until:2019-11-30', 'from: sdcountydpw since:2019-11-30 until:2020-04-07']
+INFO: Querying from: sdcountydpw since:2006-03-01 until:2006-07-07
+INFO: Querying from: sdcountydpw since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2006-11-13 until:2007-03-22
+INFO: Querying from: sdcountydpw since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2007-07-29 until:2007-12-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2007-12-04 until:2008-04-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2008-04-11 until:2008-08-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2008-08-18 until:2008-12-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2008-12-25 until:2009-05-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2009-05-02 until:2009-09-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2009-09-08 until:2010-01-15
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2010-01-15 until:2010-05-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2010-05-24 until:2010-09-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2010-09-30 until:2011-02-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2011-02-05 until:2011-06-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2011-06-14 until:2011-10-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2011-10-21 until:2012-02-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2012-02-27 until:2012-07-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2012-07-04 until:2012-11-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2012-11-10 until:2013-03-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2013-03-19 until:2013-07-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2013-07-26 until:2013-12-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2013-12-02 until:2014-04-09
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2014-04-09 until:2014-08-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2014-08-16 until:2014-12-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2014-12-23 until:2015-05-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2015-05-01 until:2015-09-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2015-09-06 until:2016-01-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2016-01-13 until:2016-05-21
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2016-05-21 until:2016-09-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2016-09-27 until:2017-02-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2017-02-03 until:2017-06-11
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2017-06-11 until:2017-10-18
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2017-10-18 until:2018-02-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2018-02-24 until:2018-07-03
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2018-07-03 until:2018-11-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2018-11-08 until:2019-03-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2019-03-17 until:2019-07-24
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2019-07-24 until:2019-11-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Querying from: sdcountydpw since:2019-11-30 until:2020-04-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1107833143736688640-1148967833872691200&q=from%3A%20sdcountydpw%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-439795776945156096-451367256115515392&q=from%3A%20sdcountydpw%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-510580627167797248-545086531996635137&q=from%3A%20sdcountydpw%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1992533685-3725047679&q=from%3A%20sdcountydpw%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOt_Zfo3x4WgMCnxYmK-vEfEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2019-03-17%20until%3A2019-07-24&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-967791865759084544-997495480094461957&q=from%3A%20sdcountydpw%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20sdcountydpw%20since%3A2019-03-17%20until%3A2019-07-24.
+INFO: Got 4 tweets (4 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-879820286538899456-911207416473174017&q=from%3A%20sdcountydpw%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMOouvu7mgwWgMCQwJiIysMMEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2013-12-02%20until%3A2014-04-09&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-829182792210673664-861207518105681922&q=from%3A%20sdcountydpw%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-148122883229630464-149268628754268160&q=from%3A%20sdcountydpw%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-14713305004-21505401320&q=from%3A%20sdcountydpw%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-330462044648267776-355204147492032512&q=from%3A%20sdcountydpw%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20sdcountydpw%20since%3A2013-12-02%20until%3A2014-04-09.
+INFO: Got 10 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-38729808691073024-71653557140586496&q=from%3A%20sdcountydpw%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMP4gZj5lQ4WgsCS-ILUxJAPEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2014-08-16%20until%3A2014-12-23&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-4508799826-6805862408&q=from%3A%20sdcountydpw%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-601740744307679232-635156146957844481&q=from%3A%20sdcountydpw%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20sdcountydpw%20since%3A2014-08-16%20until%3A2014-12-23.
+INFO: Got 18 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbqmp3sDhb-3b3gGxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdcountydpw%20since%3A2009-05-02%20until%3A2009-09-08&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-370605028366909440-404034224279519232&q=from%3A%20sdcountydpw%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnx4OSk7hoWisC0wdW26NcbEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2018-02-24%20until%3A2018-07-03&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-737870238948134912-780171623701684224&q=from%3A%20sdcountydpw%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20sdcountydpw%20since%3A2009-05-02%20until%3A2009-09-08.
+INFO: Got 28 tweets (10 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-174308539320385538-210115957912379392&q=from%3A%20sdcountydpw%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-550141913916252160-585946691792146432&q=from%3A%20sdcountydpw%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-288180177563959296-310117498815135744&q=from%3A%20sdcountydpw%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-7976007209-11894490232&q=from%3A%20sdcountydpw%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20sdcountydpw%20since%3A2018-02-24%20until%3A2018-07-03.
+INFO: Got 40 tweets (12 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1155672360218796032-1200420572401950720&q=from%3A%20sdcountydpw%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKvV8_jftRgWgoCu-aiUoaUZEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2017-06-11%20until%3A2017-10-18&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-936999060266815488-967035767271731200&q=from%3A%20sdcountydpw%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1200591176425988096-1240672824362061824&q=from%3A%20sdcountydpw%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-85859132585943041-120923649317416961&q=from%3A%20sdcountydpw%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLgx76ejgQWgICQkN3Bp5IEEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2011-10-21%20until%3A2012-02-27&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20sdcountydpw%20since%3A2017-06-11%20until%3A2017-10-18.
+INFO: Got 52 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKv55tbsgRcWhICuqZjrz_MXEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2017-02-03%20until%3A2017-06-11&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPw0d6ElgkWgMCQoMmS-O0JEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2013-03-19%20until%3A2013-07-26&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbY3tnPbRbQh5OdoAESNQAVACUAVQAVAAA%3D&q=from%3A%20sdcountydpw%20since%3A2010-05-24%20until%3A2010-09-30&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20sdcountydpw%20since%3A2011-10-21%20until%3A2012-02-27.
+INFO: Got 66 tweets (14 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20sdcountydpw%20since%3A2017-02-03%20until%3A2017-06-11.
+INFO: Got 82 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-229954015528640512-249160203562536961&q=from%3A%20sdcountydpw%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20sdcountydpw%20since%3A2013-03-19%20until%3A2013-07-26.
+INFO: Got 98 tweets (16 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20sdcountydpw%20since%3A2010-05-24%20until%3A2010-09-30.
+INFO: Got 114 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-790671443830775808-825340749528997889&q=from%3A%20sdcountydpw%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1098444806500564992-1102678467064315904&q=from%3A%20sdcountydpw%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-17621833738100736-33590022493962241&q=from%3A%20sdcountydpw%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-466744074578300929-495350060326989824&q=from%3A%20sdcountydpw%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-681690689843769346-685971403527471104&q=from%3A%20sdcountydpw%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-705420541725794308-721805466985037824&q=from%3A%20sdcountydpw%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1017551416972283904-1059919237337284608&q=from%3A%20sdcountydpw%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 201.55.164.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBakzfbLIRaQ4MnaMhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdcountydpw%20since%3A2009-09-08%20until%3A2010-01-15&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLX1mYHo2RAWgoCgxdDJw9AREjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2015-05-01%20until%3A2015-09-06&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwICUyaPMiQEWgICQxPqhyP4BEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2011-02-05%20until%3A2011-06-14&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20sdcountydpw%20since%3A2015-05-01%20until%3A2015-09-06.
+INFO: Got 134 tweets (20 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20sdcountydpw%20since%3A2009-09-08%20until%3A2010-01-15.
+INFO: Got 154 tweets (20 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20sdcountydpw%20since%3A2011-02-05%20until%3A2011-06-14.
+INFO: Got 176 tweets (22 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMS86dPTpAoWgIDA9I-_tZsLEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2013-07-26%20until%3A2013-12-02&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJL4rKyi6wQWgICRkLfWveoFEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2012-02-27%20until%3A2012-07-04&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20sdcountydpw%20since%3A2013-07-26%20until%3A2013-12-02.
+INFO: Got 200 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLCt1cS4vRQWgICh6an93NMVEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2016-05-21%20until%3A2016-09-27&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMGw_cm_og8WgMCw2aza2aEQEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2014-12-23%20until%3A2015-05-01&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKwh5bp_wcWgICSuJuO4c0IEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2012-11-10%20until%3A2013-03-19&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20sdcountydpw%20since%3A2012-02-27%20until%3A2012-07-04.
+INFO: Got 226 tweets (26 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbS2MG2OxbwkbzPWBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdcountydpw%20since%3A2010-01-15%20until%3A2010-05-24&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20sdcountydpw%20since%3A2016-05-21%20until%3A2016-09-27.
+INFO: Got 254 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20sdcountydpw%20since%3A2012-11-10%20until%3A2013-03-19.
+INFO: Got 282 tweets (28 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20sdcountydpw%20since%3A2014-12-23%20until%3A2015-05-01.
+INFO: Got 312 tweets (30 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKG57_jiiSAWgIC38dCJ4KghEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2019-07-24%20until%3A2019-11-30&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDhyevxgBoWgMChlYT6zOsaEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2017-10-18%20until%3A2018-02-24&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLf1i9StqSEWhsCg5azX4LciEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2019-11-30%20until%3A2020-04-07&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJGoo5uEsQIWgsCRqOPaza0DEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2011-06-14%20until%3A2011-10-21&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20sdcountydpw%20since%3A2010-01-15%20until%3A2010-05-24.
+INFO: Got 342 tweets (30 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20sdcountydpw%20since%3A2017-10-18%20until%3A2018-02-24.
+INFO: Got 370 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20sdcountydpw%20since%3A2011-06-14%20until%3A2011-10-21.
+INFO: Got 400 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20sdcountydpw%20since%3A2019-11-30%20until%3A2020-04-07.
+INFO: Got 426 tweets (26 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20sdcountydpw%20since%3A2019-07-24%20until%3A2019-11-30.
+INFO: Got 456 tweets (30 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOkrv36sAYWgsCSmNL4mPUGEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKHtwoTt9RIWgICmle3Wh4UTEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJDk6dCa-gwWgMCRlKyQ698NEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2014-04-09%20until%3A2014-08-16&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgKPt2I-UyhMWgICgie-Pr4QUEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKH5pd-D-RUWgoClpb7CmfQWEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2016-09-27%20until%3A2017-02-03&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLaN6u66vh4WgIC6raeOwM0eEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIHE3L3NPhaCgIDs0fyqdxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdcountydpw%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDV6-eInxwWgIC8gci7y7UdEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 118.200.73.124:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20sdcountydpw%20since%3A2016-09-27%20until%3A2017-02-03.
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20sdcountydpw%20since%3A2014-04-09%20until%3A2014-08-16.
+INFO: Got 496 tweets (40 new).
+INFO: Got 536 tweets (40 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHYouuVrQYWgsCSmNL4mPUGEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2012-07-04%20until%3A2012-11-10&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKP1xP-0nRwWgIC8gci7y7UdEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2018-07-03%20until%3A2018-11-08&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20sdcountydpw%20since%3A2012-07-04%20until%3A2012-11-10.
+INFO: Got 579 tweets (43 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20sdcountydpw%20since%3A2018-07-03%20until%3A2018-11-08.
+INFO: Got 621 tweets (42 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.68.161.60:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLXR7uSRihMWgICgie-Pr4QUEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2016-01-13%20until%3A2016-05-21&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20sdcountydpw%20since%3A2016-01-13%20until%3A2016-05-21.
+INFO: Got 671 tweets (50 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKa9pNPrhxIWgICmle3Wh4UTEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLbd37zxuR4WgIC6raeOwM0eEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwICYmovmGhaCgIDs0fyqdxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20sdcountydpw%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 119.28.133.75:80
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbZkLq_6xEWgICmle3Wh4UTEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2015-09-06%20until%3A2016-01-13&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBac3YWYywEWgoCA7NH8qncSNQAVACUAVQAVAAA%3D&q=from%3A%20sdcountydpw%20since%3A2010-09-30%20until%3A2011-02-05&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.197.100.116:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 67 tweets for from%3A%20sdcountydpw%20since%3A2015-09-06%20until%3A2016-01-13.
+INFO: Got 738 tweets (67 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20sdcountydpw%20since%3A2010-09-30%20until%3A2011-02-05.
+INFO: Got 804 tweets (66 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 139.59.59.63:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKO1h8WNth4WgIC6raeOwM0eEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 103.250.68.10:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 175.41.45.113:52581
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL-B6oTFkh4WgIC6raeOwM0eEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 119.81.199.84:31288
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 192.241.245.207:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKeh0brB2R0WgIC6raeOwM0eEjUAFQAlAFUAFQAA&q=from%3A%20sdcountydpw%20since%3A2018-11-08%20until%3A2019-03-17&l=en
+INFO: Using proxy 159.138.22.112:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 108 tweets for from%3A%20sdcountydpw%20since%3A2018-11-08%20until%3A2019-03-17.
+INFO: Got 912 tweets (108 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.239.218.54:8118
+INFO: Retrying... (Attempts left: 37)
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.81.199.85:31288
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 43.248.24.158:51166
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 169.57.157.146:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 80.48.210.2:32434
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 159.65.151.96:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 23.83.247.171:443
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 173.212.202.65:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 85.10.219.100:1080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 51.158.123.35:8811
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 171.103.139.126:32394
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 188.40.183.186:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 119.81.199.82:8123
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.81.199.87:31288
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.81.199.82:8123
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.81.199.82:8123
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.81.199.82:8123
+INFO: Using proxy 119.81.199.82:8123
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.81.199.82:8123
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 85.10.219.102:1080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.81.199.82:8123
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 119.81.199.82:8123
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.81.199.82:8123
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Retrying... (Attempts left: 21)
+INFO: Using proxy 185.205.209.198:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 191.96.42.80:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 177.37.240.52:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 161.202.226.194:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 186.167.33.244:42550
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 154.16.202.22:8080
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 213.230.68.187:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 103.127.189.13:808
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 189.57.62.146:80
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 36.67.24.109:37641
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 119.81.199.83:31288
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 138.68.24.145:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 159.8.114.37:8123
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 112.78.169.98:36963
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 217.162.74.172:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 37.144.226.46:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.204.168.106:63141
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2008-12-25%20until%3A2009-05-02.
+INFO: Got 912 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 113.53.82.92:39726
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2008-08-18%20until%3A2008-12-25.
+INFO: Got 912 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 912 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 54.154.10.149:3128
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 912 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 912 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2007-12-04%20until%3A2008-04-11.
+INFO: Got 912 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2007-07-29%20until%3A2007-12-04.
+INFO: Got 912 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2008-04-11%20until%3A2008-08-18.
+INFO: Got 912 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20sdcountydpw%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 912 tweets (0 new).
