@@ -1,0 +1,2432 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: PHXPlanandDev since:2006-03-01 until:2006-07-07', 'from: PHXPlanandDev since:2006-07-07 until:2006-11-13', 'from: PHXPlanandDev since:2006-11-13 until:2007-03-22', 'from: PHXPlanandDev since:2007-03-22 until:2007-07-29', 'from: PHXPlanandDev since:2007-07-29 until:2007-12-05', 'from: PHXPlanandDev since:2007-12-05 until:2008-04-12', 'from: PHXPlanandDev since:2008-04-12 until:2008-08-19', 'from: PHXPlanandDev since:2008-08-19 until:2008-12-26', 'from: PHXPlanandDev since:2008-12-26 until:2009-05-04', 'from: PHXPlanandDev since:2009-05-04 until:2009-09-10', 'from: PHXPlanandDev since:2009-09-10 until:2010-01-17', 'from: PHXPlanandDev since:2010-01-17 until:2010-05-26', 'from: PHXPlanandDev since:2010-05-26 until:2010-10-02', 'from: PHXPlanandDev since:2010-10-02 until:2011-02-07', 'from: PHXPlanandDev since:2011-02-07 until:2011-06-16', 'from: PHXPlanandDev since:2011-06-16 until:2011-10-23', 'from: PHXPlanandDev since:2011-10-23 until:2012-02-29', 'from: PHXPlanandDev since:2012-02-29 until:2012-07-07', 'from: PHXPlanandDev since:2012-07-07 until:2012-11-13', 'from: PHXPlanandDev since:2012-11-13 until:2013-03-22', 'from: PHXPlanandDev since:2013-03-22 until:2013-07-29', 'from: PHXPlanandDev since:2013-07-29 until:2013-12-05', 'from: PHXPlanandDev since:2013-12-05 until:2014-04-13', 'from: PHXPlanandDev since:2014-04-13 until:2014-08-20', 'from: PHXPlanandDev since:2014-08-20 until:2014-12-27', 'from: PHXPlanandDev since:2014-12-27 until:2015-05-05', 'from: PHXPlanandDev since:2015-05-05 until:2015-09-10', 'from: PHXPlanandDev since:2015-09-10 until:2016-01-17', 'from: PHXPlanandDev since:2016-01-17 until:2016-05-25', 'from: PHXPlanandDev since:2016-05-25 until:2016-10-01', 'from: PHXPlanandDev since:2016-10-01 until:2017-02-07', 'from: PHXPlanandDev since:2017-02-07 until:2017-06-16', 'from: PHXPlanandDev since:2017-06-16 until:2017-10-23', 'from: PHXPlanandDev since:2017-10-23 until:2018-03-01', 'from: PHXPlanandDev since:2018-03-01 until:2018-07-08', 'from: PHXPlanandDev since:2018-07-08 until:2018-11-14', 'from: PHXPlanandDev since:2018-11-14 until:2019-03-23', 'from: PHXPlanandDev since:2019-03-23 until:2019-07-30', 'from: PHXPlanandDev since:2019-07-30 until:2019-12-06', 'from: PHXPlanandDev since:2019-12-06 until:2020-04-13']
+INFO: Querying from: PHXPlanandDev since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PHXPlanandDev since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-246671422154502145-246671422154502145&q=from%3A%20PHXPlanandDev%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1122932669803679754-1122932669803679754&q=from%3A%20PHXPlanandDev%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-3129992435-3129992435&q=from%3A%20PHXPlanandDev%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-467338395828879361-467338395828879361&q=from%3A%20PHXPlanandDev%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-594349529958199296-594349529958199296&q=from%3A%20PHXPlanandDev%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-829354788483526656-839885884417691648&q=from%3A%20PHXPlanandDev%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-381172819016441856-406824330798960641&q=from%3A%20PHXPlanandDev%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-10485046230122498-18092688595222531&q=from%3A%20PHXPlanandDev%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1096152125980106752-1102660662109495296&q=from%3A%20PHXPlanandDev%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1189252988000526337-1196890017236283393&q=from%3A%20PHXPlanandDev%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-81917341067251712-101060962643218433&q=from%3A%20PHXPlanandDev%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJPcv5at7AYWgsCT3L-WrewGEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-277914667836391425-307880651997188096&q=from%3A%20PHXPlanandDev%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-948978935911493632-951555369813159936&q=from%3A%20PHXPlanandDev%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbmk_-oFxbmk_-oFxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PHXPlanandDev%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaUwKKlidS6lR8WlMCipYnUupUfEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMCU8PKo_AwWgoDAlPDyqPwMEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PHXPlanandDev%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 2 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-795696557890813952-819227902017343488&q=from%3A%20PHXPlanandDev%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKHZ8-_GvxAWgMCh2fPvxr8QEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-132221769414225921-161585018769129472&q=from%3A%20PHXPlanandDev%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PHXPlanandDev%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 4 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJO4maqZygoWgsCQtNmkqqULEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8002475271-14449412458&q=from%3A%20PHXPlanandDev%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PHXPlanandDev%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 6 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-190185795548753920-218843028473917440&q=from%3A%20PHXPlanandDev%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PHXPlanandDev%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 8 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-48082810543677440-78245881555595264&q=from%3A%20PHXPlanandDev%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKOFp_K6ghcWgMCmieLw76cXEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-d1dKJgSEWgsCjiaPImpwhEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-4539508747-7764465527&q=from%3A%20PHXPlanandDev%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-973994419849347072-997553014364815365&q=from%3A%20PHXPlanandDev%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PHXPlanandDev%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 10 tweets (2 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgICAgoagJRaGgIDMis2jQBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PHXPlanandDev%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-597770642713227264-604054943348051968&q=from%3A%20PHXPlanandDev%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-743150385800450048-777915358510354432&q=from%3A%20PHXPlanandDev%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20PHXPlanandDev%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 14 tweets (4 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKuNoaOoth4WgICrjfaBuM0eEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJLk3_qs2wcWgMCQ-Mv058UIEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-317326576809295873-348282320110878720&q=from%3A%20PHXPlanandDev%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20PHXPlanandDev%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 18 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20PHXPlanandDev%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 22 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-17052992272-26031623370&q=from%3A%20PHXPlanandDev%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnljtS5qxoWgMChnaekzbQaEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJD059iDowIWgsCQsJ-ahecCEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20PHXPlanandDev%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 28 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-689592146513367040-733682246675267584&q=from%3A%20PHXPlanandDev%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20PHXPlanandDev%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 34 tweets (6 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20PHXPlanandDev%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 40 tweets (6 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20PHXPlanandDev%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 48 tweets (8 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20PHXPlanandDev%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 54 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-649605208813649920-687675305977221121&q=from%3A%20PHXPlanandDev%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKqht_PwihYWgMConffbvd4WEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJHY9b_f1QMWgICSzP2tiL4EEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20PHXPlanandDev%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 62 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaO1ODPOxbUpYTUaxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PHXPlanandDev%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGk98PpqgEWgMCR9N6N_pUCEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20PHXPlanandDev%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 72 tweets (10 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaWoJvpIRbu3eLsORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PHXPlanandDev%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGQpr7WowUWgMCR3OWkvokGEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKqF9rCphBsWioCunc3LgtgbEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGB8M7ayxAWgMCisaixhOIQEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20PHXPlanandDev%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 86 tweets (14 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20PHXPlanandDev%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 98 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20PHXPlanandDev%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 112 tweets (14 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20PHXPlanandDev%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 124 tweets (12 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20PHXPlanandDev%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 138 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKSF1dWZ0BQWgMCklbT52ssVEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20PHXPlanandDev%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 150 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBagjICHfxaUs9j5wQESNQAVACUAVQAVAAA%3D&q=from%3A%20PHXPlanandDev%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKI5LWv5wgWgICQvJi7rNUJEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20PHXPlanandDev%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 164 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDN6pn2kRMWgIC4sbeHyK4UEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20PHXPlanandDev%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 180 tweets (16 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20PHXPlanandDev%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 198 tweets (18 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20PHXPlanandDev%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 214 tweets (16 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKa53J_ugxIWgsCk2YPDjosTEjUAFQAlAFUAFQAA&q=from%3A%20PHXPlanandDev%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20PHXPlanandDev%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 234 tweets (20 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 33)
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 11)
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 234 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 234 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 234 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 234 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 234 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 234 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 234 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 234 tweets (0 new).
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 234 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 234 tweets (0 new).
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 234 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 234 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 234 tweets (0 new).
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Got 0 tweets for from%3A%20PHXPlanandDev%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 234 tweets (0 new).

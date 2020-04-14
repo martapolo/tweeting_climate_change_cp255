@@ -1,0 +1,2268 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; fr; rv:1.9.2.13) Gecko/20101203 Firebird/3.6.13'}
+INFO: queries: ['from: HoustonOEM since:2006-03-01 until:2006-07-07', 'from: HoustonOEM since:2006-07-07 until:2006-11-13', 'from: HoustonOEM since:2006-11-13 until:2007-03-22', 'from: HoustonOEM since:2007-03-22 until:2007-07-29', 'from: HoustonOEM since:2007-07-29 until:2007-12-05', 'from: HoustonOEM since:2007-12-05 until:2008-04-12', 'from: HoustonOEM since:2008-04-12 until:2008-08-19', 'from: HoustonOEM since:2008-08-19 until:2008-12-26', 'from: HoustonOEM since:2008-12-26 until:2009-05-04', 'from: HoustonOEM since:2009-05-04 until:2009-09-10', 'from: HoustonOEM since:2009-09-10 until:2010-01-17', 'from: HoustonOEM since:2010-01-17 until:2010-05-26', 'from: HoustonOEM since:2010-05-26 until:2010-10-02', 'from: HoustonOEM since:2010-10-02 until:2011-02-07', 'from: HoustonOEM since:2011-02-07 until:2011-06-16', 'from: HoustonOEM since:2011-06-16 until:2011-10-23', 'from: HoustonOEM since:2011-10-23 until:2012-02-29', 'from: HoustonOEM since:2012-02-29 until:2012-07-07', 'from: HoustonOEM since:2012-07-07 until:2012-11-13', 'from: HoustonOEM since:2012-11-13 until:2013-03-22', 'from: HoustonOEM since:2013-03-22 until:2013-07-29', 'from: HoustonOEM since:2013-07-29 until:2013-12-05', 'from: HoustonOEM since:2013-12-05 until:2014-04-13', 'from: HoustonOEM since:2014-04-13 until:2014-08-20', 'from: HoustonOEM since:2014-08-20 until:2014-12-27', 'from: HoustonOEM since:2014-12-27 until:2015-05-05', 'from: HoustonOEM since:2015-05-05 until:2015-09-10', 'from: HoustonOEM since:2015-09-10 until:2016-01-17', 'from: HoustonOEM since:2016-01-17 until:2016-05-25', 'from: HoustonOEM since:2016-05-25 until:2016-10-01', 'from: HoustonOEM since:2016-10-01 until:2017-02-07', 'from: HoustonOEM since:2017-02-07 until:2017-06-16', 'from: HoustonOEM since:2017-06-16 until:2017-10-23', 'from: HoustonOEM since:2017-10-23 until:2018-03-01', 'from: HoustonOEM since:2018-03-01 until:2018-07-08', 'from: HoustonOEM since:2018-07-08 until:2018-11-14', 'from: HoustonOEM since:2018-11-14 until:2019-03-23', 'from: HoustonOEM since:2019-03-23 until:2019-07-30', 'from: HoustonOEM since:2019-07-30 until:2019-12-06', 'from: HoustonOEM since:2019-12-06 until:2020-04-13']
+INFO: Querying from: HoustonOEM since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2012-11-13 until:2013-03-22
+INFO: Querying from: HoustonOEM since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonOEM since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-13489019226-13489019226&q=from%3A%20HoustonOEM%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-32864669962080257-33566305856524289&q=from%3A%20HoustonOEM%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa05ZDAZBa05ZDAZBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HoustonOEM%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20HoustonOEM%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 2 tweets (2 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Retrying... (Attempts left: 49)
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwICsyI_hdBaCwICQk5igdxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HoustonOEM%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20HoustonOEM%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 10 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-35350804881743872-77055193690275840&q=from%3A%20HoustonOEM%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-303509592871170048-314753532307841024&q=from%3A%20HoustonOEM%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-725279118531534848-735116497664626688&q=from%3A%20HoustonOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-110003349738369024-125012598629474304&q=from%3A%20HoustonOEM%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-571030788923375616-592018681699430400&q=from%3A%20HoustonOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-243356428763557888-267105588947857409&q=from%3A%20HoustonOEM%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-321965465205362688-355038597142937600&q=from%3A%20HoustonOEM%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-170313422905421824-174494963336351746&q=from%3A%20HoustonOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-658273673283899392-687761403772583936&q=from%3A%20HoustonOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-199847959456776193-219117039204306945&q=from%3A%20HoustonOEM%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-847905405984542720-871453708738994176&q=from%3A%20HoustonOEM%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-990672361757265926-1014740813778182144&q=from%3A%20HoustonOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1107388718900486145-1109119556000366592&q=from%3A%20HoustonOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-817486364929359873-828487361944240128&q=from%3A%20HoustonOEM%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-368493161309429760-407934209915772928&q=from%3A%20HoustonOEM%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-472736363951820800-501707725135708160&q=from%3A%20HoustonOEM%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-509077516896567296-546438431673679873&q=from%3A%20HoustonOEM%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-426320224657633280-453593072861851648&q=from%3A%20HoustonOEM%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-764627744583921664-781583674152148992&q=from%3A%20HoustonOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIH41NfLfRaAgJCAy9LgkQISNQAVACUAVQAVAAA%3D&q=from%3A%20HoustonOEM%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-953375340998680579-968887624210448385&q=from%3A%20HoustonOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-905888749606899716-921124818791084034&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1048687108624453632-1062489543906127872&q=from%3A%20HoustonOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-618416407382855680-631526247135252480&q=from%3A%20HoustonOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1246064895264722945-1249329284658991105&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1174853033051721729-1200815281205059584&q=from%3A%20HoustonOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20HoustonOEM%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 32 tweets (22 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1134841599865905152-1154397328721293312&q=from%3A%20HoustonOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJPQu5ektggWgICR0PCqnd4IEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOkvtjJ4AYWgsCRrMbH-bQHEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJCIoaqAxgUWgsCQ4KjyuooGEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGU193nhgMWgICR3PmSkbwDEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJL4z_js9wgWgICQhKPurO0JEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDR4ZrUohIWgIC2ocrWtYsTEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKXx_-DakBQWgMCi_emj1LMUEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGM_MmJ3QQWhMCQjNSP9-sEEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLaZxN7a7A8WgMC38db2orcQEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLjlkOGl2BYWgICy2be3sP8WEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLa19NDJvxsWgIC3hZrZipUcEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDcvdPNkA4WgoDAuPi2q5UPEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMP0if_L6gsWgMCRyOOfvssMEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJOkkc3k4AgWgICQhKPurO0JEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPg_aSTnQoWgICTnJWAo6kLEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDc_M2_jw0WgIDEnJKhtvYNEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnVvbjAnBUWgICrwb2N39gVEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLztrd6uxBcWgICtuf2hg5gYEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLWlhoue3h4WgIC6zYOXseQeEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDVxZyHlREWgMCordPx0MMREjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20HoustonOEM%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 73 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgL-dyfSIuxoWgoCwxaWKl_IaEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwLzllMGukhkWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzhz9fXjR0WgMC7oYyn3L4dEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLSV89r0yiIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLSl_Kb1zSAWgIC10drIk6ohEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_FhJvivx8WgMC9waKQn4UgEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgMGU4faU-Q0WgoDAuPi2q5UPEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20HoustonOEM%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 119 tweets (46 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgJHQ1d2EtwIWgICR3PmSkbwDEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20HoustonOEM%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 170 tweets (51 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJO41sfDoA8WgMC38db2orcQEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDI-t7CjgoWgICTnJWAo6kLEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPA9df8tQsWgMCRyOOfvssMEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20HoustonOEM%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 219 tweets (49 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20HoustonOEM%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 271 tweets (52 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20HoustonOEM%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 320 tweets (49 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLeZytmZgxsWgIC3hZrZipUcEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20HoustonOEM%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 372 tweets (52 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCcysux3AcWgICR0PCqnd4IEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOUiLnmoQYWgsCRrMbH-bQHEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJLQ3pnzhgUWgsCQ4KjyuooGEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLGhrbuBiBcWgICtuf2hg5gYEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLfdsL2fiBIWgIC2ocrWtYsTEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Using proxy 103.83.116.210:55443
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKGJwJXQhBQWgMCi_emj1LMUEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20HoustonOEM%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 431 tweets (59 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJL4gMq3qAQWhMCQjNSP9-sEEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20HoustonOEM%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 478 tweets (47 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMOk2qX50gwWgIDEnJKhtvYNEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgLz57_P-mRYWgICy2be3sP8WEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20HoustonOEM%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 537 tweets (59 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKStyOej6RAWgMCordPx0MMREjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCk3sjF-wQWgsCQ4KjyuooGEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLuBnI2ojBoWgoCwxaWKl_IaEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKndpa-Z5hQWgICrwb2N39gVEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKGNo7r4hxkWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL298vOHxSIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbp5f3_9R0WgIC6zYOXseQeEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 64 tweets for from%3A%20HoustonOEM%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Got 601 tweets (64 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJHEpNPpzAcWgICR0PCqnd4IEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL25yNqemyAWgIC10drIk6ohEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDZvK78qBwWgMC7oYyn3L4dEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKXx3oz96REWgIC2ocrWtYsTEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDFqs-w9h4WgMC9waKQn4UgEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 68 tweets for from%3A%20HoustonOEM%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 669 tweets (68 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20HoustonOEM%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 735 tweets (66 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGBpaqm7hUWgICy2be3sP8WEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_BlZvzmhwWgMC7oYyn3L4dEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyBktvS5R4WgMC9waKQn4UgEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 65 tweets for from%3A%20HoustonOEM%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 800 tweets (65 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 55 tweets for from%3A%20HoustonOEM%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 855 tweets (55 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 54 tweets for from%3A%20HoustonOEM%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 909 tweets (54 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHQkevW9AMWhMCQjNSP9-sEEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKX5h4jNzxMWgMCi_emj1LMUEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLStjf_UiyAWgIC10drIk6ohEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 63 tweets for from%3A%20HoustonOEM%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 972 tweets (63 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaSgLfF8q3jhhkWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLfJldH84BAWgMCordPx0MMREjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLy909CI2BkWgoCwxaWKl_IaEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL7dsqimvyIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwKjl3bzbthQWgICrwb2N39gVEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLXl0MuOwR0WgIC6zYOXseQeEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20HoustonOEM%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 1047 tweets (75 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKSpvKitthQWgICrwb2N39gVEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 81 tweets for from%3A%20HoustonOEM%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 1128 tweets (81 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLbh3L-I0xkWgoCwxaWKl_IaEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 78 tweets for from%3A%20HoustonOEM%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 1206 tweets (78 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHUgY-J0wMWhMCQjNSP9-sEEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 93 tweets for from%3A%20HoustonOEM%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 1299 tweets (93 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKHdv4i1kRMWgMCi_emj1LMUEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 93 tweets for from%3A%20HoustonOEM%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 1392 tweets (93 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXNyK6mhRkWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKH9lKXQ0xAWgMCordPx0MMREjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKOFnMGWvCIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKHR2ofExhAWgMCordPx0MMREjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 104 tweets for from%3A%20HoustonOEM%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 1496 tweets (104 new).
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK61zdaohBkWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL2lmMLotSIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLXhqtmOhBkWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLX18ZTesiIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLu1vZzvgxkWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPNvf_krSIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLWhyujogRkWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSRxK_7oiIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXd-4vq_xgWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwLSp_uiWnyIWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 21)
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLulsb391RgWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgLCRnoby8CEWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL2ls5K1rBgWhMC1nY6Jv8gZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 235 tweets for from%3A%20HoustonOEM%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 1731 tweets (235 new).
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLXpyqr4vSEWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWRtYDsvSEWgsC8ua-XwdYiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 241 tweets for from%3A%20HoustonOEM%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 1972 tweets (241 new).
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 9)
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 1972 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1972 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1972 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonOEM%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1972 tweets (0 new).

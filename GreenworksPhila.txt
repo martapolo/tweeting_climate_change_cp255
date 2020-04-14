@@ -1,0 +1,2160 @@
+INFO: {'User-Agent': 'Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16'}
+INFO: queries: ['from: GreenworksPhila since:2006-03-01 until:2006-07-07', 'from: GreenworksPhila since:2006-07-07 until:2006-11-13', 'from: GreenworksPhila since:2006-11-13 until:2007-03-22', 'from: GreenworksPhila since:2007-03-22 until:2007-07-29', 'from: GreenworksPhila since:2007-07-29 until:2007-12-05', 'from: GreenworksPhila since:2007-12-05 until:2008-04-12', 'from: GreenworksPhila since:2008-04-12 until:2008-08-19', 'from: GreenworksPhila since:2008-08-19 until:2008-12-26', 'from: GreenworksPhila since:2008-12-26 until:2009-05-04', 'from: GreenworksPhila since:2009-05-04 until:2009-09-10', 'from: GreenworksPhila since:2009-09-10 until:2010-01-17', 'from: GreenworksPhila since:2010-01-17 until:2010-05-26', 'from: GreenworksPhila since:2010-05-26 until:2010-10-02', 'from: GreenworksPhila since:2010-10-02 until:2011-02-07', 'from: GreenworksPhila since:2011-02-07 until:2011-06-16', 'from: GreenworksPhila since:2011-06-16 until:2011-10-23', 'from: GreenworksPhila since:2011-10-23 until:2012-02-29', 'from: GreenworksPhila since:2012-02-29 until:2012-07-07', 'from: GreenworksPhila since:2012-07-07 until:2012-11-13', 'from: GreenworksPhila since:2012-11-13 until:2013-03-22', 'from: GreenworksPhila since:2013-03-22 until:2013-07-29', 'from: GreenworksPhila since:2013-07-29 until:2013-12-05', 'from: GreenworksPhila since:2013-12-05 until:2014-04-13', 'from: GreenworksPhila since:2014-04-13 until:2014-08-20', 'from: GreenworksPhila since:2014-08-20 until:2014-12-27', 'from: GreenworksPhila since:2014-12-27 until:2015-05-05', 'from: GreenworksPhila since:2015-05-05 until:2015-09-10', 'from: GreenworksPhila since:2015-09-10 until:2016-01-17', 'from: GreenworksPhila since:2016-01-17 until:2016-05-25', 'from: GreenworksPhila since:2016-05-25 until:2016-10-01', 'from: GreenworksPhila since:2016-10-01 until:2017-02-07', 'from: GreenworksPhila since:2017-02-07 until:2017-06-16', 'from: GreenworksPhila since:2017-06-16 until:2017-10-23', 'from: GreenworksPhila since:2017-10-23 until:2018-03-01', 'from: GreenworksPhila since:2018-03-01 until:2018-07-08', 'from: GreenworksPhila since:2018-07-08 until:2018-11-14', 'from: GreenworksPhila since:2018-11-14 until:2019-03-23', 'from: GreenworksPhila since:2019-03-23 until:2019-07-30', 'from: GreenworksPhila since:2019-07-30 until:2019-12-06', 'from: GreenworksPhila since:2019-12-06 until:2020-04-13']
+INFO: Querying from: GreenworksPhila since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2013-03-22 until:2013-07-29
+INFO: Querying from: GreenworksPhila since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Querying from: GreenworksPhila since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 14.207.26.192:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 50)
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-24020314511-26005993862&q=from%3A%20GreenworksPhila%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-108294173433659392-126681863241732096&q=from%3A%20GreenworksPhila%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-132684565302087680-169934124000362496&q=from%3A%20GreenworksPhila%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-41185811194056704-76731711756582913&q=from%3A%20GreenworksPhila%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-180430974964858883-214848346022621184&q=from%3A%20GreenworksPhila%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaepsf7sgEWjOaf4cEBEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20GreenworksPhila%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 6 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-735915951275794432-767776072112955392&q=from%3A%20GreenworksPhila%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDgl_qx1wMWgICShO-L3dsEEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCsw77egAMWgMCQoPieiMIDEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20GreenworksPhila%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 14 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-270591937789181953-314768422149971968&q=from%3A%20GreenworksPhila%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-362984523652280321-407996454222180352&q=from%3A%20GreenworksPhila%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20GreenworksPhila%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 22 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-27775735652-33294609627099137&q=from%3A%20GreenworksPhila%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-644544068022861824-687414086871724034&q=from%3A%20GreenworksPhila%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDg3ZGpkgEWgoCS5LrFzZACEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-783064865900339201-827224756164366337&q=from%3A%20GreenworksPhila%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-503969486966628352-547429143525462017&q=from%3A%20GreenworksPhila%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgJCUgcGCgQUWgMCRlNbbpfsFEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20GreenworksPhila%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 34 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-556120453799239680-590950868947697665&q=from%3A%20GreenworksPhila%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20GreenworksPhila%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 48 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1110572518807662592-1149725217419399168&q=from%3A%20GreenworksPhila%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-316600875219034113-355709609324978176&q=from%3A%20GreenworksPhila%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-595976252143640576-631922831031406592&q=from%3A%20GreenworksPhila%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-455707869695180800-481102519712894976&q=from%3A%20GreenworksPhila%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1207365610000310275-1248612087540019202&q=from%3A%20GreenworksPhila%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-232479850689077249-267280904681046016&q=from%3A%20GreenworksPhila%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-410109209544773632-454618918460870656&q=from%3A%20GreenworksPhila%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-720270265037422592-734757053126696961&q=from%3A%20GreenworksPhila%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-877970510918725632-920737566030204929&q=from%3A%20GreenworksPhila%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-969225830114234368-1014929921368641537&q=from%3A%20GreenworksPhila%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-852554555128676352-870375460785582081&q=from%3A%20GreenworksPhila%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLPFk-q_thQWgICz1aGR2KcVEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-922517417703731200-965993716275130370&q=from%3A%20GreenworksPhila%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1166711225948037120-1202615608564682752&q=from%3A%20GreenworksPhila%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1075428961344212994-1104397824911986688&q=from%3A%20GreenworksPhila%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20GreenworksPhila%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 68 tweets (20 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1047465526841229313-1058472310569492480&q=from%3A%20GreenworksPhila%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 179.124.19.9:50664
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKw4fuqwQcWgICTzMqNpN4IEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJH0iKDKiQoWgMDBuKGnv6kLEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20GreenworksPhila%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 92 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLSJx9rw8REWhMC12Ynel4oTEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20GreenworksPhila%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 116 tweets (24 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20GreenworksPhila%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 140 tweets (24 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbI3YD5zgEWgsCRvKzRpHYSNQAVACUAVQAVAAA%3D&q=from%3A%20GreenworksPhila%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKGBmNaA3hUWgMCx_fm99P8WEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20GreenworksPhila%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 172 tweets (32 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.108.86.40:39392
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMGEgeW6_g0WgsDA-Pr57ZgPEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20GreenworksPhila%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 198 tweets (26 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMPQ5qbetw8WgoCw9eWrvbMQEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20GreenworksPhila%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 228 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20GreenworksPhila%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 258 tweets (30 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLuNzPTF6R4WgMC82cy_0vQfEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJHwsbTl5AgWgICRsKmA3u8JEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20GreenworksPhila%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 288 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20GreenworksPhila%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 322 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLm5zM-qxRAWgMCw0e-dhcUREjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMDok_n_0gwWgMDCwKqMnK0NEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgLuhg6i2wSEWhMCnwYCF-9MiEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 168.90.50.118:39734
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20GreenworksPhila%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 358 tweets (36 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMKg54mAsQsWgMDC8OzfkM8MEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJHcqMz3uQYWgICSrKKkybUHEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKidrf_0_hMWgoCjvbPpsLIUEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20GreenworksPhila%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 384 tweets (26 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20GreenworksPhila%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 424 tweets (40 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGp5eGWrxgWgsC0qYT8jscZEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzxu_Cw8xoWgsC-sdvY4JUcEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLvVhK24zRkWhMC1ndeK8-caEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLChuvbw1BcWgsC7ldj3mJQYEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMCAjrqB0gwWgMDCwKqMnK0NEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJL0nd3QqQYWgICSrKKkybUHEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20GreenworksPhila%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 462 tweets (38 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20GreenworksPhila%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 500 tweets (38 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Twitter returned : 'has_more_items' 
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20GreenworksPhila%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 42 tweets for from%3A%20GreenworksPhila%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 542 tweets (42 new).
+INFO: Got 584 tweets (42 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLbhqLzY7B0WgMC-yY3-zdMeEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL-htuv-sCAWgMC03cahxrAhEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 177.66.255.9:33774
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL3Nz-_4gR0WgICnwau9ubAdEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 179.127.241.131:31957
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLD5gaOpqxgWgsC0qYT8jscZEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLq12vvBpSAWgMC03cahxrAhEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20GreenworksPhila%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 625 tweets (41 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20GreenworksPhila%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 667 tweets (42 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 116.193.221.69:34328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLLdtNyuohMWgoCjvbPpsLIUEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 53 tweets for from%3A%20GreenworksPhila%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 720 tweets (53 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLWFp5qQwh0WgMC-yY3-zdMeEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLPlvqu0ghcWgsC7ldj3mJQYEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20GreenworksPhila%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 771 tweets (51 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 138.185.246.239:55146
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 55 tweets for from%3A%20GreenworksPhila%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 826 tweets (55 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.186.1.46:61209
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL3xgtn-whwWgICnwau9ubAdEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 200.255.122.170:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.219.214.169:40456
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgL-9vanpnxwWgICnwau9ubAdEjUAFQAlAFUAFQAA&q=from%3A%20GreenworksPhila%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 110.76.128.53:43009
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 61 tweets for from%3A%20GreenworksPhila%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 887 tweets (61 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.197.157.45:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 191.252.100.178:80
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 132.255.34.24:31568
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 196.2.10.31:57628
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 192.140.42.81:52818
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.13.178.4:38652
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 66.97.42.99:3128
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Retrying... (Attempts left: 31)
+INFO: Using proxy 185.16.13.160:49651
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.16.13.160:49651
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.117.176.236:61358
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.67.203.130:32474
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.122.140.35:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.17.145.237:57314
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.137.203.178:60771
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 86.57.177.8:61707
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.17.19.90:57685
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.127.243.6:31567
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.235.83.186:38935
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.16.10.141:30603
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 93.125.22.31:3128
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 169.57.157.148:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.187.116.232:36908
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.228.96.34:48071
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 12)
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.45.49.179:41996
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 192.140.42.83:50108
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.168.72.39:40373
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.182.156.236:52668
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.191.53.106:57073
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.89.178.241:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 170.83.112.199:32589
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.127.241.151:59477
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.225.188.94:36707
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.205.209.198:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.108.123.210:35436
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.70.60.66:51625
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 887 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 887 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 213.154.0.120:53281
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 887 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20GreenworksPhila%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 887 tweets (0 new).

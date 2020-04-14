@@ -1,0 +1,2172 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; fr; rv:1.9.2.13) Gecko/20101203 Firebird/3.6.13'}
+INFO: queries: ['from: SustainIndy since:2006-03-01 until:2006-07-07', 'from: SustainIndy since:2006-07-07 until:2006-11-13', 'from: SustainIndy since:2006-11-13 until:2007-03-22', 'from: SustainIndy since:2007-03-22 until:2007-07-29', 'from: SustainIndy since:2007-07-29 until:2007-12-05', 'from: SustainIndy since:2007-12-05 until:2008-04-12', 'from: SustainIndy since:2008-04-12 until:2008-08-19', 'from: SustainIndy since:2008-08-19 until:2008-12-26', 'from: SustainIndy since:2008-12-26 until:2009-05-04', 'from: SustainIndy since:2009-05-04 until:2009-09-10', 'from: SustainIndy since:2009-09-10 until:2010-01-17', 'from: SustainIndy since:2010-01-17 until:2010-05-26', 'from: SustainIndy since:2010-05-26 until:2010-10-02', 'from: SustainIndy since:2010-10-02 until:2011-02-07', 'from: SustainIndy since:2011-02-07 until:2011-06-16', 'from: SustainIndy since:2011-06-16 until:2011-10-23', 'from: SustainIndy since:2011-10-23 until:2012-02-29', 'from: SustainIndy since:2012-02-29 until:2012-07-07', 'from: SustainIndy since:2012-07-07 until:2012-11-13', 'from: SustainIndy since:2012-11-13 until:2013-03-22', 'from: SustainIndy since:2013-03-22 until:2013-07-29', 'from: SustainIndy since:2013-07-29 until:2013-12-05', 'from: SustainIndy since:2013-12-05 until:2014-04-13', 'from: SustainIndy since:2014-04-13 until:2014-08-20', 'from: SustainIndy since:2014-08-20 until:2014-12-27', 'from: SustainIndy since:2014-12-27 until:2015-05-05', 'from: SustainIndy since:2015-05-05 until:2015-09-10', 'from: SustainIndy since:2015-09-10 until:2016-01-17', 'from: SustainIndy since:2016-01-17 until:2016-05-25', 'from: SustainIndy since:2016-05-25 until:2016-10-01', 'from: SustainIndy since:2016-10-01 until:2017-02-07', 'from: SustainIndy since:2017-02-07 until:2017-06-16', 'from: SustainIndy since:2017-06-16 until:2017-10-23', 'from: SustainIndy since:2017-10-23 until:2018-03-01', 'from: SustainIndy since:2018-03-01 until:2018-07-08', 'from: SustainIndy since:2018-07-08 until:2018-11-14', 'from: SustainIndy since:2018-11-14 until:2019-03-23', 'from: SustainIndy since:2019-03-23 until:2019-07-30', 'from: SustainIndy since:2019-07-30 until:2019-12-06', 'from: SustainIndy since:2019-12-06 until:2020-04-13']
+INFO: Querying from: SustainIndy since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2011-06-16 until:2011-10-23
+INFO: Querying from: SustainIndy since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Querying from: SustainIndy since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 117.102.73.44:8182
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15721676377-25124434829&q=from%3A%20SustainIndy%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-511568556618969088-540245491293118469&q=from%3A%20SustainIndy%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-142648675938742272-165457592057995265&q=from%3A%20SustainIndy%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-844913608807079936-872581865449947137&q=from%3A%20SustainIndy%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-644538452097277952-659783013279129600&q=from%3A%20SustainIndy%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-316502481947480064-340198849194889217&q=from%3A%20SustainIndy%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-26370789136-30325380669775872&q=from%3A%20SustainIndy%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBay-a2RdRaazsOYuwESNQAVACUAVQAVAAA%3D&q=from%3A%20SustainIndy%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMP4ibm6mQ4WioDDgK-aq_8OEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGQ4Y3l-gMWgoCRgLWz6csEEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20SustainIndy%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 10 tweets (10 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20SustainIndy%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 20 tweets (10 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1203332706475692032-1248336925385273349&q=from%3A%20SustainIndy%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLft65zeuRcWgoC8-aulhJwYEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-365213742495051777-385449710623797248&q=from%3A%20SustainIndy%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-408633726508072960-454635752337321984&q=from%3A%20SustainIndy%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20SustainIndy%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 32 tweets (12 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-276378708066041856-314793457208131584&q=from%3A%20SustainIndy%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1114179942835806208-1150822739298660352&q=from%3A%20SustainIndy%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20SustainIndy%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 40 tweets (8 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 48)
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-557893680846360576-594161414656393216&q=from%3A%20SustainIndy%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWV1ZPu8REWgIC39fTJgqgSEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1067858890430316545-1109149606246522881&q=from%3A%20SustainIndy%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-188016056554631168-221264145096507392&q=from%3A%20SustainIndy%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20SustainIndy%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 54 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-42964176271966208-80959165736034304&q=from%3A%20SustainIndy%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-604011395554906112-623236273180835840&q=from%3A%20SustainIndy%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-96642967791599616-123815306819936256&q=from%3A%20SustainIndy%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-458625316781846528-499356763867852800&q=from%3A%20SustainIndy%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-758648261242605570-781841027413848064&q=from%3A%20SustainIndy%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-230432769308782592-266593736308445184&q=from%3A%20SustainIndy%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-790983774448353282-827589450398105601&q=from%3A%20SustainIndy%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-722487510060961792-734874305490604032&q=from%3A%20SustainIndy%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-889835286204645376-921338461923217408&q=from%3A%20SustainIndy%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-999394540497715200-1015693834058166272&q=from%3A%20SustainIndy%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1030145164025765888-1061332736282107904&q=from%3A%20SustainIndy%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1156206128600104961-1195315770856742913&q=from%3A%20SustainIndy%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-932612630241521664-968843832111566849&q=from%3A%20SustainIndy%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 191.7.208.81:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJLwktW45AgWgsCQ9KDD0LgJEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBagvJK9xAEWgICB6Lyx3msSNQAVACUAVQAVAAA%3D&q=from%3A%20SustainIndy%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20SustainIndy%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 76 tweets (22 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20SustainIndy%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 100 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL7Bkq6MsyEWisC92br0_dIiEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJHI1_2_kQoWgMCRiIeestkKEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJD8sY3hqwsWgMCRhNuzmM8MEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20SustainIndy%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 120 tweets (20 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20SustainIndy%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 148 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDcj77y1QcWgICQqOi-r94IEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20SustainIndy%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 174 tweets (26 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_Jp7Cu9h4WgMC19ePLxfgfEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMLUmdaEvg8WgIC0vZOq8b4QEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20SustainIndy%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 202 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20SustainIndy%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 230 tweets (28 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20SustainIndy%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 260 tweets (30 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLylmYDm0R0WgoC1sZfsvuQeEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20SustainIndy%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Got 292 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSFwMrw4RAWgICoodSFl6YREjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDUjJGs1wIWgICRzLLX8LcDEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCMmuzRmAEWgICRsNX7z58CEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHw7ub7mwUWgICQoKqki5IGEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20SustainIndy%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 328 tweets (36 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.112.57.110:56363
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJP0v9jUsgYWgMCSgOflkLMHEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMO89tKu3QwWgMDB6JeVie4NEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKqN36ShhxUWgMCh3bSR1NkVEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLyxquOR-hUWgoC4rY2OmPwWEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLj9_6PlhhQWgMCi1bGS5rIUEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaNxILI3hsWgMC7uaSKvJgcEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDtzZ6q2RgWgMC0zeOcoMkZEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLIoKHB7gQWgICQoKqki5IGEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPQmrCg1AwWgMDB6JeVie4NEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL2Ns-TnyxwWgIC16YOgzrodEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWp34-n8RkWgsC0_aCVg_IaEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20SustainIndy%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 371 tweets (43 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCgvJmjqgIWgICRzLLX8LcDEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJD4md6sexaAgJGw1fvPnwISNQAVACUAVQAVAAA%3D&q=from%3A%20SustainIndy%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLblo9bViyAWgoC1xYnXzpYhEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 181.129.52.154:54351
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20SustainIndy%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 413 tweets (42 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLjRt97V4RUWgoC4rY2OmPwWEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.212.93.201:44615
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJG0y973mQYWgMCSgOflkLMHEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20SustainIndy%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 458 tweets (45 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20SustainIndy%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 504 tweets (46 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20SustainIndy%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 532 tweets (28 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20SustainIndy%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 573 tweets (41 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20SustainIndy%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 618 tweets (45 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLz5utPizhkWgsC0_aCVg_IaEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20SustainIndy%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 661 tweets (43 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.70.147.228:36837
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLv5zuXqrhgWgMC0zeOcoMkZEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOVtM_2nhwWgIC16YOgzrodEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20SustainIndy%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 712 tweets (51 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20SustainIndy%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 762 tweets (50 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgLCVmrP60RMWgMCi1bGS5rIUEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLnl95vS2xQWgMCh3bSR1NkVEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.127.241.180:55018
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20SustainIndy%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 821 tweets (59 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLC5_d79shsWgMC7uaSKvJgcEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 94.230.155.57:38786
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 213.226.11.149:41878
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 170.81.160.102:50614
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgKWF54SMtRQWgMCh3bSR1NkVEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20SustainIndy%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 896 tweets (75 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKrxiImajhsWgMC7uaSKvJgcEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 109.232.106.236:35423
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.94.31.237:33296
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.89.229.13:45843
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLSZyOzJ8hoWgMC7uaSKvJgcEjUAFQAlAFUAFQAA&q=from%3A%20SustainIndy%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 103.107.92.193:35173
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 92 tweets for from%3A%20SustainIndy%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 988 tweets (92 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 41.193.22.153:60258
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 170.81.160.107:42166
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 110.39.187.50:49850
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 43.229.27.81:38856
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.83.116.170:55443
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 95.0.219.236:23500
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 220.247.174.13:32355
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 78.38.115.211:60490
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.46.6.233:46849
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 117.240.59.115:36127
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.169.151.90:46799
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 24)
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 31.187.104.129:36528
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.27.251.124:45861
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Retrying... (Attempts left: 23)
+INFO: Using proxy 202.93.113.9:55453
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 202.93.113.9:55453
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 213.6.204.153:42215
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 94.230.149.73:46220
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.127.242.42:32696
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.211.182.113:61548
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 124.158.177.171:23500
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 203.172.185.122:57186
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.253.115.66:57733
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Retrying... (Attempts left: 12)
+INFO: Using proxy 138.97.98.150:37345
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 138.97.98.150:37345
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.162.204.69:80
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.189.228.67:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.173.233.39:48988
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 191.98.184.126:30909
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 85.223.157.204:40329
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 124.41.213.201:56317
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 177.136.168.13:43626
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 112.78.187.187:50359
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 3)
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.74.70.142:35754
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 124.41.211.231:42122
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 988 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.194.242.254:60025
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 988 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SustainIndy%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 988 tweets (0 new).

@@ -1,0 +1,2037 @@
+INFO: {'User-Agent': 'Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16'}
+INFO: queries: ['from: PhoenixParks since:2006-03-01 until:2006-07-07', 'from: PhoenixParks since:2006-07-07 until:2006-11-13', 'from: PhoenixParks since:2006-11-13 until:2007-03-22', 'from: PhoenixParks since:2007-03-22 until:2007-07-29', 'from: PhoenixParks since:2007-07-29 until:2007-12-05', 'from: PhoenixParks since:2007-12-05 until:2008-04-12', 'from: PhoenixParks since:2008-04-12 until:2008-08-19', 'from: PhoenixParks since:2008-08-19 until:2008-12-26', 'from: PhoenixParks since:2008-12-26 until:2009-05-04', 'from: PhoenixParks since:2009-05-04 until:2009-09-10', 'from: PhoenixParks since:2009-09-10 until:2010-01-17', 'from: PhoenixParks since:2010-01-17 until:2010-05-26', 'from: PhoenixParks since:2010-05-26 until:2010-10-02', 'from: PhoenixParks since:2010-10-02 until:2011-02-07', 'from: PhoenixParks since:2011-02-07 until:2011-06-16', 'from: PhoenixParks since:2011-06-16 until:2011-10-23', 'from: PhoenixParks since:2011-10-23 until:2012-02-29', 'from: PhoenixParks since:2012-02-29 until:2012-07-07', 'from: PhoenixParks since:2012-07-07 until:2012-11-13', 'from: PhoenixParks since:2012-11-13 until:2013-03-22', 'from: PhoenixParks since:2013-03-22 until:2013-07-29', 'from: PhoenixParks since:2013-07-29 until:2013-12-05', 'from: PhoenixParks since:2013-12-05 until:2014-04-13', 'from: PhoenixParks since:2014-04-13 until:2014-08-20', 'from: PhoenixParks since:2014-08-20 until:2014-12-27', 'from: PhoenixParks since:2014-12-27 until:2015-05-05', 'from: PhoenixParks since:2015-05-05 until:2015-09-10', 'from: PhoenixParks since:2015-09-10 until:2016-01-17', 'from: PhoenixParks since:2016-01-17 until:2016-05-25', 'from: PhoenixParks since:2016-05-25 until:2016-10-01', 'from: PhoenixParks since:2016-10-01 until:2017-02-07', 'from: PhoenixParks since:2017-02-07 until:2017-06-16', 'from: PhoenixParks since:2017-06-16 until:2017-10-23', 'from: PhoenixParks since:2017-10-23 until:2018-03-01', 'from: PhoenixParks since:2018-03-01 until:2018-07-08', 'from: PhoenixParks since:2018-07-08 until:2018-11-14', 'from: PhoenixParks since:2018-11-14 until:2019-03-23', 'from: PhoenixParks since:2019-03-23 until:2019-07-30', 'from: PhoenixParks since:2019-07-30 until:2019-12-06', 'from: PhoenixParks since:2019-12-06 until:2020-04-13']
+INFO: Querying from: PhoenixParks since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Querying from: PhoenixParks since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: PhoenixParks since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-11055968248-11055968248&q=from%3A%20PhoenixParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2095779068-3290697443&q=from%3A%20PhoenixParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-38327389477933057-61142231024803840&q=from%3A%20PhoenixParks%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-98803574317907969-123489957636603904&q=from%3A%20PhoenixParks%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbwv-WvUhbwv-WvUhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PhoenixParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-19366715174-25052369127&q=from%3A%20PhoenixParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PhoenixParks%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 2 tweets (2 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-141656076880846848-168001428860829698&q=from%3A%20PhoenixParks%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb4s9jODxbGu6DCGBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PhoenixParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwICw2KOViAEWgICRkKCinNkBEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJDc-dSC3wIWgICQpMrd3LYDEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbM_MSlkAEWzsPm07oBEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20PhoenixParks%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 8 tweets (6 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20PhoenixParks%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 14 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-372400859566854144-401471245352697856&q=from%3A%20PhoenixParks%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20PhoenixParks%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 20 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-315489560991784960-357559145605513216&q=from%3A%20PhoenixParks%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20PhoenixParks%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 28 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-459378637662609408-499617855248531456&q=from%3A%20PhoenixParks%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-878621235399114753-921832630089158656&q=from%3A%20PhoenixParks%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHs8dyh9wMWhICQkJqa7tQEEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-505500066434801664-543926301032456193&q=from%3A%20PhoenixParks%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20PhoenixParks%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 40 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-274217311697768448-309325200695128065&q=from%3A%20PhoenixParks%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-224156375469658113-267295703062163457&q=from%3A%20PhoenixParks%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-786581759626317824-827316522087374848&q=from%3A%20PhoenixParks%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-835578909064253440-875420862198956032&q=from%3A%20PhoenixParks%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-179964618901430272-219172221485203457&q=from%3A%20PhoenixParks%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-422459510670643200-451761519995654145&q=from%3A%20PhoenixParks%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-753736467583676416-781878279921737728&q=from%3A%20PhoenixParks%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-666445076172705794-687399365816762368&q=from%3A%20PhoenixParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1241867393472708610-1249398604910841857&q=from%3A%20PhoenixParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPUsYXs4AgWgICSwMCJp_YJEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-566017357428948992-595355458862350336&q=from%3A%20PhoenixParks%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-618760575468892160-641755744509956097&q=from%3A%20PhoenixParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMLI-qaEqwoWgIDA7I7-p5ILEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1138943647116812288-1149724906860482560&q=from%3A%20PhoenixParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-702644691079008256-735140025214640128&q=from%3A%20PhoenixParks%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-933715225668337664-968966966114332672&q=from%3A%20PhoenixParks%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-997903766220365824-1015632075737608194&q=from%3A%20PhoenixParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1171938766912512002-1202640302600704000&q=from%3A%20PhoenixParks%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1085283040304218113-1108787990891888641&q=from%3A%20PhoenixParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMO0_JuF4AwWgIDAmNry_-4NEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20PhoenixParks%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 60 tweets (20 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20PhoenixParks%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 80 tweets (20 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1049695367686569985-1061469899334201344&q=from%3A%20PhoenixParks%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20PhoenixParks%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 102 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKLB-Na-sRgWgMCgrZP5gMsZEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20PhoenixParks%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 124 tweets (22 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMPcuujygw4WgoDB0NiFtYwPEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20PhoenixParks%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 152 tweets (28 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDwpcybzgcWgsCTuLLo-MoIEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20PhoenixParks%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 184 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJDgpcKunAYWgsCR8NKB0LUHEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20PhoenixParks%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 220 tweets (36 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKCVrPy_6hUWgICj_cr_m_sWEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20PhoenixParks%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 254 tweets (34 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHcwbeu_wQWgoCS5Kz-04oGEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJKY-avw3AsWgsDAqK-t_cQMEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqJ56XJmBcWgICuhdqoj6YYEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20PhoenixParks%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 292 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwJHQ2uz79wQWgoCS5Kz-04oGEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKi5gZHYvxIWgICypZmFkYoTEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLfd4d2jlhEWgsCogeLc_OcREjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnJ3NTn9RQWgIChxeWJ5dkVEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDktPLy2g8WgICkidaokMMQEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKbhkfT_uyIWgsCiyava4NYiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20PhoenixParks%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 334 tweets (42 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDx9eelwBMWgIC58af93rMUEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK61n8Oc9RkWgMCp5cyUu_IaEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK-Zzs2rzh8WgMC07cKt0vQfEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLeZhoyi2RsWhMCpjb3_n5gcEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLahmsvZjx4WgoCkhbOzmuMeEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMHQoPOYvwsWgsDAqK-t_cQMEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKPFrYbIwyAWgMCq0fe-0bAhEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLzl35LAkB0WgMCtmfzPjLsdEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20PhoenixParks%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 379 tweets (45 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKi18_7f0xkWgMCp5cyUu_IaEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20PhoenixParks%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 424 tweets (45 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKjRuYa3vxQWgIChxeWJ5dkVEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHl__WGjSAWgMCq0fe-0bAhEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20PhoenixParks%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 470 tweets (46 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20PhoenixParks%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 522 tweets (52 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwMH015a5ng8WgICkidaokMMQEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 54 tweets for from%3A%20PhoenixParks%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 576 tweets (54 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKCBwcy6ihIWgICypZmFkYoTEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKTpjOaa5BAWgsCogeLc_OcREjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDRi4uckBMWgIC58af93rMUEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbV6dSUnBwWgMCtmfzPjLsdEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfpiMvJ-iEWgsCiyava4NYiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKq9n53piRsWhMCpjb3_n5gcEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20PhoenixParks%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 627 tweets (51 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20PhoenixParks%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 686 tweets (59 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwKO58tvQhB8WgMC07cKt0vQfEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLaB8c33zh0WgoCkhbOzmuMeEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKPdp9eP6BEWgICypZmFkYoTEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 65 tweets for from%3A%20PhoenixParks%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 751 tweets (65 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKmB-euxyBAWgsCogeLc_OcREjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKnBpqDT-BoWhMCpjb3_n5gcEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 68 tweets for from%3A%20PhoenixParks%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 819 tweets (68 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwKfpnvzR5R4WgMC07cKt0vQfEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 65 tweets for from%3A%20PhoenixParks%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 884 tweets (65 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 65 tweets for from%3A%20PhoenixParks%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 949 tweets (65 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKa5zJL1vx0WgoCkhbOzmuMeEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20PhoenixParks%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 1015 tweets (66 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLyR0PifsiEWgsCiyava4NYiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 77 tweets for from%3A%20PhoenixParks%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 1092 tweets (77 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Retrying... (Attempts left: 37)
+INFO: Using proxy 197.216.2.14:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1092 tweets (0 new).
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 1092 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixParks%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1092 tweets (0 new).

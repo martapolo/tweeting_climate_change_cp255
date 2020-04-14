@@ -1,0 +1,2170 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko'}
+INFO: queries: ['from: TalkingTrashPHX since:2006-03-01 until:2006-07-07', 'from: TalkingTrashPHX since:2006-07-07 until:2006-11-13', 'from: TalkingTrashPHX since:2006-11-13 until:2007-03-22', 'from: TalkingTrashPHX since:2007-03-22 until:2007-07-29', 'from: TalkingTrashPHX since:2007-07-29 until:2007-12-05', 'from: TalkingTrashPHX since:2007-12-05 until:2008-04-12', 'from: TalkingTrashPHX since:2008-04-12 until:2008-08-19', 'from: TalkingTrashPHX since:2008-08-19 until:2008-12-26', 'from: TalkingTrashPHX since:2008-12-26 until:2009-05-04', 'from: TalkingTrashPHX since:2009-05-04 until:2009-09-10', 'from: TalkingTrashPHX since:2009-09-10 until:2010-01-17', 'from: TalkingTrashPHX since:2010-01-17 until:2010-05-26', 'from: TalkingTrashPHX since:2010-05-26 until:2010-10-02', 'from: TalkingTrashPHX since:2010-10-02 until:2011-02-07', 'from: TalkingTrashPHX since:2011-02-07 until:2011-06-16', 'from: TalkingTrashPHX since:2011-06-16 until:2011-10-23', 'from: TalkingTrashPHX since:2011-10-23 until:2012-02-29', 'from: TalkingTrashPHX since:2012-02-29 until:2012-07-07', 'from: TalkingTrashPHX since:2012-07-07 until:2012-11-13', 'from: TalkingTrashPHX since:2012-11-13 until:2013-03-22', 'from: TalkingTrashPHX since:2013-03-22 until:2013-07-29', 'from: TalkingTrashPHX since:2013-07-29 until:2013-12-05', 'from: TalkingTrashPHX since:2013-12-05 until:2014-04-13', 'from: TalkingTrashPHX since:2014-04-13 until:2014-08-20', 'from: TalkingTrashPHX since:2014-08-20 until:2014-12-27', 'from: TalkingTrashPHX since:2014-12-27 until:2015-05-05', 'from: TalkingTrashPHX since:2015-05-05 until:2015-09-10', 'from: TalkingTrashPHX since:2015-09-10 until:2016-01-17', 'from: TalkingTrashPHX since:2016-01-17 until:2016-05-25', 'from: TalkingTrashPHX since:2016-05-25 until:2016-10-01', 'from: TalkingTrashPHX since:2016-10-01 until:2017-02-07', 'from: TalkingTrashPHX since:2017-02-07 until:2017-06-16', 'from: TalkingTrashPHX since:2017-06-16 until:2017-10-23', 'from: TalkingTrashPHX since:2017-10-23 until:2018-03-01', 'from: TalkingTrashPHX since:2018-03-01 until:2018-07-08', 'from: TalkingTrashPHX since:2018-07-08 until:2018-11-14', 'from: TalkingTrashPHX since:2018-11-14 until:2019-03-23', 'from: TalkingTrashPHX since:2019-03-23 until:2019-07-30', 'from: TalkingTrashPHX since:2019-07-30 until:2019-12-06', 'from: TalkingTrashPHX since:2019-12-06 until:2020-04-13']
+INFO: Querying from: TalkingTrashPHX since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: TalkingTrashPHX since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-9333828493512704-34324423645331457&q=from%3A%20TalkingTrashPHX%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-48534702117748736-66547142331863041&q=from%3A%20TalkingTrashPHX%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-875884222409396224-920424485131399168&q=from%3A%20TalkingTrashPHX%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-131870469803606018-167644598372548608&q=from%3A%20TalkingTrashPHX%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-88377442879811584-127168723172864000&q=from%3A%20TalkingTrashPHX%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwIC8qcSUIRaCgIDotPj4eRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20TalkingTrashPHX%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-23259398913-24616307680&q=from%3A%20TalkingTrashPHX%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-268774339619483648-309049449374699520&q=from%3A%20TalkingTrashPHX%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDwvYO3rAEWgsCQuL-RtuwBEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20TalkingTrashPHX%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 6 tweets (6 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20TalkingTrashPHX%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 12 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-743234124954075136-776183643236630528&q=from%3A%20TalkingTrashPHX%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-457998634572083200-499426872384819201&q=from%3A%20TalkingTrashPHX%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbR6IPipxgWgMCh7anMgMYZEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-836979275140108289-855463540735528960&q=from%3A%20TalkingTrashPHX%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJDQy9-_1AMWgICS6Pf3y9MEEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-785946703333429249-827274060048404485&q=from%3A%20TalkingTrashPHX%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGQnbT9uQIWgMCRtPXR5cMDEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20TalkingTrashPHX%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 22 tweets (10 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-221431073467416576-266277379759042560&q=from%3A%20TalkingTrashPHX%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20TalkingTrashPHX%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 34 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-175992904479801345-219122913339645952&q=from%3A%20TalkingTrashPHX%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20TalkingTrashPHX%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 48 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCjPKlrQEWwK_4s7cBEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-362613735048740866-406101731077267456&q=from%3A%20TalkingTrashPHX%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-408646635846373376-448873085916020736&q=from%3A%20TalkingTrashPHX%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJPcz7XwugcWgMCSgMe1-8kIEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20TalkingTrashPHX%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 64 tweets (16 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20TalkingTrashPHX%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 80 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-566621684405665792-592757519476461569&q=from%3A%20TalkingTrashPHX%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-508988795690450944-548499715063808001&q=from%3A%20TalkingTrashPHX%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-333714940571553792-360461095615467521&q=from%3A%20TalkingTrashPHX%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-690967298253983744-731187309832486912&q=from%3A%20TalkingTrashPHX%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1229903421248925696-1249381767263510531&q=from%3A%20TalkingTrashPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-653603959832055809-687813985052291072&q=from%3A%20TalkingTrashPHX%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-597125688366338049-638773471686860800&q=from%3A%20TalkingTrashPHX%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1069652435189329920-1108787990891888641&q=from%3A%20TalkingTrashPHX%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1177354620596670464-1200157918752051200&q=from%3A%20TalkingTrashPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1022839774481006593-1060562597026631680&q=from%3A%20TalkingTrashPHX%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-938412743077584896-968307595780939776&q=from%3A%20TalkingTrashPHX%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCt9t-_0BQWgIC0-ae6x8UVEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-980867648262033409-1012482642070011904&q=from%3A%20TalkingTrashPHX%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1121918132380033024-1153743255806152704&q=from%3A%20TalkingTrashPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMOUnNWR2wwWgsDA_ISGqe4NEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20TalkingTrashPHX%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 100 tweets (20 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20TalkingTrashPHX%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 124 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLix643GnRcWgMC2_dnjm98XEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20TalkingTrashPHX%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 148 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKCJmpef6BUWisCkkfzXiPsWEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20TalkingTrashPHX%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 170 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLE65jXkgYWgMCThLf3gLIHEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20TalkingTrashPHX%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 198 tweets (28 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJCop6eg8QQWgICRvJ7IvYoGEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20TalkingTrashPHX%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 232 tweets (34 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJDEqtGhiAoWgIDB-O3X4aILEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMCE6PzmqwsWgICQtLDs27oMEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20TalkingTrashPHX%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 266 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20TalkingTrashPHX%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 300 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMTQ79qF3Q8WgsCwpdn08rkQEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCQjf7LoQkWgsCQ-JzdzoAKEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMScnaelkA4WgoDAvLbl1JwPEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLi9mcbnlhMWgIC2rf--2aUUEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLDVy6m1yRAWgIC1_dHFsN0REjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKCZ1dWIkhIWgMCzqZvLzYsTEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKO5pqm_kSIWhoC7qaGG2dYiEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLuJn86V2B0WgoCkhbOzmuMeEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKC5-piXyRAWgIC1_dHFsN0REjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLjlt7LTlRMWgIC2rf--2aUUEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKL1w_Lm1iAWgMC02ZbR6KchEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20TalkingTrashPHX%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 341 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMSwocnn-g0WgoDAvLbl1JwPEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLe939r0hRoWgICv_Zioj_AaEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20TalkingTrashPHX%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKalvPvenBsWgICo3afmh40cEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Got 383 tweets (42 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKbB4dbtsRwWgMC0nYOE8LcdEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKe5nKbtkR8WgMCgxZvY9YIgEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20TalkingTrashPHX%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 427 tweets (44 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKaRipnV5SEWhoC7qaGG2dYiEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL3x15utwR0WgoCkhbOzmuMeEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKjFnb7v6BEWgMCzqZvLzYsTEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20TalkingTrashPHX%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 463 tweets (36 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKPJscKsmxwWgMC0nYOE8LcdEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20TalkingTrashPHX%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 506 tweets (43 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20TalkingTrashPHX%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 551 tweets (45 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20TalkingTrashPHX%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 592 tweets (41 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgKb5-NXrnCAWgMC02ZbR6KchEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJOIh4HE6AgWgsCQ-JzdzoAKEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLvZ_uyV-xoWgICo3afmh40cEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20TalkingTrashPHX%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 640 tweets (48 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 55 tweets for from%3A%20TalkingTrashPHX%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 695 tweets (55 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKj5qrzSzRkWgICv_Zioj_AaEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20TalkingTrashPHX%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 743 tweets (48 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKu9h_Xk6h4WgMCgxZvY9YIgEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20TalkingTrashPHX%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 791 tweets (48 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20TalkingTrashPHX%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 841 tweets (50 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMO47LnWww8WgsCwpdn08rkQEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMO4yvaXtQ8WgsCwpdn08rkQEjUAFQAlAFUAFQAA&q=from%3A%20TalkingTrashPHX%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 64 tweets for from%3A%20TalkingTrashPHX%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 905 tweets (64 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 27)
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 8)
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 905 tweets (0 new).
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 905 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 905 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 905 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 905 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 905 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 905 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 905 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 905 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 905 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 905 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TalkingTrashPHX%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 905 tweets (0 new).

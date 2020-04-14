@@ -1,0 +1,1600 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko'}
+INFO: queries: ['from: PhoenixMetroBus since:2006-03-01 until:2006-07-07', 'from: PhoenixMetroBus since:2006-07-07 until:2006-11-13', 'from: PhoenixMetroBus since:2006-11-13 until:2007-03-22', 'from: PhoenixMetroBus since:2007-03-22 until:2007-07-29', 'from: PhoenixMetroBus since:2007-07-29 until:2007-12-05', 'from: PhoenixMetroBus since:2007-12-05 until:2008-04-12', 'from: PhoenixMetroBus since:2008-04-12 until:2008-08-19', 'from: PhoenixMetroBus since:2008-08-19 until:2008-12-26', 'from: PhoenixMetroBus since:2008-12-26 until:2009-05-04', 'from: PhoenixMetroBus since:2009-05-04 until:2009-09-10', 'from: PhoenixMetroBus since:2009-09-10 until:2010-01-17', 'from: PhoenixMetroBus since:2010-01-17 until:2010-05-26', 'from: PhoenixMetroBus since:2010-05-26 until:2010-10-02', 'from: PhoenixMetroBus since:2010-10-02 until:2011-02-07', 'from: PhoenixMetroBus since:2011-02-07 until:2011-06-16', 'from: PhoenixMetroBus since:2011-06-16 until:2011-10-23', 'from: PhoenixMetroBus since:2011-10-23 until:2012-02-29', 'from: PhoenixMetroBus since:2012-02-29 until:2012-07-07', 'from: PhoenixMetroBus since:2012-07-07 until:2012-11-13', 'from: PhoenixMetroBus since:2012-11-13 until:2013-03-22', 'from: PhoenixMetroBus since:2013-03-22 until:2013-07-29', 'from: PhoenixMetroBus since:2013-07-29 until:2013-12-05', 'from: PhoenixMetroBus since:2013-12-05 until:2014-04-13', 'from: PhoenixMetroBus since:2014-04-13 until:2014-08-20', 'from: PhoenixMetroBus since:2014-08-20 until:2014-12-27', 'from: PhoenixMetroBus since:2014-12-27 until:2015-05-05', 'from: PhoenixMetroBus since:2015-05-05 until:2015-09-10', 'from: PhoenixMetroBus since:2015-09-10 until:2016-01-17', 'from: PhoenixMetroBus since:2016-01-17 until:2016-05-25', 'from: PhoenixMetroBus since:2016-05-25 until:2016-10-01', 'from: PhoenixMetroBus since:2016-10-01 until:2017-02-07', 'from: PhoenixMetroBus since:2017-02-07 until:2017-06-16', 'from: PhoenixMetroBus since:2017-06-16 until:2017-10-23', 'from: PhoenixMetroBus since:2017-10-23 until:2018-03-01', 'from: PhoenixMetroBus since:2018-03-01 until:2018-07-08', 'from: PhoenixMetroBus since:2018-07-08 until:2018-11-14', 'from: PhoenixMetroBus since:2018-11-14 until:2019-03-23', 'from: PhoenixMetroBus since:2019-03-23 until:2019-07-30', 'from: PhoenixMetroBus since:2019-07-30 until:2019-12-06', 'from: PhoenixMetroBus since:2019-12-06 until:2020-04-13']
+INFO: Querying from: PhoenixMetroBus since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Querying from: PhoenixMetroBus since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 118.173.233.31:59669
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-48168481534906368-48168481534906368&q=from%3A%20PhoenixMetroBus%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1452459438-1452459438&q=from%3A%20PhoenixMetroBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-326419538314919936-326419538314919936&q=from%3A%20PhoenixMetroBus%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-27453796507-334044176846848&q=from%3A%20PhoenixMetroBus%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-408330584956477440-408330584956477440&q=from%3A%20PhoenixMetroBus%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-99244233982095360-102099853525520386&q=from%3A%20PhoenixMetroBus%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJD00b6QqwEWgMCQ9NG-kKsBEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDQ5rXWhwkWgICQ0Oa11ocJEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbclpbpChbclpbpChI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PhoenixMetroBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-271012513657802753-307246007396225024&q=from%3A%20PhoenixMetroBus%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-151702408148422656-171637768802414592&q=from%3A%20PhoenixMetroBus%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PhoenixMetroBus%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 2 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJG0naDXqgsWgICRtJ2g16oLEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-608751196980031489-624339597447811073&q=from%3A%20PhoenixMetroBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PhoenixMetroBus%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 4 tweets (2 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PhoenixMetroBus%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 6 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa2wv3FzAEWgMCAiPfzlwESNQAVACUAVQAVAAA%3D&q=from%3A%20PhoenixMetroBus%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20PhoenixMetroBus%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 8 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGI3IbL4AIWhMCQ0NPR3eoCEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15260602128-19841421242&q=from%3A%20PhoenixMetroBus%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-410747252580179969-445605448121466880&q=from%3A%20PhoenixMetroBus%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20PhoenixMetroBus%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 12 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20PhoenixMetroBus%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-230832637919510529-264151260956065793&q=from%3A%20PhoenixMetroBus%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Got 16 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJLkv5zqwgcWgMCSmLWnx8MIEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-179261181788303360-184299960165085184&q=from%3A%20PhoenixMetroBus%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1103266979694239744-1109191701719990272&q=from%3A%20PhoenixMetroBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDUqqL6mgQWgMCR-IXp4-EEEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-458628257886113792-501504304940068864&q=from%3A%20PhoenixMetroBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLXJoP_b8hAWgsCy0crjjKoREjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-504310826824499200-542342440657485824&q=from%3A%20PhoenixMetroBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-831522107448184833-861307232344035333&q=from%3A%20PhoenixMetroBus%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20PhoenixMetroBus%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 24 tweets (8 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20PhoenixMetroBus%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 32 tweets (8 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20PhoenixMetroBus%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 40 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8089318086-13869123935&q=from%3A%20PhoenixMetroBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-889346134895861761-917185341383073793&q=from%3A%20PhoenixMetroBus%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-4010715530-7133304116&q=from%3A%20PhoenixMetroBus%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1024424025441820672-1061469899334201344&q=from%3A%20PhoenixMetroBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBagvNLZcRb0vqDqkwESNQAVACUAVQAVAAA%3D&q=from%3A%20PhoenixMetroBus%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJOo5pyiswsWgICS1Onyja8MEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKc9cOKtAYWgoCQxIOLuqoHEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-924259458733297664-963841018444550144&q=from%3A%20PhoenixMetroBus%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20PhoenixMetroBus%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 56 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2030076268-3110930790&q=from%3A%20PhoenixMetroBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-754056476663046144-781599589262589952&q=from%3A%20PhoenixMetroBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20PhoenixMetroBus%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 70 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-656504831817879552-687982591723503620&q=from%3A%20PhoenixMetroBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-561255427715784704-586975929110401026&q=from%3A%20PhoenixMetroBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20PhoenixMetroBus%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 84 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-782173215191740416-825297370996842496&q=from%3A%20PhoenixMetroBus%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHoisbu_AQWgMCRnMv14Y4FEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-709804887748390913-734542805754732544&q=from%3A%20PhoenixMetroBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL-RoN7Lzx4WgICmjbv-0eQeEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20PhoenixMetroBus%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 100 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJC0j_6v3QwWgMDB1MPg2fUNEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-981974770496491523-1012695989575208962&q=from%3A%20PhoenixMetroBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCUzYHW_w0WgICQoPHk5IYPEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKrV77yUihcWisC6pamX_fMXEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1186406305335922688-1202210544163311617&q=from%3A%20PhoenixMetroBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1240307556544688131-1247871817923981315&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1131557934591303680-1146471165331947521&q=from%3A%20PhoenixMetroBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.37.114.35:41454
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20PhoenixMetroBus%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 120 tweets (20 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20PhoenixMetroBus%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 142 tweets (22 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20PhoenixMetroBus%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 164 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMy8miPBa-pdCqZxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PhoenixMetroBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20PhoenixMetroBus%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 190 tweets (26 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK3NoObL1xgWgoCrpazNv7oZEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20PhoenixMetroBus%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 218 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK_9po6-txwWgMCtmfzPjLsdEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaUpvXwHRbo1OySNRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PhoenixMetroBus%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20PhoenixMetroBus%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 248 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20PhoenixMetroBus%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 284 tweets (36 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL7hlcXQ0xkWgMC0xZaToOAaEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKOh0J_qtB4WgICmjbv-0eQeEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbYhYSQDxbMpeiWFxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20PhoenixMetroBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20PhoenixMetroBus%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 318 tweets (34 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKuB2pf59hQWgIC0qe6r5tgVEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKjd0eqvnBIWiICo9bShmowTEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKHFpJnr2hUWgIClhcPlhfQWEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20PhoenixMetroBus%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 358 tweets (40 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPUz7X9yQ8WhMCkpezfraUQEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20PhoenixMetroBus%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 398 tweets (40 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKGhnPLd2RMWgICjlciyz7EUEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKjhvKS0khsWhMC-weLo6I0cEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKj1jbqk9xEWiICo9bShmowTEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20PhoenixMetroBus%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 443 tweets (45 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbN9o_79iAWgMCmycis3K8hEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwKGB18m6tiIWgICoydqC9NEiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJL8m8eMpg8WhMCkpezfraUQEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKjBxoXU-BoWhMC-weLo6I0cEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfF3sTnoh4WgICmjbv-0eQeEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLfhx_yMtB8WgIChqZ2k94kgEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 103.87.206.249:51622
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20PhoenixMetroBus%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 490 tweets (47 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20PhoenixMetroBus%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 531 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwKjhmtGxuhQWgIC0qe6r5tgVEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20PhoenixMetroBus%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 582 tweets (51 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLf1z4rq4h0WgICmjbv-0eQeEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKSxwrj3nBMWgICjlciyz7EUEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbFi7_BhR8WgIChqZ2k94kgEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgK_x66uIwB0WgICmjbv-0eQeEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 217.64.109.231:45282
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKG1kL7wjhMWgICjlciyz7EUEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20PhoenixMetroBus%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 618 tweets (36 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 64 tweets for from%3A%20PhoenixMetroBus%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 682 tweets (64 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKq96cmyjCAWgMCmycis3K8hEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.4.54.158:53102
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20PhoenixMetroBus%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 724 tweets (42 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbx_fTnlCIWgICoydqC9NEiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 107.190.148.202:50854
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.154.224.206:44488
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgKbt663h5h4WgIChqZ2k94kgEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20PhoenixMetroBus%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 758 tweets (34 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.95.180.50:53281
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKO50uamhCIWgICoydqC9NEiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 203.176.135.102:54255
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.84.232.87:47295
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.97.235.234:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.93.227.14:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.103.178.14:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.9.194.13:56726
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOdvdm0-yEWgICoydqC9NEiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 186.229.25.18:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.59.190.209:61209
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.156.125.190:41870
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKiZ8frk0yEWgICoydqC9NEiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.94.30.70:47126
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.49.135.4:8118
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.21.160.10:35101
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.247.10.31:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKP1t-rHvCEWgICoydqC9NEiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 187.111.160.6:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.216.82.214:6666
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKe1wfPxsSEWgICoydqC9NEiEjUAFQAlAFUAFQAA&q=from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 112.78.143.26:47718
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 27)
+INFO: Twitter returned : 'has_more_items' 
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Got 37 tweets for from%3A%20PhoenixMetroBus%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 795 tweets (37 new).
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.7.208.82:50626
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.189.150.223:53890
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.10.188.140:43327
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.50.214.17:8585
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 122.116.1.83:48500
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.86.99.130:39900
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.71.102.215:3128
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 188.235.255.70:32994
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.103.40.198:41439
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.125.59.8:44363
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.174.234.28:31994
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.254.44.62:55277
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 70.35.213.229:36127
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.187.17.39:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.51.161.226:38513
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.174.232.106:50491
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.173.232.215:43186
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 113.53.255.222:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.90.254.200:46289
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.166.205.78:58431
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.249.2.192:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Got 0 tweets for from%3A%20PhoenixMetroBus%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 795 tweets (0 new).
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.245.39.195:58403
+INFO: Got 0 tweets for from%3A%20PhoenixMetroBus%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 795 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Got 0 tweets for from%3A%20PhoenixMetroBus%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 795 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixMetroBus%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 795 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Got 0 tweets for from%3A%20PhoenixMetroBus%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 795 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixMetroBus%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 795 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixMetroBus%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 795 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20PhoenixMetroBus%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 795 tweets (0 new).

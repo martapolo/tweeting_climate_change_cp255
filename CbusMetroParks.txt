@@ -1,0 +1,2335 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows NT 5.2; RW; rv:7.0a1) Gecko/20091211 SeaMonkey/9.23a1pre'}
+INFO: queries: ['from: CbusMetroParks since:2006-03-01 until:2006-07-07', 'from: CbusMetroParks since:2006-07-07 until:2006-11-13', 'from: CbusMetroParks since:2006-11-13 until:2007-03-22', 'from: CbusMetroParks since:2007-03-22 until:2007-07-29', 'from: CbusMetroParks since:2007-07-29 until:2007-12-05', 'from: CbusMetroParks since:2007-12-05 until:2008-04-12', 'from: CbusMetroParks since:2008-04-12 until:2008-08-19', 'from: CbusMetroParks since:2008-08-19 until:2008-12-26', 'from: CbusMetroParks since:2008-12-26 until:2009-05-04', 'from: CbusMetroParks since:2009-05-04 until:2009-09-10', 'from: CbusMetroParks since:2009-09-10 until:2010-01-17', 'from: CbusMetroParks since:2010-01-17 until:2010-05-26', 'from: CbusMetroParks since:2010-05-26 until:2010-10-02', 'from: CbusMetroParks since:2010-10-02 until:2011-02-07', 'from: CbusMetroParks since:2011-02-07 until:2011-06-16', 'from: CbusMetroParks since:2011-06-16 until:2011-10-23', 'from: CbusMetroParks since:2011-10-23 until:2012-02-29', 'from: CbusMetroParks since:2012-02-29 until:2012-07-07', 'from: CbusMetroParks since:2012-07-07 until:2012-11-13', 'from: CbusMetroParks since:2012-11-13 until:2013-03-22', 'from: CbusMetroParks since:2013-03-22 until:2013-07-29', 'from: CbusMetroParks since:2013-07-29 until:2013-12-05', 'from: CbusMetroParks since:2013-12-05 until:2014-04-13', 'from: CbusMetroParks since:2014-04-13 until:2014-08-20', 'from: CbusMetroParks since:2014-08-20 until:2014-12-27', 'from: CbusMetroParks since:2014-12-27 until:2015-05-05', 'from: CbusMetroParks since:2015-05-05 until:2015-09-10', 'from: CbusMetroParks since:2015-09-10 until:2016-01-17', 'from: CbusMetroParks since:2016-01-17 until:2016-05-25', 'from: CbusMetroParks since:2016-05-25 until:2016-10-01', 'from: CbusMetroParks since:2016-10-01 until:2017-02-07', 'from: CbusMetroParks since:2017-02-07 until:2017-06-16', 'from: CbusMetroParks since:2017-06-16 until:2017-10-23', 'from: CbusMetroParks since:2017-10-23 until:2018-03-01', 'from: CbusMetroParks since:2018-03-01 until:2018-07-08', 'from: CbusMetroParks since:2018-07-08 until:2018-11-14', 'from: CbusMetroParks since:2018-11-14 until:2019-03-23', 'from: CbusMetroParks since:2019-03-23 until:2019-07-30', 'from: CbusMetroParks since:2019-07-30 until:2019-12-06', 'from: CbusMetroParks since:2019-12-06 until:2020-04-13']
+INFO: Querying from: CbusMetroParks since:2006-03-01 until:2006-07-07
+INFO: Querying from: CbusMetroParks since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Querying from: CbusMetroParks since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-35449142339702784-80647359763197952&q=from%3A%20CbusMetroParks%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-10745941107675136-33627550924152832&q=from%3A%20CbusMetroParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-83950882785468416-127007440045748224&q=from%3A%20CbusMetroParks%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-324597947750834176-357922864743198720&q=from%3A%20CbusMetroParks%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-502074154095767553-548276807632695297&q=from%3A%20CbusMetroParks%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-276309615346585600-314347273867907072&q=from%3A%20CbusMetroParks%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-379966651820953600-408247150884438017&q=from%3A%20CbusMetroParks%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-144147695299334145-174570256113745920&q=from%3A%20CbusMetroParks%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-189320228914737152-220984870707544064&q=from%3A%20CbusMetroParks%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-236903379987750912-266189724467744768&q=from%3A%20CbusMetroParks%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-550392731881996289-595018164355801088&q=from%3A%20CbusMetroParks%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-468835310030172161-496663713492254721&q=from%3A%20CbusMetroParks%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-619477891705745408-640958734777237508&q=from%3A%20CbusMetroParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-413042448534085632-454234642116526080&q=from%3A%20CbusMetroParks%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-847804294199902210-868138502525005824&q=from%3A%20CbusMetroParks%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-750002856430800896-781811167039787008&q=from%3A%20CbusMetroParks%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1001644204051914758-1014278519701073920&q=from%3A%20CbusMetroParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-714567343641378816-732541514270842881&q=from%3A%20CbusMetroParks%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1240269578699186176-1247654172910071817&q=from%3A%20CbusMetroParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-655004303560577024-687031868760440832&q=from%3A%20CbusMetroParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1077572211798691840-1105486130143739908&q=from%3A%20CbusMetroParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-939878134970814464-966041120751923204&q=from%3A%20CbusMetroParks%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1034226186405203968-1060016560813805568&q=from%3A%20CbusMetroParks%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-898896176531083264-918831234402406400&q=from%3A%20CbusMetroParks%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1126197270804930560-1154565803578220544&q=from%3A%20CbusMetroParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1179033306043691008-1202229897944539136&q=from%3A%20CbusMetroParks%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-816730698270834688-828643834057912320&q=from%3A%20CbusMetroParks%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Using proxy 83.174.156.40:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwICM1LP4fRaAwJHslZbCngISNQAVACUAVQAVAAA%3D&q=from%3A%20CbusMetroParks%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20CbusMetroParks%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 24 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwICojNiWJhaAgIG4ioW8dxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20CbusMetroParks%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20CbusMetroParks%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 56 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGwwrigqgIWgMCRvICmnMMDEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.77.152.26:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20CbusMetroParks%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 88 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwMPcjvLc9w0WgsDB2MC275sPEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20CbusMetroParks%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 122 tweets (34 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDssojT1QcWgMCSsMPL5NwIEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOoo4eagQkWgMCRoN-8zPcJEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGU2O_MoAUWgICS9LWkjJEGEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOkzpfTyQYWgMCSnJyJ2bEHEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20CbusMetroParks%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 160 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMLEg-r0xQoWgoDCkN2nsaoLEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJDYleSOgAQWgICSgKOumewEEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 120.72.26.184:34240
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMHg5Pq1uwsWgIDCgIOA4s0MEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJGI4M7RgQ0WgoDC-ILBwOQNEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGViPfpmBEWiICm4dikkuUREjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLCt8OCAxBcWgMC12YSTmJAYEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMTswNGxow8WgICplcb39sEQEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbd0c3T6hMWgoC51YiowaoUEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKSBs7yFlxIWgIC27Yb26YgTEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHop_LS-gMWgICSgKOumewEEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20CbusMetroParks%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 200 tweets (40 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLDh-efF6BQWgMC4zafHxtkVEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWBiqeptiIWksC1rYS3x9AiEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPAs6TQ3wgWgMCRoN-8zPcJEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgL_dl4bH5hsWgMC74ZK8uJMcEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMKA257wtQsWgIDCgIOA4s0MEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20CbusMetroParks%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 242 tweets (42 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzB69PC-RgWgMC28faIrMAZEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzx44uPixoWiMC1jf7RiOgaEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL2V7pyHoR8WgIC_gebe64UgEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLahlc-n2hwWgIC8pafQ7LcdEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20CbusMetroParks%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 284 tweets (42 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20CbusMetroParks%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 329 tweets (45 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgJLIkNa69gQWgICS9LWkjJEGEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6B9Y2n9B0WiIC2tefxvNceEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWR8aLi3CAWgIC11Z7ulq8hEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKmxtfWk3xAWiICm4dikkuUREjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLi5xY_O1RYWgMC35afL9_8WEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 134.209.46.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.246.50.204:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20CbusMetroParks%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 375 tweets (46 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20CbusMetroParks%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 419 tweets (44 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCovvT2mgYWgMCSnJyJ2bEHEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 49 tweets for from%3A%20CbusMetroParks%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 468 tweets (49 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDZ76iknhMWgoC51YiowaoUEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20CbusMetroParks%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 516 tweets (48 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLetgYKR6hEWgIC27Yb26YgTEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKMtd3o1QwWgoDC-ILBwOQNEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20CbusMetroParks%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 566 tweets (50 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKIw7TehgoWgoDCkN2nsaoLEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 55 tweets for from%3A%20CbusMetroParks%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 621 tweets (55 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLads6SVxR0WiIC2tefxvNceEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 58 tweets for from%3A%20CbusMetroParks%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 679 tweets (58 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20CbusMetroParks%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 723 tweets (44 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLvlg63r2hUWgMC35afL9_8WEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKTp1pbDvBQWgMC4zafHxtkVEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLOpkZ_rghcWgMC12YSTmJAYEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Using proxy 46.34.189.199:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwK6V3Oj6qhgWgMC28faIrMAZEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLa5vujJ1xkWiMC1jf7RiOgaEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Retrying... (Attempts left: 42)
+INFO: Using proxy 46.34.189.199:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLaV9PmF8x4WgIC_gebe64UgEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.34.189.199:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20CbusMetroParks%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 770 tweets (47 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 55 tweets for from%3A%20CbusMetroParks%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 825 tweets (55 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 55 tweets for from%3A%20CbusMetroParks%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 880 tweets (55 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLPBs97MgRcWgMC12YSTmJAYEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20CbusMetroParks%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 930 tweets (50 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 54 tweets for from%3A%20CbusMetroParks%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 984 tweets (54 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLC1grjBmRwWgIC8pafQ7LcdEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwL7p8bSPziEWksC1rYS3x9AiEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20CbusMetroParks%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 1043 tweets (59 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDpocjGoBsWgMC74ZK8uJMcEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20CbusMetroParks%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 1094 tweets (51 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbtkYL5jCAWgIC11Z7ulq8hEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 54 tweets for from%3A%20CbusMetroParks%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 1148 tweets (54 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLT55veGsyEWksC1rYS3x9AiEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20CbusMetroParks%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 1207 tweets (59 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLapzpar9xoWgMC74ZK8uJMcEjUAFQAlAFUAFQAA&q=from%3A%20CbusMetroParks%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20CbusMetroParks%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 1273 tweets (66 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 98.172.141.30:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.98.120.223:38034
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.232.233.45:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 41.79.66.106:58369
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 89.1.28.21:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.109.197.10:49380
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 41.194.37.106:52355
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 69.65.65.178:34548
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.117.23.219:31913
+INFO: Retrying... (Attempts left: 19)
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.15.167.125:41787
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 139.5.29.29:58033
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.111.160.8:42579
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 154.79.245.30:42289
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 14)
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Using proxy 109.72.230.78:53281
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.82.252.29:35467
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.78.15.19:38887
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.194.242.78:47727
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.175.93.171:32866
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 188.169.123.54:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.70.6.174:34325
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.33.4.214:61711
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 6)
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 92.255.196.91:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.255.178.206:7787
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 118.173.232.5:34413
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.91.157.66:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.91.97.228:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1273 tweets (0 new).
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1273 tweets (0 new).
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.219.210.222:35663
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 1273 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 197.37.158.170:8080
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1273 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 1273 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 1273 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 1273 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1273 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 1273 tweets (0 new).
+INFO: Got 1273 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 1273 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 1273 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20CbusMetroParks%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1273 tweets (0 new).

@@ -1,0 +1,1725 @@
+INFO: {'User-Agent': 'Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16'}
+INFO: queries: ['from: StreetsPHX since:2006-03-01 until:2006-07-07', 'from: StreetsPHX since:2006-07-07 until:2006-11-13', 'from: StreetsPHX since:2006-11-13 until:2007-03-22', 'from: StreetsPHX since:2007-03-22 until:2007-07-29', 'from: StreetsPHX since:2007-07-29 until:2007-12-05', 'from: StreetsPHX since:2007-12-05 until:2008-04-12', 'from: StreetsPHX since:2008-04-12 until:2008-08-19', 'from: StreetsPHX since:2008-08-19 until:2008-12-26', 'from: StreetsPHX since:2008-12-26 until:2009-05-04', 'from: StreetsPHX since:2009-05-04 until:2009-09-10', 'from: StreetsPHX since:2009-09-10 until:2010-01-17', 'from: StreetsPHX since:2010-01-17 until:2010-05-26', 'from: StreetsPHX since:2010-05-26 until:2010-10-02', 'from: StreetsPHX since:2010-10-02 until:2011-02-07', 'from: StreetsPHX since:2011-02-07 until:2011-06-16', 'from: StreetsPHX since:2011-06-16 until:2011-10-23', 'from: StreetsPHX since:2011-10-23 until:2012-02-29', 'from: StreetsPHX since:2012-02-29 until:2012-07-07', 'from: StreetsPHX since:2012-07-07 until:2012-11-13', 'from: StreetsPHX since:2012-11-13 until:2013-03-22', 'from: StreetsPHX since:2013-03-22 until:2013-07-29', 'from: StreetsPHX since:2013-07-29 until:2013-12-05', 'from: StreetsPHX since:2013-12-05 until:2014-04-13', 'from: StreetsPHX since:2014-04-13 until:2014-08-20', 'from: StreetsPHX since:2014-08-20 until:2014-12-27', 'from: StreetsPHX since:2014-12-27 until:2015-05-05', 'from: StreetsPHX since:2015-05-05 until:2015-09-10', 'from: StreetsPHX since:2015-09-10 until:2016-01-17', 'from: StreetsPHX since:2016-01-17 until:2016-05-25', 'from: StreetsPHX since:2016-05-25 until:2016-10-01', 'from: StreetsPHX since:2016-10-01 until:2017-02-07', 'from: StreetsPHX since:2017-02-07 until:2017-06-16', 'from: StreetsPHX since:2017-06-16 until:2017-10-23', 'from: StreetsPHX since:2017-10-23 until:2018-03-01', 'from: StreetsPHX since:2018-03-01 until:2018-07-08', 'from: StreetsPHX since:2018-07-08 until:2018-11-14', 'from: StreetsPHX since:2018-11-14 until:2019-03-23', 'from: StreetsPHX since:2019-03-23 until:2019-07-30', 'from: StreetsPHX since:2019-07-30 until:2019-12-06', 'from: StreetsPHX since:2019-12-06 until:2020-04-13']
+INFO: Querying from: StreetsPHX since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2017-02-07 until:2017-06-16
+INFO: Querying from: StreetsPHX since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Querying from: StreetsPHX since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-26101383221-26101383221&q=from%3A%20StreetsPHX%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-327244750208000000-327244750208000000&q=from%3A%20StreetsPHX%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-812352200701837316-812352200701837316&q=from%3A%20StreetsPHX%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-435857231804768256-438464918988148736&q=from%3A%20StreetsPHX%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-372377362240782336-394861212648751104&q=from%3A%20StreetsPHX%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-312958205993050112-312959755427651584&q=from%3A%20StreetsPHX%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-708709223610327041-730531711705075712&q=from%3A%20StreetsPHX%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-499418243468369920-500005104762621952&q=from%3A%20StreetsPHX%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbqgJy8wgEW6oCcvMIBEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-10469618019729408-31123970283536384&q=from%3A%20StreetsPHX%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgLi1uIGHxhYWiIC4tbiBh8YWEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2931985405-3767330427&q=from%3A%20StreetsPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOsutfNigkWgICTrLrXzYoJEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-842873572204929024-874624265705975808&q=from%3A%20StreetsPHX%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-882737704739405824-902931611133636608&q=from%3A%20StreetsPHX%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-4747877110-7799813845&q=from%3A%20StreetsPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-983884904059453440-989617133268094976&q=from%3A%20StreetsPHX%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20StreetsPHX%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 2 tweets (2 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20StreetsPHX%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 4 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-606663084518670336-619939093485481984&q=from%3A%20StreetsPHX%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGo-vW8jAwWgMCS7Knh3pUMEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20StreetsPHX%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 6 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOckfXs1wgWgICRtKnP7dcIEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-759249395976179712-760843269374877696&q=from%3A%20StreetsPHX%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLsnc_5qgoWgICSuMmL6voKEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-643623048898199552-679063653212160000&q=from%3A%20StreetsPHX%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20StreetsPHX%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 12 tweets (6 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20StreetsPHX%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 16 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-559826559733751809-593071963330842624&q=from%3A%20StreetsPHX%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMHE4o-l7g0WgMCQ9Mv_r_ANEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-175653409721024512-220315511873998848&q=from%3A%20StreetsPHX%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20StreetsPHX%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 22 tweets (6 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-924020661080780800-959433416272998400&q=from%3A%20StreetsPHX%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8047681568-11100673360&q=from%3A%20StreetsPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLGlltLr1RMWgMC21ZSur6MUEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb6r5TsFRb2meeIHBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20StreetsPHX%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20StreetsPHX%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 28 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIDw_IOZJRaAgICMwcXJbhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20StreetsPHX%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20StreetsPHX%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 34 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-227480509406662656-264743736897056768&q=from%3A%20StreetsPHX%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-501950327361257472-535231215532793856&q=from%3A%20StreetsPHX%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKrl74a7pxsWgsC8oZ_siJIcEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCN_9COwBgWgMC7oYbh7YcZEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLfdisO-shcWgMC71deIpaMYEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20StreetsPHX%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 42 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbs6_avIxaq272OOhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20StreetsPHX%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20StreetsPHX%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 52 tweets (10 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20StreetsPHX%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 60 tweets (8 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20StreetsPHX%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 66 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKCxjrem6xAWgMCjmcXUu5oREjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20StreetsPHX%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 74 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLjxsdOyiRUWgICxjYS7h48VEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-38721097092300800-64720750074003457&q=from%3A%20StreetsPHX%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-132670176075321344-174284449083686913&q=from%3A%20StreetsPHX%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20StreetsPHX%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 86 tweets (12 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbtl_DN7hEWgIC42e6ywuwSEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20StreetsPHX%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 96 tweets (10 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20StreetsPHX%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 108 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20StreetsPHX%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 120 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJPMx9LzxA8WgMCgyd7zgbsQEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-96270351675293696-124610012818583552&q=from%3A%20StreetsPHX%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLvNqPnj0hkWgMC7qfvmy9AaEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20StreetsPHX%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 134 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCgjvaF8AQWgMCQ_M3y244GEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1016770030007209990-1057754159351558145&q=from%3A%20StreetsPHX%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20StreetsPHX%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 150 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1234173110615605248-1247197198275624961&q=from%3A%20StreetsPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbAgO_6Oxag1bbaUhI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20StreetsPHX%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20StreetsPHX%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 170 tweets (20 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1083854140898340864-1109203009873932288&q=from%3A%20StreetsPHX%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1139682681950822400-1155981327402852352&q=from%3A%20StreetsPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLUucqk9w0WgIDDqI39wu0OEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJLIrZSWqAYWgMCRpNXBx6wHEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1186307883001995265-1202730765802303488&q=from%3A%20StreetsPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 5.160.26.238:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20StreetsPHX%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 194 tweets (24 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20StreetsPHX%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 216 tweets (22 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20StreetsPHX%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 238 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIDYvqjIiQEWgoCQ3LzL9-UBEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDUz7Sr1wMWgoCQ2I6yl-sEEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20StreetsPHX%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 268 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20StreetsPHX%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 298 tweets (30 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCg_teC1gIWgMCR2K-J2roDEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGotPvPygIWgMCR2K-J2roDEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwL6Nkb2lnBwWgsC7_bfz8q0dEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20StreetsPHX%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 339 tweets (41 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20StreetsPHX%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 377 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKLh7czDniIWgoCmgc7P984iEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKeJqObPih4WgMCjtdeQ1-QeEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_ljNf70B8WgICnrZC574ogEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKOJ_67O9iAWgMCjgcvQ-rAhEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.91.44.243:37927
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKa19sLr9R0WgMCjtdeQ1-QeEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20StreetsPHX%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 428 tweets (51 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.27.10.243:58219
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKr56NOa5SEWgoCmgc7P984iEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKb9p7OO0yAWgMCjgcvQ-rAhEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbFqvq4sx8WgICnrZC574ogEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 105.27.116.46:58498
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKKN0uuhwSEWgoCmgc7P984iEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 61 tweets for from%3A%20StreetsPHX%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 489 tweets (61 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgKfByOL0iyAWgMCjgcvQ-rAhEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 74 tweets for from%3A%20StreetsPHX%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 563 tweets (74 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaJ4sSk9B4WgICnrZC574ogEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.92.219.58:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOJ0Mm96B4WgICnrZC574ogEjUAFQAlAFUAFQAA&q=from%3A%20StreetsPHX%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 5.202.181.163:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 83 tweets for from%3A%20StreetsPHX%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 646 tweets (83 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 197.216.2.14:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.84.99.8:3128
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.174.156.40:3128
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.80.188.112:31028
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 18.230.14.209:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.196.117.234:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 150.66.41.63:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.99.134.61:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 206.189.36.13:47503
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 139.180.158.57:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.228.143.138:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 206.223.238.26:22871
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 86.57.181.122:51078
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 173.192.128.238:25
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.79.36.55:44861
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.191.250.142:31059
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.211.8.73:44581
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.194.192.29:43564
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.97.36.124:23500
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 121.139.218.165:31409
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.51.98.182:56906
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 105.247.171.202:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.25.2.251:8213
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 31.40.136.141:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.91.128.89:33746
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.6.104.105:38898
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.214.9.10:41572
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.196.147.146:55527
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.235.71.241:8080
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 646 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 646 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 646 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 646 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 646 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 646 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 646 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 646 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20StreetsPHX%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 646 tweets (0 new).
