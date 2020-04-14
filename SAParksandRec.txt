@@ -1,0 +1,1910 @@
+INFO: {'User-Agent': 'Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16'}
+INFO: queries: ['from: SAParksandRec since:2006-03-01 until:2006-07-07', 'from: SAParksandRec since:2006-07-07 until:2006-11-13', 'from: SAParksandRec since:2006-11-13 until:2007-03-22', 'from: SAParksandRec since:2007-03-22 until:2007-07-29', 'from: SAParksandRec since:2007-07-29 until:2007-12-05', 'from: SAParksandRec since:2007-12-05 until:2008-04-12', 'from: SAParksandRec since:2008-04-12 until:2008-08-19', 'from: SAParksandRec since:2008-08-19 until:2008-12-26', 'from: SAParksandRec since:2008-12-26 until:2009-05-04', 'from: SAParksandRec since:2009-05-04 until:2009-09-10', 'from: SAParksandRec since:2009-09-10 until:2010-01-17', 'from: SAParksandRec since:2010-01-17 until:2010-05-26', 'from: SAParksandRec since:2010-05-26 until:2010-10-02', 'from: SAParksandRec since:2010-10-02 until:2011-02-07', 'from: SAParksandRec since:2011-02-07 until:2011-06-16', 'from: SAParksandRec since:2011-06-16 until:2011-10-23', 'from: SAParksandRec since:2011-10-23 until:2012-02-29', 'from: SAParksandRec since:2012-02-29 until:2012-07-07', 'from: SAParksandRec since:2012-07-07 until:2012-11-13', 'from: SAParksandRec since:2012-11-13 until:2013-03-22', 'from: SAParksandRec since:2013-03-22 until:2013-07-29', 'from: SAParksandRec since:2013-07-29 until:2013-12-05', 'from: SAParksandRec since:2013-12-05 until:2014-04-13', 'from: SAParksandRec since:2014-04-13 until:2014-08-20', 'from: SAParksandRec since:2014-08-20 until:2014-12-27', 'from: SAParksandRec since:2014-12-27 until:2015-05-05', 'from: SAParksandRec since:2015-05-05 until:2015-09-10', 'from: SAParksandRec since:2015-09-10 until:2016-01-17', 'from: SAParksandRec since:2016-01-17 until:2016-05-25', 'from: SAParksandRec since:2016-05-25 until:2016-10-01', 'from: SAParksandRec since:2016-10-01 until:2017-02-07', 'from: SAParksandRec since:2017-02-07 until:2017-06-16', 'from: SAParksandRec since:2017-06-16 until:2017-10-23', 'from: SAParksandRec since:2017-10-23 until:2018-03-01', 'from: SAParksandRec since:2018-03-01 until:2018-07-08', 'from: SAParksandRec since:2018-07-08 until:2018-11-14', 'from: SAParksandRec since:2018-11-14 until:2019-03-23', 'from: SAParksandRec since:2019-03-23 until:2019-07-30', 'from: SAParksandRec since:2019-07-30 until:2019-12-06', 'from: SAParksandRec since:2019-12-06 until:2020-04-13']
+INFO: Querying from: SAParksandRec since:2006-03-01 until:2006-07-07
+INFO: Querying from: SAParksandRec since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2014-12-27 until:2015-05-05
+INFO: Querying from: SAParksandRec since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2017-02-07 until:2017-06-16
+INFO: Querying from: SAParksandRec since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2018-11-14 until:2019-03-23
+INFO: Querying from: SAParksandRec since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Querying from: SAParksandRec since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 193.41.88.58:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-6277532996-6574581406&q=from%3A%20SAParksandRec%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaItdziLha8moH-MBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SAParksandRec%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20SAParksandRec%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 6 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-456126666448703489-498958557161590785&q=from%3A%20SAParksandRec%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8075215754-14697569147&q=from%3A%20SAParksandRec%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-736196201293348865-780451815896719360&q=from%3A%20SAParksandRec%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-231376291557945344-265862069738434561&q=from%3A%20SAParksandRec%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 48)
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-365200703066603521-407147077010202624&q=from%3A%20SAParksandRec%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-505828600642547712-548186802905829376&q=from%3A%20SAParksandRec%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-690974241697587200-734865924394614784&q=from%3A%20SAParksandRec%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-549962322782224384-582645038846500864&q=from%3A%20SAParksandRec%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-22000755112157184-32522821179543552&q=from%3A%20SAParksandRec%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-159281793537802240-174139357555462144&q=from%3A%20SAParksandRec%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-22089445363-25885283715&q=from%3A%20SAParksandRec%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-113640221832249344-123404935143489537&q=from%3A%20SAParksandRec%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-68046273252564992-78819716642254849&q=from%3A%20SAParksandRec%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-643860725946040320-688092120134062080&q=from%3A%20SAParksandRec%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-269464883354038274-311563339887177728&q=from%3A%20SAParksandRec%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-191881310346821632-212905368425209856&q=from%3A%20SAParksandRec%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-413323261272129536-450081287160619008&q=from%3A%20SAParksandRec%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-334816869779398656-360786019181801472&q=from%3A%20SAParksandRec%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJDkqrK-1AwWgsCQ1MCK1OwNEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-598569747568025600-640888174978461696&q=from%3A%20SAParksandRec%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-835547335174213632-873515121208905733&q=from%3A%20SAParksandRec%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-891699143906906116-919202212257071105&q=from%3A%20SAParksandRec%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1001125744641224704-1014520774286348289&q=from%3A%20SAParksandRec%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1115694973159182336-1153413105487138824&q=from%3A%20SAParksandRec%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-953731954662412291-968968223948443648&q=from%3A%20SAParksandRec%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1233842290378117121-1249353149292445698&q=from%3A%20SAParksandRec%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1083876382361440256-1107738172434366464&q=from%3A%20SAParksandRec%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-783690952921808901-827914578109554688&q=from%3A%20SAParksandRec%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1040611655355379712-1062392955519021057&q=from%3A%20SAParksandRec%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20SAParksandRec%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 24 tweets (18 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1163947648103145478-1200857959259082752&q=from%3A%20SAParksandRec%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 109.111.145.245:53281
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaUjpCVPBb27djAbRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SAParksandRec%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20SAParksandRec%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 52 tweets (28 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKjx7KK_txQWgICprdSy3NQVEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJG83OCBtgYWgsCToJqJxLAHEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20SAParksandRec%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 76 tweets (24 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20SAParksandRec%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 106 tweets (30 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJCg2Ia6kQoWgIDBiICHvaYLEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMGo1ZuIhQ4WgMCSnMW_xpsPEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOVrtrqlhMWgICk0cWq4rIUEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20SAParksandRec%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 138 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMSUs_TtoQ8WgIC3qe2k_JUQEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20SAParksandRec%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 168 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20SAParksandRec%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 198 tweets (30 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20SAParksandRec%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 226 tweets (28 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJO8x7iqvQcWgMCT8J7N8tIIEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIGUv-SUThaAwIC4rNXFcxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20SAParksandRec%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbmv5HKpAEWhtaQ7sABEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGYs-7f8QEWgsCRvKuHg5gCEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20SAParksandRec%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 262 tweets (36 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLbt5_q57xEWgMCwleeIzIwTEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDov8vdkwMWgoCQrM-ItrYDEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCw0PzwtQQWgMCQyNa01eoEEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMDYntS1vAsWgICTlPmigb8MEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLkn8LZqQUWgICR_L6TsvQFEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20SAParksandRec%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 298 tweets (36 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.16.171.65:30679
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPA6YrBpQkWgMCRlKK-4oEKEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLOR84DGzhAWgMC3pcmZ8uQREjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLbx9_TZih4WgIC6gfb_vN8eEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqh-_e6mBcWisC2mf3XrJ8YEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWpsLL_8BwWgsC12fSwsL4dEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20SAParksandRec%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 336 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwLrxs-n53xgWgoCwpdfi1MEZEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMPErZqLsQsWgICTlPmigb8MEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWN8KPb5BsWgsC8iZzRppQcEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLyN16rf-x4WkMC6_ffG34EgEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgLzpn7Gd4BUWgICzyYP7q_0WEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLChsdy5myIWhIC86byEzNYiEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLyJnIqrvBoWgMC0sejdu_IaEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20SAParksandRec%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 378 tweets (42 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Retrying... (Attempts left: 44)
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLTRsJyd4BUWgICzyYP7q_0WEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgLflgo6WpyAWgMC09fL8pqohEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 194.58.182.73:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 134.209.247.198:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 35 tweets for from%3A%20SAParksandRec%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 413 tweets (35 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLydjdb-8R4WkMC6_ffG34EgEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL3tnbr-0hgWgoCwpdfi1MEZEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 39 tweets for from%3A%20SAParksandRec%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 452 tweets (39 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20SAParksandRec%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 495 tweets (43 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLCVsNWLiRcWisC2mf3XrJ8YEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20SAParksandRec%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 540 tweets (45 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb2_dud1wEWgMCAuKzVxXMSNQAVACUAVQAVAAA%3D&q=from%3A%20SAParksandRec%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa8-brcmAEWhtaQ7sABEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJL41eqKzAEWgsCRvKuHg5gCEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 63.246.57.113:46312
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKsy8Ln0QMWgMCQyNa01eoEEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJP0qJnG3wgWgMCRlKK-4oEKEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20SAParksandRec%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 592 tweets (52 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJK8v4am9wIWgoCQrM-ItrYDEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL21m9bLjyAWgMC09fL8pqohEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLThts3hvx0WgIC6gfb_vN8eEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJH8taH5_AQWgICR_L6TsvQFEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL71_oOEsyEWhIC86byEzNYiEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20SAParksandRec%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 639 tweets (47 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20SAParksandRec%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 691 tweets (52 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbU14LMxAEWgMCAuKzVxXMSNQAVACUAVQAVAAA%3D&q=from%3A%20SAParksandRec%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGghqv_ygMWgMCQyNa01eoEEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20SAParksandRec%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 733 tweets (42 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20SAParksandRec%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 799 tweets (66 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 64 tweets for from%3A%20SAParksandRec%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 863 tweets (64 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.10.82.22:54105
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLbpwsKbiRsWgsC8iZzRppQcEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJDEjLWc9QQWgICR_L6TsvQFEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgLft2vOgghoWgMC0sejdu_IaEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCVh7zVqxwWgsC12fSwsL4dEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 85.194.250.138:25834
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 65 tweets for from%3A%20SAParksandRec%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 928 tweets (65 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOl8r-bRaG1pDuwAESNQAVACUAVQAVAAA%3D&q=from%3A%20SAParksandRec%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20SAParksandRec%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 1003 tweets (75 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.83.197.228:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLflpe_rnRwWgsC12fSwsL4dEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJH0y_CgmgEWgsCRvKuHg5gCEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 58 tweets for from%3A%20SAParksandRec%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 1061 tweets (58 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLwgOWc0wIWgoCQrM-ItrYDEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.70.6.191:59747
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwIDE4sH_ehaCwJG8q4eDmAISNQAVACUAVQAVAAA%3D&q=from%3A%20SAParksandRec%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 85 tweets for from%3A%20SAParksandRec%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 1146 tweets (85 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL_p4Oy38xoWgsC8iZzRppQcEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXt56TozRkWgMC0sejdu_IaEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 41.85.191.6:57797
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 70 tweets for from%3A%20SAParksandRec%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 1216 tweets (70 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 72 tweets for from%3A%20SAParksandRec%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 1288 tweets (72 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHskNquoQIWgoCQrM-ItrYDEjUAFQAlAFUAFQAA&q=from%3A%20SAParksandRec%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 207.144.111.230:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.53.46.14:38525
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 98 tweets for from%3A%20SAParksandRec%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 1386 tweets (98 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 197.159.91.37:35242
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 102.164.195.174:37068
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 113.176.88.18:46281
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 119.82.253.175:31500
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.235.87.94:53781
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.22.139.238:56346
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.89.228.201:39628
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.68.90.232:9090
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 96.9.73.80:56891
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.209.176.159:40989
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.49.37.133:80
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.220.166.148:39915
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 116.0.2.162:45054
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 159.192.97.181:23500
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.158.170.238:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 54.88.57.3:3128
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 77.120.137.143:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.218.104.42:32829
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.64.99.26:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 18)
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 88.255.63.53:8080
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 142.93.150.47:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.2.169.8:49371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.91.116.76:8118
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 75.151.213.85:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.91.95.95:8118
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.111.33.164:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 117.206.83.46:39884
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.34.22.225:37879
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 78.46.40.146:8118
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 27.116.51.178:6666
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 139.255.123.194:4550
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.157.163.66:35081
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 1386 tweets (0 new).
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.154.246.67:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.108.98.1:55207
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1386 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 1386 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1386 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 1386 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.179.209.216:57520
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 1386 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 1386 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1386 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1386 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20SAParksandRec%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1386 tweets (0 new).

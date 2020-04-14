@@ -1,0 +1,2365 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: JTAFLA since:2006-03-01 until:2006-07-07', 'from: JTAFLA since:2006-07-07 until:2006-11-13', 'from: JTAFLA since:2006-11-13 until:2007-03-22', 'from: JTAFLA since:2007-03-22 until:2007-07-29', 'from: JTAFLA since:2007-07-29 until:2007-12-05', 'from: JTAFLA since:2007-12-05 until:2008-04-12', 'from: JTAFLA since:2008-04-12 until:2008-08-19', 'from: JTAFLA since:2008-08-19 until:2008-12-26', 'from: JTAFLA since:2008-12-26 until:2009-05-04', 'from: JTAFLA since:2009-05-04 until:2009-09-10', 'from: JTAFLA since:2009-09-10 until:2010-01-17', 'from: JTAFLA since:2010-01-17 until:2010-05-26', 'from: JTAFLA since:2010-05-26 until:2010-10-02', 'from: JTAFLA since:2010-10-02 until:2011-02-07', 'from: JTAFLA since:2011-02-07 until:2011-06-16', 'from: JTAFLA since:2011-06-16 until:2011-10-23', 'from: JTAFLA since:2011-10-23 until:2012-02-29', 'from: JTAFLA since:2012-02-29 until:2012-07-07', 'from: JTAFLA since:2012-07-07 until:2012-11-13', 'from: JTAFLA since:2012-11-13 until:2013-03-22', 'from: JTAFLA since:2013-03-22 until:2013-07-29', 'from: JTAFLA since:2013-07-29 until:2013-12-05', 'from: JTAFLA since:2013-12-05 until:2014-04-13', 'from: JTAFLA since:2014-04-13 until:2014-08-20', 'from: JTAFLA since:2014-08-20 until:2014-12-27', 'from: JTAFLA since:2014-12-27 until:2015-05-05', 'from: JTAFLA since:2015-05-05 until:2015-09-10', 'from: JTAFLA since:2015-09-10 until:2016-01-17', 'from: JTAFLA since:2016-01-17 until:2016-05-25', 'from: JTAFLA since:2016-05-25 until:2016-10-01', 'from: JTAFLA since:2016-10-01 until:2017-02-07', 'from: JTAFLA since:2017-02-07 until:2017-06-16', 'from: JTAFLA since:2017-06-16 until:2017-10-23', 'from: JTAFLA since:2017-10-23 until:2018-03-01', 'from: JTAFLA since:2018-03-01 until:2018-07-08', 'from: JTAFLA since:2018-07-08 until:2018-11-14', 'from: JTAFLA since:2018-11-14 until:2019-03-23', 'from: JTAFLA since:2019-03-23 until:2019-07-30', 'from: JTAFLA since:2019-07-30 until:2019-12-06', 'from: JTAFLA since:2019-12-06 until:2020-04-13']
+INFO: Querying from: JTAFLA since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2011-06-16 until:2011-10-23
+INFO: Querying from: JTAFLA since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2018-11-14 until:2019-03-23
+INFO: Querying from: JTAFLA since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Querying from: JTAFLA since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.76.21.187:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-20902942421-22382213388&q=from%3A%20JTAFLA%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-44197381327175680-81059404287442945&q=from%3A%20JTAFLA%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaq28zemwEWmOSr4aYBEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-174947385536028672-213481764654546944&q=from%3A%20JTAFLA%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20JTAFLA%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 8 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-232118573722660864-265851474389647360&q=from%3A%20JTAFLA%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-315201077454704640-356777383694565381&q=from%3A%20JTAFLA%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-408693364163223552-453166285401366528&q=from%3A%20JTAFLA%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-370155477302145024-405722015320911872&q=from%3A%20JTAFLA%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-83276382527946752-125919251189084160&q=from%3A%20JTAFLA%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-555826635325571072-593454308152053760&q=from%3A%20JTAFLA%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-289050796996304898-314416669688745985&q=from%3A%20JTAFLA%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLgl9KCnQEWgoCQ5KjG_Z8CEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-513114821991346176-545689473317863424&q=from%3A%20JTAFLA%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-465893091535503360-500349034541096960&q=from%3A%20JTAFLA%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-134082369438228480-172400309035995136&q=from%3A%20JTAFLA%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-668836692871245830-687280285625483265&q=from%3A%20JTAFLA%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20JTAFLA%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 26 tweets (18 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-603622079502647296-641717296768155648&q=from%3A%20JTAFLA%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-717387743807012864-733642222382546945&q=from%3A%20JTAFLA%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-907929831509295104-921753098011410432&q=from%3A%20JTAFLA%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-862414341655678978-874975001509756928&q=from%3A%20JTAFLA%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-810877342662926338-827879680581726209&q=from%3A%20JTAFLA%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-997824376815923201-1015566283776151559&q=from%3A%20JTAFLA%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1234886256460320773-1247917120815607809&q=from%3A%20JTAFLA%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-771772938400006144-781932221259276288&q=from%3A%20JTAFLA%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-951967168530407424-968171102026518528&q=from%3A%20JTAFLA%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1049751104576208896-1062435259583787008&q=from%3A%20JTAFLA%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1082275506014339073-1107635209971867650&q=from%3A%20JTAFLA%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGUjO7E7QQWgICQxJWiuPYFEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1186824999644073984-1199320316876603392&q=from%3A%20JTAFLA%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1142873903011942400-1155952435430490118&q=from%3A%20JTAFLA%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 207.180.253.122:80
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJPInafTuAYWgICS4Lygv7AHEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20JTAFLA%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 48 tweets (22 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDot-3o3wgWioCQsPzIw_MJEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20JTAFLA%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 72 tweets (24 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20JTAFLA%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 98 tweets (26 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGQ4Zz8qwsWgIDBmL2V_MkMEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOEwZyHowoWgMCRjL-BtaELEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20JTAFLA%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 128 tweets (30 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20JTAFLA%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 160 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDst9vtpwIWgMCR2Im5rb8DEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20JTAFLA%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 192 tweets (32 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMC0qNjYtg8WgMCgvZHjr7wQEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgJHQ44r1gggWgsCSxPKShN0IEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMHcyM35ng4WgIDA7Onr1pIPEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20JTAFLA%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 226 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMKEjNOX9wwWgIDBuPiyzPENEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGQjM2t3AMWgMCQtN3KvuQEEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLS1qcW_4BAWgIC4geie6-cREjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLO1ttuXyBIWgoCw3ejx2okTEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLC9xJbW9BMWgoC4ldvtta4UEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyB4tfOmRkWgICwmePj3MoZEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLa5yNH09xcWgICwhZnIxKQYEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyJwNnxtRUWgIC76cvN_dkVEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwKLlvaCZoyIWgsC99c6Av9EiEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLHds6nowBYWgsCz3dyLnP0WEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLWF_f792BsWjsC65fCJgpgcEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLatq8S7kR0WgMC7xarPw74dEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMD87p7D8wwWgIDBuPiyzPENEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSlksO5-CAWgIC2tare66QhEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJDAg9i-yAMWgMCQtN3KvuQEEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLfhksaIthoWgMC2oZuf0e8aEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLrR1fWBhR4WhIC18duWjt8eEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20JTAFLA%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 268 tweets (42 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMTYvZmogQ4WgIDA7Onr1pIPEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20JTAFLA%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 310 tweets (42 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJGsnojhugcWgsCSxPKShN0IEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 83.97.111.202:41258
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20JTAFLA%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 353 tweets (43 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrBzvCm3B8WjICosbKn4oogEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 180.249.230.65:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20JTAFLA%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 400 tweets (47 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLSZqp2rxBAWgIC4geie6-cREjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20JTAFLA%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 447 tweets (47 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.160.117.130:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLjB78v9nhIWgoCw3ejx2okTEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.172.1.70:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL6lmpaHwB0WhIC18duWjt8eEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLCNqZTJxxMWgoC4ldvtta4UEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL3h0c2T6hgWgICwmePj3MoZEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgLy1xJ3thhYWgsCz3dyLnP0WEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgL3Zr7OyyRcWgICwhZnIxKQYEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWNrKSO9SEWgsC99c6Av9EiEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXlmrb06xwWgMC7xarPw74dEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLjdrevH_xQWgIC76cvN_dkVEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 53 tweets for from%3A%20JTAFLA%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 500 tweets (53 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6Bk_bOsxsWjsC65fCJgpgcEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbR1NCkuyAWgIC2tare66QhEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLydhLaskRoWgMC2oZuf0e8aEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.25.148.67:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL2dpLiztR8WjICosbKn4oogEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 85.192.167.69:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXB_KaH7hEWgoCw3ejx2okTEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.117.23.109:35383
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 73 tweets for from%3A%20JTAFLA%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 573 tweets (73 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLGh6Oj5kxMWgoC4ldvtta4UEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 74 tweets for from%3A%20JTAFLA%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 647 tweets (74 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCl26LGwhgWgICwmePj3MoZEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLSB18br4RUWgsCz3dyLnP0WEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLHh0YuLoRcWgICwhZnIxKQYEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLOJzKyn7BQWgIC76cvN_dkVEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLaBs6qFwxwWgMC7xarPw74dEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLS1vfvqhRsWjsC65fCJgpgcEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLz1zPu9wSEWgsC99c6Av9EiEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLv9zojK9hkWgMC2oZuf0e8aEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLvt_bP-iyAWgIC2tare66QhEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLy9vpGq-h4WjICosbKn4oogEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 117.222.162.211:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 69 tweets for from%3A%20JTAFLA%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 716 tweets (69 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 72 tweets for from%3A%20JTAFLA%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 788 tweets (72 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL7d1uW3tCEWgsC99c6Av9EiEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.79.48.23:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLiFks312hUWgsCz3dyLnP0WEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 79 tweets for from%3A%20JTAFLA%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 867 tweets (79 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLXh_OuwpxgWgICwmePj3MoZEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 87 tweets for from%3A%20JTAFLA%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 954 tweets (87 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 87 tweets for from%3A%20JTAFLA%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 1041 tweets (87 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLuJ1trZ8xoWjsC65fCJgpgcEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.206.103.209:23500
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 86 tweets for from%3A%20JTAFLA%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 1127 tweets (86 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLPl99atgBcWgICwhZnIxKQYEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLTl8sb1tBQWgIC76cvN_dkVEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 94 tweets for from%3A%20JTAFLA%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 1221 tweets (94 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 94 tweets for from%3A%20JTAFLA%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 1315 tweets (94 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 62.122.201.170:40714
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLCh7uT0oxwWgMC7xarPw74dEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 95 tweets for from%3A%20JTAFLA%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 1410 tweets (95 new).
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.130.82.53:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLb5-7Kw0RkWgMC2oZuf0e8aEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 46.246.12.13:3128
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDZl7qY0BkWgMC2oZuf0e8aEjUAFQAlAFUAFQAA&q=from%3A%20JTAFLA%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 178.215.76.193:53281
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 101 tweets for from%3A%20JTAFLA%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 1511 tweets (101 new).
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.142.69.242:31282
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 50.226.151.17:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.204.61.161:35672
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 154.117.159.228:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 183.88.20.213:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.117.23.117:52620
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 27.116.51.115:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 171.6.175.147:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.13.144.75:31758
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.160.165.18:8081
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 180.251.243.183:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.165.244.46:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 134.209.17.188:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 50.226.151.24:80
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 20)
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.77.138.161:41258
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.61.92.207:35847
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.191.20.14:54375
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 82.117.244.85:31280
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 66.42.65.149:8118
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 175.41.44.36:52581
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 157.245.199.227:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 175.106.10.226:52719
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 115.127.109.2:45067
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 154.73.109.83:53281
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 203.207.52.206:8085
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.67.158.49:65301
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.160.72.149:55206
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.195.173.68:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 50.226.151.4:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 50.226.151.20:80
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 168.227.229.96:8888
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.47.239.229:42182
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 174.128.6.13:3128
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1511 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20JTAFLA%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 1511 tweets (0 new).

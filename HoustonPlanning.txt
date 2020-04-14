@@ -1,0 +1,1580 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: HoustonPlanning since:2006-03-01 until:2006-07-07', 'from: HoustonPlanning since:2006-07-07 until:2006-11-13', 'from: HoustonPlanning since:2006-11-13 until:2007-03-22', 'from: HoustonPlanning since:2007-03-22 until:2007-07-29', 'from: HoustonPlanning since:2007-07-29 until:2007-12-05', 'from: HoustonPlanning since:2007-12-05 until:2008-04-12', 'from: HoustonPlanning since:2008-04-12 until:2008-08-19', 'from: HoustonPlanning since:2008-08-19 until:2008-12-26', 'from: HoustonPlanning since:2008-12-26 until:2009-05-04', 'from: HoustonPlanning since:2009-05-04 until:2009-09-10', 'from: HoustonPlanning since:2009-09-10 until:2010-01-17', 'from: HoustonPlanning since:2010-01-17 until:2010-05-26', 'from: HoustonPlanning since:2010-05-26 until:2010-10-02', 'from: HoustonPlanning since:2010-10-02 until:2011-02-07', 'from: HoustonPlanning since:2011-02-07 until:2011-06-16', 'from: HoustonPlanning since:2011-06-16 until:2011-10-23', 'from: HoustonPlanning since:2011-10-23 until:2012-02-29', 'from: HoustonPlanning since:2012-02-29 until:2012-07-07', 'from: HoustonPlanning since:2012-07-07 until:2012-11-13', 'from: HoustonPlanning since:2012-11-13 until:2013-03-22', 'from: HoustonPlanning since:2013-03-22 until:2013-07-29', 'from: HoustonPlanning since:2013-07-29 until:2013-12-05', 'from: HoustonPlanning since:2013-12-05 until:2014-04-13', 'from: HoustonPlanning since:2014-04-13 until:2014-08-20', 'from: HoustonPlanning since:2014-08-20 until:2014-12-27', 'from: HoustonPlanning since:2014-12-27 until:2015-05-05', 'from: HoustonPlanning since:2015-05-05 until:2015-09-10', 'from: HoustonPlanning since:2015-09-10 until:2016-01-17', 'from: HoustonPlanning since:2016-01-17 until:2016-05-25', 'from: HoustonPlanning since:2016-05-25 until:2016-10-01', 'from: HoustonPlanning since:2016-10-01 until:2017-02-07', 'from: HoustonPlanning since:2017-02-07 until:2017-06-16', 'from: HoustonPlanning since:2017-06-16 until:2017-10-23', 'from: HoustonPlanning since:2017-10-23 until:2018-03-01', 'from: HoustonPlanning since:2018-03-01 until:2018-07-08', 'from: HoustonPlanning since:2018-07-08 until:2018-11-14', 'from: HoustonPlanning since:2018-11-14 until:2019-03-23', 'from: HoustonPlanning since:2019-03-23 until:2019-07-30', 'from: HoustonPlanning since:2019-07-30 until:2019-12-06', 'from: HoustonPlanning since:2019-12-06 until:2020-04-13']
+INFO: Querying from: HoustonPlanning since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Querying from: HoustonPlanning since:2016-05-25 until:2016-10-01
+INFO: Using proxy 103.105.236.197:41226
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Querying from: HoustonPlanning since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 103.105.236.197:41226
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1659374394-1659374394&q=from%3A%20HoustonPlanning%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-5568738554-7488016304&q=from%3A%20HoustonPlanning%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1848605531-3245022411&q=from%3A%20HoustonPlanning%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-859209591887978496-862037213370093569&q=from%3A%20HoustonPlanning%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb0rMCuDBb0rMCuDBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HoustonPlanning%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb00-G-KRbgvpDlNxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HoustonPlanning%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20HoustonPlanning%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 2 tweets (2 new).
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-38355408003416064-80764025893433344&q=from%3A%20HoustonPlanning%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-7905768606-11759670814&q=from%3A%20HoustonPlanning%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa27fviDRaW89iWGBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HoustonPlanning%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20HoustonPlanning%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 6 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-182134734229479425-216248818335887360&q=from%3A%20HoustonPlanning%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLuByqTD7BcWgsC84eeRyfYXEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-131075840044843008-170358989853442048&q=from%3A%20HoustonPlanning%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-28695517517-28485389706596352&q=from%3A%20HoustonPlanning%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20HoustonPlanning%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 12 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-928714124229599232-968156257839394816&q=from%3A%20HoustonPlanning%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20HoustonPlanning%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 16 tweets (4 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15731590491-24139105063&q=from%3A%20HoustonPlanning%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-83986010593173504-121275324402114561&q=from%3A%20HoustonPlanning%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-362240480580345856-402468820914155520&q=from%3A%20HoustonPlanning%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-885674382139375616-906339112155844608&q=from%3A%20HoustonPlanning%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-642041621920509952-682316035031195650&q=from%3A%20HoustonPlanning%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-791360509022834688-824269137719529472&q=from%3A%20HoustonPlanning%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-235769303939559425-261843366856228865&q=from%3A%20HoustonPlanning%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-599206310874230786-641334786943008768&q=from%3A%20HoustonPlanning%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa80sPzOha82PLOVxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20HoustonPlanning%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJHw7KSJhwUWgMCRgPLJooAGEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLUyoKiiAEWgMCRoISd954CEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-412663970252587008-454396784152813568&q=from%3A%20HoustonPlanning%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-509047373817856001-545666725291622401&q=from%3A%20HoustonPlanning%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-277079081823133696-314533852150382592&q=from%3A%20HoustonPlanning%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20HoustonPlanning%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 32 tweets (16 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20HoustonPlanning%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 48 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-735491193753075713-779287635382509568&q=from%3A%20HoustonPlanning%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLIhrLW0QMWgICSqKimnt0EEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL-J6qS64xkWgMC1uZW_yu8aEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20HoustonPlanning%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 68 tweets (20 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-557937508130906112-594183158561517568&q=from%3A%20HoustonPlanning%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-456813308578770945-499568444077928448&q=from%3A%20HoustonPlanning%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-325284210254426112-361632797657538561&q=from%3A%20HoustonPlanning%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1017813849024679942-1060573071109709827&q=from%3A%20HoustonPlanning%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-692710100780253185-733484319893651456&q=from%3A%20HoustonPlanning%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20HoustonPlanning%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 86 tweets (18 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaa5Zbm1QEWgMCA7PPTmWUSNQAVACUAVQAVAAA%3D&q=from%3A%20HoustonPlanning%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1140256960002035714-1153337483398135809&q=from%3A%20HoustonPlanning%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1073486485654028288-1108009918832037889&q=from%3A%20HoustonPlanning%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-977254214874402818-1009451277229678592&q=from%3A%20HoustonPlanning%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20HoustonPlanning%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 104 tweets (18 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20HoustonPlanning%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 124 tweets (20 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGEiPP3hgoWgMCR_NPQ7ZULEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1221953640723894273-1246561437209833485&q=from%3A%20HoustonPlanning%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJH4nLWwqgIWgoCR8PrQ7a4DEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1161220044455649281-1201883126701678592&q=from%3A%20HoustonPlanning%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 176.235.99.37:49696
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa2leiadRbOjOzsswESNQAVACUAVQAVAAA%3D&q=from%3A%20HoustonPlanning%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 22 tweets for from%3A%20HoustonPlanning%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 146 tweets (22 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20HoustonPlanning%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 170 tweets (24 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20HoustonPlanning%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 194 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbhjorGyhgWgICw0b7G-5MZEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20HoustonPlanning%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 212 tweets (18 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLPZgt3-6BEWhICzybO0ifgSEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJGk2bvPxQYWgoCQxPTJoKIHEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDZlYy9-xUWgMC4kbyasvAWEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20HoustonPlanning%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 238 tweets (26 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20HoustonPlanning%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 266 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 28 tweets for from%3A%20HoustonPlanning%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 294 tweets (28 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKWt4b3n0BAWgIC23eelveYREjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.0.130:55870
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 30 tweets for from%3A%20HoustonPlanning%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 324 tweets (30 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKk9vi_kA4WgoCQ7Nu_zJIPEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKSxgdb-tBQWgIChzbf-ytAVEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDoueyJugsWgICRqPfdq84MEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPsnv2w2AcWgICS9Oe3ud0IEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20HoustonPlanning%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 360 tweets (36 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.28.226.125:32862
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20HoustonPlanning%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 394 tweets (34 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJGoldL21gwWgMCTpMy26e4NEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20HoustonPlanning%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 432 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOwpM2Yvg8WgMChmeib-74QEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20HoustonPlanning%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 470 tweets (38 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20HoustonPlanning%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 510 tweets (40 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJG0gZHSgwkWgoCRuKHH44QKEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLqJrZHl5R0WgsC-udLJuOAeEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKiV1IqAnRMWgICk-cmG7q0UEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLbpspOAoBwWhoC3ndnl9LcdEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20HoustonPlanning%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 548 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLqVwuSM_RoWgIC31dOlpYIcEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLTZveqA0x8WgoC2wZOVvYEgEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgLeRlPP_mxwWhoC3ndnl9LcdEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCAlPOXow8WgMChmeib-74QEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL39y969nSAWgIC3yb-V-a0hEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 39 tweets for from%3A%20HoustonPlanning%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Got 587 tweets (39 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 193.213.89.72:51024
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKKt7obR_BoWgIC31dOlpYIcEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL71lZeg9SEWmsC9-bjB1swiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 125.209.73.170:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20HoustonPlanning%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 631 tweets (44 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 33 tweets for from%3A%20HoustonPlanning%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 664 tweets (33 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHY_o_95QgWgoCRuKHH44QKEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLb9kOXskCAWgIC3yb-V-a0hEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLblrJHBvx0WgsC-udLJuOAeEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwL2J3raasiEWmsC9-bjB1swiEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20HoustonPlanning%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 712 tweets (48 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 40 tweets for from%3A%20HoustonPlanning%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 752 tweets (40 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20HoustonPlanning%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 798 tweets (46 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20HoustonPlanning%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 842 tweets (44 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.83.116.210:55443
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLCRq4rEgB8WgoC2wZOVvYEgEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Using proxy 5.23.103.98:42328
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.23.103.98:42328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLrJpLyv8R4WgoC2wZOVvYEgEjUAFQAlAFUAFQAA&q=from%3A%20HoustonPlanning%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.89.86.49:51580
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20HoustonPlanning%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 901 tweets (59 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.20.92.102:33490
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.179.185.213:3128
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 155.0.181.254:31359
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.198.97.241:30072
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 94.244.28.246:31280
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 27.145.234.159:8213
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.185.96.60:41003
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 160.2.38.41:8080
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.53.38.98:42925
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.62.191.3:61456
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.253.204.66:34967
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.251.57.23:60083
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 159.224.37.181:35306
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.142.218.226:40816
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.185.159.98:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.24.83.215:8213
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.74.195.215:44975
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.133.214.39:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.213.44:53931
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 125.27.251.249:50890
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 177.94.206.67:60666
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 71.183.100.116:80
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 143.0.245.9:48158
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.37.201.187:30329
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.204.46.10:39371
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 196.188.73.56:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 115.75.2.213:38351
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.240.206.152:55740
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 168.194.14.126:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.24.148.234:60759
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.111.176.193:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 79.135.240.254:47731
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.143.196.26:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.105.255.33:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.20.97.96:54205
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.23.81.82:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Retrying... (Attempts left: 3)
+INFO: Using proxy 31.220.183.217:53281
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 31.220.183.217:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Got 0 tweets for from%3A%20HoustonPlanning%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 901 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.16.81.189:54040
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Got 0 tweets for from%3A%20HoustonPlanning%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 901 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Got 0 tweets for from%3A%20HoustonPlanning%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 901 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonPlanning%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 901 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonPlanning%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 901 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonPlanning%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 901 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonPlanning%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 901 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20HoustonPlanning%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 901 tweets (0 new).

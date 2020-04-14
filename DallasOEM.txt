@@ -1,0 +1,1783 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; fr; rv:1.9.2.13) Gecko/20101203 Firebird/3.6.13'}
+INFO: queries: ['from: DallasOEM since:2006-03-01 until:2006-07-07', 'from: DallasOEM since:2006-07-07 until:2006-11-13', 'from: DallasOEM since:2006-11-13 until:2007-03-22', 'from: DallasOEM since:2007-03-22 until:2007-07-29', 'from: DallasOEM since:2007-07-29 until:2007-12-05', 'from: DallasOEM since:2007-12-05 until:2008-04-12', 'from: DallasOEM since:2008-04-12 until:2008-08-19', 'from: DallasOEM since:2008-08-19 until:2008-12-26', 'from: DallasOEM since:2008-12-26 until:2009-05-04', 'from: DallasOEM since:2009-05-04 until:2009-09-10', 'from: DallasOEM since:2009-09-10 until:2010-01-17', 'from: DallasOEM since:2010-01-17 until:2010-05-26', 'from: DallasOEM since:2010-05-26 until:2010-10-02', 'from: DallasOEM since:2010-10-02 until:2011-02-07', 'from: DallasOEM since:2011-02-07 until:2011-06-16', 'from: DallasOEM since:2011-06-16 until:2011-10-23', 'from: DallasOEM since:2011-10-23 until:2012-02-29', 'from: DallasOEM since:2012-02-29 until:2012-07-07', 'from: DallasOEM since:2012-07-07 until:2012-11-13', 'from: DallasOEM since:2012-11-13 until:2013-03-22', 'from: DallasOEM since:2013-03-22 until:2013-07-29', 'from: DallasOEM since:2013-07-29 until:2013-12-05', 'from: DallasOEM since:2013-12-05 until:2014-04-13', 'from: DallasOEM since:2014-04-13 until:2014-08-20', 'from: DallasOEM since:2014-08-20 until:2014-12-27', 'from: DallasOEM since:2014-12-27 until:2015-05-05', 'from: DallasOEM since:2015-05-05 until:2015-09-10', 'from: DallasOEM since:2015-09-10 until:2016-01-17', 'from: DallasOEM since:2016-01-17 until:2016-05-25', 'from: DallasOEM since:2016-05-25 until:2016-10-01', 'from: DallasOEM since:2016-10-01 until:2017-02-07', 'from: DallasOEM since:2017-02-07 until:2017-06-16', 'from: DallasOEM since:2017-06-16 until:2017-10-23', 'from: DallasOEM since:2017-10-23 until:2018-03-01', 'from: DallasOEM since:2018-03-01 until:2018-07-08', 'from: DallasOEM since:2018-07-08 until:2018-11-14', 'from: DallasOEM since:2018-11-14 until:2019-03-23', 'from: DallasOEM since:2019-03-23 until:2019-07-30', 'from: DallasOEM since:2019-07-30 until:2019-12-06', 'from: DallasOEM since:2019-12-06 until:2020-04-13']
+INFO: Querying from: DallasOEM since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Querying from: DallasOEM since:2006-07-07 until:2006-11-13
+INFO: Using proxy 37.57.216.2:2222
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2013-07-29 until:2013-12-05
+INFO: Querying from: DallasOEM since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2015-05-05 until:2015-09-10
+INFO: Querying from: DallasOEM since:2015-09-10 until:2016-01-17
+INFO: Querying from: DallasOEM since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Using proxy 37.57.216.2:2222
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: DallasOEM since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8002577673-10234912351&q=from%3A%20DallasOEM%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-83371835911188481-83396280155508736&q=from%3A%20DallasOEM%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-236631538622664705-238046038336872448&q=from%3A%20DallasOEM%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-181811260365602817-221307107327229952&q=from%3A%20DallasOEM%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-132193519040331776-172370554815397888&q=from%3A%20DallasOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-21942710872-25079650265&q=from%3A%20DallasOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-3136367307-3383152720&q=from%3A%20DallasOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaSlO3POxa--eKgTBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20DallasOEM%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-288972166379225088-314807279025258497&q=from%3A%20DallasOEM%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJCkrsjXyAYWgICRtIrn2s0GEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-26392735087-33370027704975362&q=from%3A%20DallasOEM%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJH8xo-ZqAIWgMCQ5LKepKgCEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20DallasOEM%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 4 tweets (4 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJDkmJj2hQUWgICS6IfpnpIGEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20DallasOEM%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 8 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20DallasOEM%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 14 tweets (6 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-3919181484-7456846508&q=from%3A%20DallasOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCAxNPS1QMWgICSmOeGseQEEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20DallasOEM%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 20 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaWq4mvFxagwbaaGRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20DallasOEM%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBawyZm-owEWst_o7boBEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20DallasOEM%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 28 tweets (8 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20DallasOEM%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 36 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-34791270861766656-72729080038039552&q=from%3A%20DallasOEM%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20DallasOEM%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 46 tweets (10 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLw76nRgggWgoCQ8Kzjtd4IEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbetYnSxAEWhICA-KD3xnYSNQAVACUAVQAVAAA%3D&q=from%3A%20DallasOEM%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20DallasOEM%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 58 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20DallasOEM%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 72 tweets (14 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-782708036959862784-822970683072331776&q=from%3A%20DallasOEM%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-588862357755056128-592831110792531969&q=from%3A%20DallasOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbY2s-ZHRbYyrPHNxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20DallasOEM%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-624927606320812033-639451860093566976&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-373099439306457091-408343184175951876&q=from%3A%20DallasOEM%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-705444411375747072-733636178243670016&q=from%3A%20DallasOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-334978083025215489-360916703661670400&q=from%3A%20DallasOEM%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-519062560344006657-535189270173351936&q=from%3A%20DallasOEM%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-901449460722565120-910525236113637378&q=from%3A%20DallasOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-468737241926631424-501008973814702080&q=from%3A%20DallasOEM%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-433086824051798016-451795225359286272&q=from%3A%20DallasOEM%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-759145294378438656-779079202419138560&q=from%3A%20DallasOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20DallasOEM%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 92 tweets (20 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1145680997784129536-1155466719646928897&q=from%3A%20DallasOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-657603169753526272-685885119077462016&q=from%3A%20DallasOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-996737261109624832-1014857717696131072&q=from%3A%20DallasOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1083766780588363776-1107705897445400584&q=from%3A%20DallasOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-942824377556656128-968114094082490368&q=from%3A%20DallasOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1044574805893283851-1060952989614137345&q=from%3A%20DallasOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-850580990263267329-873163183204290560&q=from%3A%20DallasOEM%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1186301574764781568-1202728153728327680&q=from%3A%20DallasOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIDQv57NexaAgJHI0K2xggISNQAVACUAVQAVAAA%3D&q=from%3A%20DallasOEM%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1234926452879110144-1249378017215946753&q=from%3A%20DallasOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20DallasOEM%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 116 tweets (24 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCdgbTe3BUWgICykbve4-sWEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLb5uMyHrBAWgsC2qaOwlLoQEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgJKc0_3BrQoWiMCT9Mz93KoLEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 32 tweets for from%3A%20DallasOEM%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 148 tweets (32 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLKRmpaYrBEWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJPk1bKKpgkWgICStI31nYIKEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOIgIvRggwWgICQ7KPXjMUMEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMTgt4KlgQ0WgICRmLvA-PMNEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJPYwKmKtA4WgIDEhMjzr-0OEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLDF8KeDiRUWgICzgYWa7M8VEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDNi_2eyhMWgMC26fKNs64UEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCVxeDLghkWhIComZn46qIZEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSFo4moih4WkIC1zaKprt8eEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKOFqaajoBIWgMC19be44IQTEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLyV7rnvzRcWgMC63b7SjJ4YEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK7twdCP1RsWgMC7jfTtv5UcEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSthLOj5h8WgsC65YG3hYkgEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaWgLzpjNCJ_xwWgoC31e7HobkdEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_d1fHKlRoWgICw_fSot-8aEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLuF57_L9iAWgIC1xcW4-bAhEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL25nMSroyIWgoC1pf2r19YiEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLLVr93xkhMWgMC26fKNs64UEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJOAl63k-wgWgICStI31nYIKEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJD4qpyDrAsWgICQ7KPXjMUMEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20DallasOEM%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 196 tweets (48 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 51 tweets for from%3A%20DallasOEM%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 247 tweets (51 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 50 tweets for from%3A%20DallasOEM%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 297 tweets (50 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKw2PjgigoWiMCT9Mz93KoLEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGUtOW8-g0WgIDEhMjzr-0OEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20DallasOEM%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 356 tweets (59 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLjZz4aK5Q8WgsC2qaOwlLoQEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKit5Jjl6BEWgMC19be44IQTEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLjly4mEvhQWgICzgYWa7M8VEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLqp0YzWjBcWgMC63b7SjJ4YEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTtyOiJwh0WkIC1zaKprt8eEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 55 tweets for from%3A%20DallasOEM%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 411 tweets (55 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLPxkerXmhEWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJHo3tqT0gwWgICRmLvA-PMNEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 56 tweets for from%3A%20DallasOEM%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 467 tweets (56 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 53 tweets for from%3A%20DallasOEM%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 520 tweets (53 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20DallasOEM%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 577 tweets (57 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20DallasOEM%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 634 tweets (57 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20DallasOEM%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 693 tweets (59 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLrZoY77qRgWhIComZn46qIZEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMHwipuLow8WgsC2qaOwlLoQEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 63 tweets for from%3A%20DallasOEM%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 756 tweets (63 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLWJppf7iRsWgMC7jfTtv5UcEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLeFqMT7rRwWgoC31e7HobkdEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLb1iPaAoR8WgsC65YG3hYkgEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKaV5v7QpxgWhIComZn46qIZEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIwLqpgKDzjCAWgIC1xcW4-bAhEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzl4eWH8BkWgICw_fSot-8aEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 61 tweets for from%3A%20DallasOEM%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 817 tweets (61 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20DallasOEM%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 874 tweets (57 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWd46Kx3yEWgoC1pf2r19YiEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgLep2Puj0BkWgICw_fSot-8aEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL7BqZ6umRwWgoC31e7HobkdEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20DallasOEM%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 940 tweets (66 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 70 tweets for from%3A%20DallasOEM%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 1010 tweets (70 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL7J4v_38xoWgMC7jfTtv5UcEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLG5t5yGixEWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 73 tweets for from%3A%20DallasOEM%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 1083 tweets (73 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLylovPD5R4WgsC65YG3hYkgEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20DallasOEM%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 1158 tweets (75 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLfJyK6GsyEWgoC1pf2r19YiEjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 74 tweets for from%3A%20DallasOEM%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 1232 tweets (74 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKWp16qo_BAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLSJwZG28RAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLbF7Lrp5BAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKbJ9oul4xAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLOlld3O4hAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLHlhfap3hAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLf5ua7j2xAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLSlzIr1zhAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLmZ6LO8yhAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLGV7OiwyBAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLPlgo2KxxAWgIC4vYWF5d8REjUAFQAlAFUAFQAA&q=from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 291 tweets for from%3A%20DallasOEM%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 1523 tweets (291 new).
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 1523 tweets (0 new).
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1523 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1523 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1523 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 1523 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1523 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1523 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 1523 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20DallasOEM%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 1523 tweets (0 new).

@@ -1,0 +1,2105 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201'}
+INFO: queries: ['from: IndyDPW since:2006-03-01 until:2006-07-07', 'from: IndyDPW since:2006-07-07 until:2006-11-13', 'from: IndyDPW since:2006-11-13 until:2007-03-22', 'from: IndyDPW since:2007-03-22 until:2007-07-29', 'from: IndyDPW since:2007-07-29 until:2007-12-05', 'from: IndyDPW since:2007-12-05 until:2008-04-12', 'from: IndyDPW since:2008-04-12 until:2008-08-19', 'from: IndyDPW since:2008-08-19 until:2008-12-26', 'from: IndyDPW since:2008-12-26 until:2009-05-04', 'from: IndyDPW since:2009-05-04 until:2009-09-10', 'from: IndyDPW since:2009-09-10 until:2010-01-17', 'from: IndyDPW since:2010-01-17 until:2010-05-26', 'from: IndyDPW since:2010-05-26 until:2010-10-02', 'from: IndyDPW since:2010-10-02 until:2011-02-07', 'from: IndyDPW since:2011-02-07 until:2011-06-16', 'from: IndyDPW since:2011-06-16 until:2011-10-23', 'from: IndyDPW since:2011-10-23 until:2012-02-29', 'from: IndyDPW since:2012-02-29 until:2012-07-07', 'from: IndyDPW since:2012-07-07 until:2012-11-13', 'from: IndyDPW since:2012-11-13 until:2013-03-22', 'from: IndyDPW since:2013-03-22 until:2013-07-29', 'from: IndyDPW since:2013-07-29 until:2013-12-05', 'from: IndyDPW since:2013-12-05 until:2014-04-13', 'from: IndyDPW since:2014-04-13 until:2014-08-20', 'from: IndyDPW since:2014-08-20 until:2014-12-27', 'from: IndyDPW since:2014-12-27 until:2015-05-05', 'from: IndyDPW since:2015-05-05 until:2015-09-10', 'from: IndyDPW since:2015-09-10 until:2016-01-17', 'from: IndyDPW since:2016-01-17 until:2016-05-25', 'from: IndyDPW since:2016-05-25 until:2016-10-01', 'from: IndyDPW since:2016-10-01 until:2017-02-07', 'from: IndyDPW since:2017-02-07 until:2017-06-16', 'from: IndyDPW since:2017-06-16 until:2017-10-23', 'from: IndyDPW since:2017-10-23 until:2018-03-01', 'from: IndyDPW since:2018-03-01 until:2018-07-08', 'from: IndyDPW since:2018-07-08 until:2018-11-14', 'from: IndyDPW since:2018-11-14 until:2019-03-23', 'from: IndyDPW since:2019-03-23 until:2019-07-30', 'from: IndyDPW since:2019-07-30 until:2019-12-06', 'from: IndyDPW since:2019-12-06 until:2020-04-13']
+INFO: Querying from: IndyDPW since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Querying from: IndyDPW since:2007-03-22 until:2007-07-29
+INFO: Using proxy 178.128.24.20:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Querying from: IndyDPW since:2014-04-13 until:2014-08-20
+INFO: Using proxy 178.128.24.20:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyDPW since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-127939806234816514-152828717952024576&q=from%3A%20IndyDPW%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-14776222560-22646416924&q=from%3A%20IndyDPW%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-187940313778749440-220948768160366593&q=from%3A%20IndyDPW%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJH07aTExgMWgICS0Ji6-p4EEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8554491620-11267059110&q=from%3A%20IndyDPW%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 4 tweets for from%3A%20IndyDPW%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 4 tweets (4 new).
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbAjdqLbha4mKfdqAESNQAVACUAVQAVAAA%3D&q=from%3A%20IndyDPW%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-83890765889159168-103537431835447296&q=from%3A%20IndyDPW%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20IndyDPW%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 12 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-362643971291361280-401028363789148160&q=from%3A%20IndyDPW%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-268411933156331520-311848175516389379&q=from%3A%20IndyDPW%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCch67ZmwUWgoCS_Pzu-5AGEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20IndyDPW%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 24 tweets (12 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbIu5nePxbMto35UxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyDPW%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-586214494726029312-595181395733028864&q=from%3A%20IndyDPW%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-35815457462300672-80455985046622209&q=from%3A%20IndyDPW%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20IndyDPW%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 42 tweets (18 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-436250414959165440-453609960153165824&q=from%3A%20IndyDPW%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-26550950569-33256812140564480&q=from%3A%20IndyDPW%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-820272623976321027-828608043499843584&q=from%3A%20IndyDPW%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-245449609961435136-265453635889139712&q=from%3A%20IndyDPW%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-611900528373682176-640172179565453312&q=from%3A%20IndyDPW%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLMoI2FqgIWgMCQ2Nyv6-8CEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-867013725106176001-875337329589858306&q=from%3A%20IndyDPW%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-321400566515392513-360487485958127616&q=from%3A%20IndyDPW%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-702536243318489088-735199734713851904&q=from%3A%20IndyDPW%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1140099581897838593-1155850773055627265&q=from%3A%20IndyDPW%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-472726712988344320-500050783233380353&q=from%3A%20IndyDPW%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-657184518214983680-681794034638151681&q=from%3A%20IndyDPW%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1102562422592847872-1108905960800686080&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-965707419878862848-968989345834328064&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-760462702410014720-781979656673263616&q=from%3A%20IndyDPW%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-522134054976905216-545596455902527488&q=from%3A%20IndyDPW%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1240024537783205894-1247983839298846725&q=from%3A%20IndyDPW%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-890636872711413760-921028018579165184&q=from%3A%20IndyDPW%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1190317286747451392-1202641760448589825&q=from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-994672154401759233-1013029382296748033&q=from%3A%20IndyDPW%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20IndyDPW%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 60 tweets (18 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGMqLGviAoWgICRiILL3pALEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1044933722322202625-1060933992957075456&q=from%3A%20IndyDPW%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20IndyDPW%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 80 tweets (20 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJKU5c7LuQcWhsCQ2O2Q9NMIEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 26 tweets for from%3A%20IndyDPW%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 106 tweets (26 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJG4gP6efxaCwJCM2ZLrnQISNQAVACUAVQAVAAA%3D&q=from%3A%20IndyDPW%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbS6vroxQEWgMCAoJ-5k3YSNQAVACUAVQAVAAA%3D&q=from%3A%20IndyDPW%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKSFxL7TohAWgIC12e6UwcIQEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20IndyDPW%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 142 tweets (36 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCMndzvjQwWgMCR2N_2xcsMEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLCx4OaY4hYWgMC3rYOo5_8WEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBa8zpK9xAEWgMCAoJ-5k3YSNQAVACUAVQAVAAA%3D&q=from%3A%20IndyDPW%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJPA1ceB6AYWgMCQ-Jyriq8HEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJG4m5y7jw0WgsDAhLfixPANEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJPcmIfs9QgWgICQqKzd2oAKEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLmBzPXknhIWgoCzyf2DnPYSEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLL5u5L0_RAWgICx4ZPNrOIREjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLzF9ZigiBgWhMC9zbuq6aUYEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLCNt7_0vxMWgIClqe6Q-rMUEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20IndyDPW%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 183 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMOAg4r_vg4WgIDCjMDFrJIPEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHdiuGW3BgWhIC38f2x58oZEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWxh5qK_SAWgsC1ueWT0rAhEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKmhj7PajRUWgIC8mdmWk9oVEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLy576G50h8WgoC71e6JtIogEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLrJ6uX6pCIWioCwrZKs3dEiEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLrV0KuLzR4WgMC0rZOG0OMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXthPLw5hoWgIC_2aKrxfIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLfxvcPkzRsWgIC3nZmavZMcEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDgm6fV9QgWgICQqKzd2oAKEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 41 tweets for from%3A%20IndyDPW%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 224 tweets (41 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMPAkpH2_w0WgIDCjMDFrJIPEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLvN5OusgB0WgIC_xY72mLkdEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMGoxsz01gwWgsDAhLfixPANEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 42 tweets for from%3A%20IndyDPW%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 266 tweets (42 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLbZoPeRkhMWgIClqe6Q-rMUEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20IndyDPW%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 309 tweets (43 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 43 tweets for from%3A%20IndyDPW%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 352 tweets (43 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLfZqYW_6BEWgoCzyf2DnPYSEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwKD148PnwxAWgICx4ZPNrOIREjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCEhNiTmwYWgMCQ-Jyriq8HEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 47 tweets for from%3A%20IndyDPW%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 399 tweets (47 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20IndyDPW%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 445 tweets (46 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 48 tweets for from%3A%20IndyDPW%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 493 tweets (48 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwKbZivDl9g8WgIC12e6UwcIQEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLDNsqHWrhYWgMC3rYOo5_8WEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKI7bbg3QsWgMCR2N_2xcsMEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyBg5ST2xcWhMC9zbuq6aUYEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKSVwKjOzhQWgIC8mdmWk9oVEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLztrP-wsRgWhIC38f2x58oZEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6l1Zabvx4WgMC0rZOG0OMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrps8P-zBoWgIC_2aKrxfIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLXxxM-t6CAWgsC1ueWT0rAhEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzl97OqrB8WgoC71e6JtIogEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLztpYiSgyIWioCwrZKs3dEiEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLy5qMvPqhsWgIC3nZmavZMcEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6pytXwyhwWgIC_xY72mLkdEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKWV7dTDtxQWgIC8mdmWk9oVEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLuB6qCuqBgWhIC38f2x58oZEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 66 tweets for from%3A%20IndyDPW%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 559 tweets (66 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 63 tweets for from%3A%20IndyDPW%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 622 tweets (63 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwMOUttGp0Q8WgIC12e6UwcIQEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLHBxpX2ghYWgMC3rYOo5_8WEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCso8GhzQsWgMCR2N_2xcsMEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLadr7SgqhcWhMC9zbuq6aUYEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLXRgb2wnBwWgIC_xY72mLkdEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLaJ4Y-Mth4WgMC0rZOG0OMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 72 tweets for from%3A%20IndyDPW%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 694 tweets (72 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLvB38eGuxoWgIC_2aKrxfIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOwL2NqJq6wCEWioCwrZKs3dEiEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOwL2N6fnmhR8WgoC71e6JtIogEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLe58quPxyAWgsC1ueWT0rAhEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL7xgr-0jhsWgIC3nZmavZMcEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCI7o3eqwsWgMCR2N_2xcsMEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 86 tweets for from%3A%20IndyDPW%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 780 tweets (86 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKCFsfLh5RUWgMC3rYOo5_8WEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLz9m9D6vSEWioCwrZKs3dEiEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMPI7-m-qg8WgIC12e6UwcIQEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 89 tweets for from%3A%20IndyDPW%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 869 tweets (89 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 64 tweets for from%3A%20IndyDPW%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 933 tweets (64 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 93 tweets for from%3A%20IndyDPW%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 1026 tweets (93 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrN8fvfghcWhMC9zbuq6aUYEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLaJ4YSd7R4WgoC71e6JtIogEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLGNhPqKgRcWhMC9zbuq6aUYEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6hm_yOqx4WgMC0rZOG0OMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 77 tweets for from%3A%20IndyDPW%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 1103 tweets (77 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 98 tweets for from%3A%20IndyDPW%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 1201 tweets (98 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLqlxJHUqBoWgIC_2aKrxfIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL3ltrOooSAWgsC1ueWT0rAhEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-Fl57y-BoWgIC3nZmavZMcEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLTFlb-f8xoWgIC3nZmavZMcEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 100 tweets for from%3A%20IndyDPW%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 1301 tweets (100 new).
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaxmL6xoR4WgMC0rZOG0OMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLf19ofM-xkWgIC_2aKrxfIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL2d4Z6akiAWgsC1ueWT0rAhEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL3hn7H5iyAWgsC1ueWT0rAhEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 114 tweets for from%3A%20IndyDPW%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 1415 tweets (114 new).
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKLx8q3H4BkWgIC_2aKrxfIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgL_N26X99R0WgMC0rZOG0OMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgL-BpaKP0RkWgIC_2aKrxfIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 138 tweets for from%3A%20IndyDPW%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 1553 tweets (138 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgLXpxaaIwh0WgMC0rZOG0OMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 142 tweets for from%3A%20IndyDPW%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 1695 tweets (142 new).
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 1695 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyDPW%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 1695 tweets (0 new).

@@ -1,0 +1,1699 @@
+INFO: {'User-Agent': 'Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16'}
+INFO: queries: ['from: dartmedia since:2006-03-01 until:2006-07-07', 'from: dartmedia since:2006-07-07 until:2006-11-13', 'from: dartmedia since:2006-11-13 until:2007-03-22', 'from: dartmedia since:2007-03-22 until:2007-07-29', 'from: dartmedia since:2007-07-29 until:2007-12-05', 'from: dartmedia since:2007-12-05 until:2008-04-12', 'from: dartmedia since:2008-04-12 until:2008-08-19', 'from: dartmedia since:2008-08-19 until:2008-12-26', 'from: dartmedia since:2008-12-26 until:2009-05-04', 'from: dartmedia since:2009-05-04 until:2009-09-10', 'from: dartmedia since:2009-09-10 until:2010-01-17', 'from: dartmedia since:2010-01-17 until:2010-05-26', 'from: dartmedia since:2010-05-26 until:2010-10-02', 'from: dartmedia since:2010-10-02 until:2011-02-07', 'from: dartmedia since:2011-02-07 until:2011-06-16', 'from: dartmedia since:2011-06-16 until:2011-10-23', 'from: dartmedia since:2011-10-23 until:2012-02-29', 'from: dartmedia since:2012-02-29 until:2012-07-07', 'from: dartmedia since:2012-07-07 until:2012-11-13', 'from: dartmedia since:2012-11-13 until:2013-03-22', 'from: dartmedia since:2013-03-22 until:2013-07-29', 'from: dartmedia since:2013-07-29 until:2013-12-05', 'from: dartmedia since:2013-12-05 until:2014-04-13', 'from: dartmedia since:2014-04-13 until:2014-08-20', 'from: dartmedia since:2014-08-20 until:2014-12-27', 'from: dartmedia since:2014-12-27 until:2015-05-05', 'from: dartmedia since:2015-05-05 until:2015-09-10', 'from: dartmedia since:2015-09-10 until:2016-01-17', 'from: dartmedia since:2016-01-17 until:2016-05-25', 'from: dartmedia since:2016-05-25 until:2016-10-01', 'from: dartmedia since:2016-10-01 until:2017-02-07', 'from: dartmedia since:2017-02-07 until:2017-06-16', 'from: dartmedia since:2017-06-16 until:2017-10-23', 'from: dartmedia since:2017-10-23 until:2018-03-01', 'from: dartmedia since:2018-03-01 until:2018-07-08', 'from: dartmedia since:2018-07-08 until:2018-11-14', 'from: dartmedia since:2018-11-14 until:2019-03-23', 'from: dartmedia since:2019-03-23 until:2019-07-30', 'from: dartmedia since:2019-07-30 until:2019-12-06', 'from: dartmedia since:2019-12-06 until:2020-04-13']
+INFO: Querying from: dartmedia since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2006-11-13 until:2007-03-22
+INFO: Querying from: dartmedia since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Querying from: dartmedia since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 37.57.216.2:2222
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1077052599-1077052599&q=from%3A%20dartmedia%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1155163749-1595414866&q=from%3A%20dartmedia%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbukpSDCBbukpSDCBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20dartmedia%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-2420730065-3655027181&q=from%3A%20dartmedia%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20dartmedia%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 2 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbKmdPNCBak5cDxCxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20dartmedia%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20dartmedia%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 8 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaio8uEEhbap9qdGxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20dartmedia%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20dartmedia%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 18 tweets (10 new).
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-4054208014-7481689403&q=from%3A%20dartmedia%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-34774577963859968-79278954300710912&q=from%3A%20dartmedia%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15558668686721024-34020881244094464&q=from%3A%20dartmedia%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-15350539516-25534606816&q=from%3A%20dartmedia%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-9002518977-13544541141&q=from%3A%20dartmedia%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-260851416925601792-266586747083845632&q=from%3A%20dartmedia%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-121624144835121152-127012461130944512&q=from%3A%20dartmedia%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-534926332514152448-548584109992185857&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-211172502574080001-220253386233217024&q=from%3A%20dartmedia%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-155001227145510912-174442600525348865&q=from%3A%20dartmedia%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-682218311367528449-688144260743315456&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1149065407015325698-1155924606747680768&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-399395377058570240-407231439542190081&q=from%3A%20dartmedia%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-628955792893349888-640195025758883840&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-301906011055337473-314859380329836544&q=from%3A%20dartmedia%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-730711564328656896-734732452166389760&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-452186613141876736-454773149989494784&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-917537056599019520-921922250747662337&q=from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-499238672144035840-501496357824131073&q=from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-342262687125884928-360033029072232448&q=from%3A%20dartmedia%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-587973884885929984-594897155250262017&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-817155521975373824-828394281761177601&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1196814311060062209-1202505191892889601&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1009124029599494145-1015636667321942017&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-869896894658605056-875499188741689345&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1055115593429458944-1062479383355682818&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-961647368381911047-968851717906419712&q=from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-774606274298163200-781633526223339520&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1102659788314460161-1108753008127627264&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1237058493837910022-1248675670709936128&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 186.15.233.218:45999
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIDs69LFexaAgJHUvvLTmQISNQAVACUAVQAVAAA%3D&q=from%3A%20dartmedia%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBacuLKaHhb2lIzfNxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20dartmedia%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20dartmedia%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 56 tweets (38 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb4k7WvchbAt9mfvgESNQAVACUAVQAVAAA%3D&q=from%3A%20dartmedia%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCp7yJQxaqr4r1ZBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20dartmedia%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgICE26GjNxaAgIDY9fPueBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20dartmedia%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20dartmedia%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 94 tweets (38 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDQ6b7dngcWgMCTnP3OjbMHEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDQ_aCMsAMWgMCQvKLKnsMDEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHoyaq47A4WgsCQ2O2V-5wPEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJGktpGe7gUWgICQ8LXSv44GEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJC877LWpgQWgoCS4N6n3-sEEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJGI3PrKsAgWgMCT7IW8zd4IEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPo1v73igsWgoDE9MW146YLEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKDFkfzc9xIWgICi_eTj44wTEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKjtwv2_uhEWgMCklf3-tuIREjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKidwsjzqBAWgsCoifLzv8EQEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLzt7sXfuxkWgsC-peHZqcsZEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbKieGnHRb2lIzfNxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20dartmedia%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGIhtW-xgwWgICTqKfx1s8MEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJLgt4b7vwkWgICR1LyIjP8JEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOR-5KBpBQWgMCihbjRpbIUEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrZxKeP1xYWgoC4pbqNhv8WEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMP0q7vT7Q0WgsCThPmR1vUNEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLSNyrmm8h8WgIChxcbT1YogEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLvVvKe_khgWgsC6ofT3sqYYEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLaNzJH4myEWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLXpqr2QgRwWgIC_qe-ErJgcEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20dartmedia%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 138 tweets (44 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb8rPryQhaqr4r1ZBI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20dartmedia%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLX114LDpB0WhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOwL7598u62BoWgMC23aLghvIaEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKXFrZP6vxUWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20dartmedia%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 183 tweets (45 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLrph8-3zR4WgMC-kZG_iuMeEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgLW5q4n1qiIWgIC1hYT6l9QiEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 182.53.206.26:45336
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbItfH_wgEWgICA2PXz7ngSNQAVACUAVQAVAAA%3D&q=from%3A%20dartmedia%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDsxPvijQcWgMCTnP3OjbMHEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 60 tweets for from%3A%20dartmedia%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 243 tweets (60 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGksInhzAMWgoCS4N6n3-sEEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGM8sWW3gIWgMCQvKLKnsMDEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGYgJf6wAUWgICQ8LXSv44GEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJPYvI7h8AcWgMCT7IW8zd4IEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOo8vmC5goWgoDE9MW146YLEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMPw_4nnww4WgsCQ2O2V-5wPEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLidm6Dr5BIWgICi_eTj44wTEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20dartmedia%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 302 tweets (59 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLS9-e-NiRAWgsCoifLzv8EQEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJDw9v70hwkWgICR1LyIjP8JEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLyZ_IbWlxkWgsC-peHZqcsZEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLSJr5WlnhEWgMCklf3-tuIREjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLzV6vyQ7xcWgsC6ofT3sqYYEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJOo8rXxmwwWgICTqKfx1s8MEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLH1pLXttxYWgoC4pbqNhv8WEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJLk_ajfxA0WgsCThPmR1vUNEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKGB6N3xhhQWgMCihbjRpbIUEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLX51-7ljSEWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLqJ9_Wn2hsWgIC_qe-ErJgcEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL2d_pzx0B8WgIChxcbT1YogEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKX1mN_ZsRUWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLrx5b6ixBoWgMC23aLghvIaEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDJi_uOmiIWgIC1hYT6l9QiEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLSp_vzntB4WgMC-kZG_iuMeEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLux95q4lB0WhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 154.73.85.1:43388
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwJPsl6f53wgWgICR1LyIjP8JEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 68 tweets for from%3A%20dartmedia%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 370 tweets (68 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJGI0dzQ3wYWgMCTnP3OjbMHEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDk19yaoQIWgMCQvKLKnsMDEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJPs5qma1gcWgMCT7IW8zd4IEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHQnJmXmAUWgICQ8LXSv44GEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMG08_H-ug4WgsCQ2O2V-5wPEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLi5g-mkwxIWgICi_eTj44wTEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMOA9rbwrgoWgoDE9MW146YLEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKb9pP-F_hAWgMCklf3-tuIREjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKG59L3p-g8WgsCoifLzv8EQEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLil4fmamRYWgoC4pbqNhv8WEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK2Ft5jh7xgWgsC-peHZqcsZEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDRmoiq2hcWgsC6ofT3sqYYEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDgxMeIoQIWgMCQvKLKnsMDEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLyJvcT--yAWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMSQ6eeI5QsWgICTqKfx1s8MEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHcufjMsg0WgsCThPmR1vUNEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKn1o5OK7hMWgMCihbjRpbIUEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLX9-9CtzRsWgIC_qe-ErJgcEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLadv6DGtB8WgIChxcbT1YogEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 83 tweets for from%3A%20dartmedia%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 453 tweets (83 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKvl94uAmBUWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL61m-GlphoWgMC23aLghvIaEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLuF7PiAhyIWgIC1hYT6l9QiEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwL7tocL6ih0WhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL_FndTQmR4WgMC-kZG_iuMeEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 89.22.17.62:61616
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJOg57PHwQcWgMCT7IW8zd4IEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJHkv5XkhQoWgoDE9MW146YLEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Using proxy 187.188.175.251:42305
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 90 tweets for from%3A%20dartmedia%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 543 tweets (90 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 90 tweets for from%3A%20dartmedia%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 633 tweets (90 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKE0dCoqQYWgMCTnP3OjbMHEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLwr_H77wQWgICQ8LXSv44GEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 97 tweets for from%3A%20dartmedia%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 730 tweets (97 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJKMu8nXrw4WgsCQ2O2V-5wPEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPFi9aIrRIWgICi_eTj44wTEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLPVivi78RAWgMCklf3-tuIREjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKKR4taa7g8WgsCoifLzv8EQEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMLo_tjtsQsWgICTqKfx1s8MEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKnB3P6L9hUWgoC4pbqNhv8WEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLqlzPaPzBcWgsC6ofT3sqYYEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLrx-8mSxxgWgsC-peHZqcsZEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMHEhciN-wwWgsCThPmR1vUNEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLDpn4DpzBMWgMCihbjRpbIUEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Using proxy 103.86.155.78:52554
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSRvuDe6SAWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKH5oMzt-hQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL3N3suAoh8WgIChxcbT1YogEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaUwLXdkbPlshsWgIC_qe-ErJgcEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTVn8HKiBoWgMC23aLghvIaEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 186.29.163.97:49787
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLz9z_ao8SEWgIC1hYT6l9QiEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLX9_M2cgB4WgMC-kZG_iuMeEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL3l3Jic-hwWhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDUz_DilQYWgMCTnP3OjbMHEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 116 tweets for from%3A%20dartmedia%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 846 tweets (116 new).
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 193.193.240.34:45944
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMDEy4rGmQ4WgsCQ2O2V-5wPEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKTRmfa41xAWgMCklf3-tuIREjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPFteKWnxIWgICi_eTj44wTEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKj9ioL95w8WgsCoifLzv8EQEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgK3ZoeT8rhgWgsC-peHZqcsZEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPM_OKargsWgICTqKfx1s8MEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMDM07Ca5gwWgsCThPmR1vUNEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHt_43m5hUWgoC4pbqNhv8WEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLe9mdj3sRcWgsC6ofT3sqYYEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKPlma2luBMWgMCihbjRpbIUEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLb9_5LF1CAWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLaFi8r8qhgWgsC-peHZqcsZEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKvd2ciK8hQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLyh65mWkB8WgIChxcbT1YogEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSZy42rlBsWgIC_qe-ErJgcEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.77.243.2:60366
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKrtk7nN6hkWgMC23aLghvIaEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 112 tweets for from%3A%20dartmedia%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 958 tweets (112 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLSds_fS1CEWgIC1hYT6l9QiEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLWNksy27hwWhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLyh8Pyt6x0WgMC-kZG_iuMeEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 72.250.28.64:36851
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDI7oP_0AwWgsCThPmR1vUNEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 128 tweets for from%3A%20dartmedia%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 1086 tweets (128 new).
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.74.222.159:40348
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMKk-af9-A0WgsCQ2O2V-5wPEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKidvsXJyxAWgMCklf3-tuIREjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJKEmOvuyA8WgsCoifLzv8EQEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKfpvvPFjxIWgICi_eTj44wTEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKGNldOt3xUWgoC4pbqNhv8WEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJHk5-LqrAsWgICTqKfx1s8MEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.47.139.151:46614
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMGg1dnw9w0WgsCQ2O2V-5wPEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLLtks7InhcWgsC6ofT3sqYYEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwMHo5cv6qwsWgICTqKfx1s8MEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 143 tweets for from%3A%20dartmedia%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 1229 tweets (143 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKWZ-sDqmhMWgMCihbjRpbIUEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 137 tweets for from%3A%20dartmedia%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 1366 tweets (137 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgLe1u66ixCAWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKCtlZjO2xUWgoC4pbqNhv8WEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLulz4ixzRkWgMC23aLghvIaEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKjh0sGHxxAWgMCklf3-tuIREjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL_9sdH79x4WgIChxcbT1YogEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKHRqtD57hQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6xtPah-hoWgIC_qe-ErJgcEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 137 tweets for from%3A%20dartmedia%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 1503 tweets (137 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 127 tweets for from%3A%20dartmedia%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 146 tweets for from%3A%20dartmedia%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 1630 tweets (127 new).
+INFO: Got 1776 tweets (146 new).
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLzRl-fBwiEWgIC1hYT6l9QiEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLfl0ZHR1BwWhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLWNko3F2h0WgMC-kZG_iuMeEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 14.102.44.1:44047
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLT98cCYkBMWgMCihbjRpbIUEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLSdr9bp9BoWgIC_qe-ErJgcEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.238.104.235:47408
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 144 tweets for from%3A%20dartmedia%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 1920 tweets (144 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgLDZsIWphRcWgsC6ofT3sqYYEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbJtIHqghIWgICi_eTj44wTEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 127 tweets for from%3A%20dartmedia%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 2047 tweets (127 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 143 tweets for from%3A%20dartmedia%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 2190 tweets (143 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMGsvpPmqg8WgsCoifLzv8EQEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLy54NH1sSEWgIC1hYT6l9QiEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLqh0Paj8B4WgIChxcbT1YogEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDZx77g7RQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL35veCesSAWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 140 tweets for from%3A%20dartmedia%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 2330 tweets (140 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPwt-TvoA8WgsCoifLzv8EQEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.82.43.105:51811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 165 tweets for from%3A%20dartmedia%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 2495 tweets (165 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-No92EuxwWhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLuhjomfwh0WgMC-kZG_iuMeEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaIgLblp5K45x4WgIChxcbT1YogEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaggLX1-c3uvx0WgMC-kZG_iuMeEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 161 tweets for from%3A%20dartmedia%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 2656 tweets (161 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKD9tsTt7REWgICi_eTj44wTEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 155 tweets for from%3A%20dartmedia%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 2811 tweets (155 new).
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 178 tweets for from%3A%20dartmedia%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 2989 tweets (178 new).
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 171.100.23.5:8888
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLX90bW8kyAWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLOdkvGl7RQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.63.246.82:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL7ZqJ_-pxwWhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 36.89.183.245:45750
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaWwLy55sT2iyAWgoC3qYae2rAhEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 164 tweets for from%3A%20dartmedia%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 3153 tweets (164 new).
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.223.155.118:53281
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 191.7.194.181:37492
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrtic7tmRwWhMC7odbX174dEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKOR4KSB7RQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 213.178.38.246:38978
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 187 tweets for from%3A%20dartmedia%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 3340 tweets (187 new).
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 13.75.64.186:4617
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.72.203.66:61870
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.16.171.42:30679
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLDN6un_7BQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 187.120.253.119:30181
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 201.209.239.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.186.53.102:58855
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKTJ_o2t0RQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 201.87.154.128:36136
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 41.190.147.158:40218
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 78.110.154.177:59888
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Retrying... (Attempts left: 14)
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 68.183.38.201:8118
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLaBpPT9vRQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 43.248.24.157:51166
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKils_HPthQWgICgsaDj9dgVEjUAFQAlAFUAFQAA&q=from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 103.86.155.78:52554
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 257 tweets for from%3A%20dartmedia%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 3597 tweets (257 new).
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.94.171.134:46276
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 183.89.146.30:8213
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.89.99.30:58735
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.55.169.145:3128
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.37.73.254:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.179.206.161:59033
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.205.51.27:49805
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.106.148.209:30223
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.42.133.58:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.127.134.195:8080
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Got 0 tweets for from%3A%20dartmedia%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 3597 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 75.80.242.9:41007
+INFO: Got 0 tweets for from%3A%20dartmedia%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 3597 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20dartmedia%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 3597 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20dartmedia%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 3597 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20dartmedia%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 3597 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20dartmedia%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 3597 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20dartmedia%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 3597 tweets (0 new).

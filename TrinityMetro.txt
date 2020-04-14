@@ -1,0 +1,2194 @@
+INFO: {'User-Agent': 'Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16'}
+INFO: queries: ['from: TrinityMetro since:2006-03-01 until:2006-07-07', 'from: TrinityMetro since:2006-07-07 until:2006-11-13', 'from: TrinityMetro since:2006-11-13 until:2007-03-22', 'from: TrinityMetro since:2007-03-22 until:2007-07-29', 'from: TrinityMetro since:2007-07-29 until:2007-12-05', 'from: TrinityMetro since:2007-12-05 until:2008-04-12', 'from: TrinityMetro since:2008-04-12 until:2008-08-19', 'from: TrinityMetro since:2008-08-19 until:2008-12-26', 'from: TrinityMetro since:2008-12-26 until:2009-05-04', 'from: TrinityMetro since:2009-05-04 until:2009-09-10', 'from: TrinityMetro since:2009-09-10 until:2010-01-17', 'from: TrinityMetro since:2010-01-17 until:2010-05-26', 'from: TrinityMetro since:2010-05-26 until:2010-10-02', 'from: TrinityMetro since:2010-10-02 until:2011-02-07', 'from: TrinityMetro since:2011-02-07 until:2011-06-16', 'from: TrinityMetro since:2011-06-16 until:2011-10-23', 'from: TrinityMetro since:2011-10-23 until:2012-02-29', 'from: TrinityMetro since:2012-02-29 until:2012-07-07', 'from: TrinityMetro since:2012-07-07 until:2012-11-13', 'from: TrinityMetro since:2012-11-13 until:2013-03-22', 'from: TrinityMetro since:2013-03-22 until:2013-07-29', 'from: TrinityMetro since:2013-07-29 until:2013-12-05', 'from: TrinityMetro since:2013-12-05 until:2014-04-13', 'from: TrinityMetro since:2014-04-13 until:2014-08-20', 'from: TrinityMetro since:2014-08-20 until:2014-12-27', 'from: TrinityMetro since:2014-12-27 until:2015-05-05', 'from: TrinityMetro since:2015-05-05 until:2015-09-10', 'from: TrinityMetro since:2015-09-10 until:2016-01-17', 'from: TrinityMetro since:2016-01-17 until:2016-05-25', 'from: TrinityMetro since:2016-05-25 until:2016-10-01', 'from: TrinityMetro since:2016-10-01 until:2017-02-07', 'from: TrinityMetro since:2017-02-07 until:2017-06-16', 'from: TrinityMetro since:2017-06-16 until:2017-10-23', 'from: TrinityMetro since:2017-10-23 until:2018-03-01', 'from: TrinityMetro since:2018-03-01 until:2018-07-08', 'from: TrinityMetro since:2018-07-08 until:2018-11-14', 'from: TrinityMetro since:2018-11-14 until:2019-03-23', 'from: TrinityMetro since:2019-03-23 until:2019-07-30', 'from: TrinityMetro since:2019-07-30 until:2019-12-06', 'from: TrinityMetro since:2019-12-06 until:2020-04-13']
+INFO: Querying from: TrinityMetro since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2014-08-20 until:2014-12-27
+INFO: Querying from: TrinityMetro since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Querying from: TrinityMetro since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 182.48.79.85:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-22570372901-22570372901&q=from%3A%20TrinityMetro%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-26690643877-19860002860699648&q=from%3A%20TrinityMetro%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-581514529999310849-589097631432974337&q=from%3A%20TrinityMetro%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-227476328964841472-263075348932083714&q=from%3A%20TrinityMetro%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-104590415726002176-121678491572895744&q=from%3A%20TrinityMetro%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-506918696007122944-525390206027825152&q=from%3A%20TrinityMetro%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbKvOSUqAEWyrzklKgBEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-469151772922355712-476762883788120064&q=from%3A%20TrinityMetro%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-318806898675707904-349929598584229890&q=from%3A%20TrinityMetro%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-37927808537866240-75576752155541504&q=from%3A%20TrinityMetro%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-409444900057677825-431903513657225216&q=from%3A%20TrinityMetro%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 2 tweets for from%3A%20TrinityMetro%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 2 tweets (2 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-272180374287810561-308996576871862272&q=from%3A%20TrinityMetro%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbKnpfuxgEWgMCA_Kekx0YSNQAVACUAVQAVAAA%3D&q=from%3A%20TrinityMetro%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-789538729165672448-822454122666455040&q=from%3A%20TrinityMetro%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-830494868094984192-872854738416660480&q=from%3A%20TrinityMetro%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-375757240591843329-401408256846745600&q=from%3A%20TrinityMetro%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJPsgqGUqAYWhICSpNro0KYHEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLKFypj6kRAWgoCxuZbL8qwQEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20TrinityMetro%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 8 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMGsqMPhgg0WgIDBpKPU5p0NEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJLYyPf3iA4WgICQ7Prmx8oOEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-134677764375707648-169167258483032065&q=from%3A%20TrinityMetro%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-596017003623747584-636914294869757952&q=from%3A%20TrinityMetro%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKEupvK8wIWgICQsLD8pLADEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20TrinityMetro%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 14 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-928630058729787394-964613995733946368&q=from%3A%20TrinityMetro%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-880837604274524160-917873159092785152&q=from%3A%20TrinityMetro%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20TrinityMetro%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 20 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMTw8_3RrgsWgMDBzKL9tv4LEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20TrinityMetro%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 26 tweets (6 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 6 tweets for from%3A%20TrinityMetro%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 32 tweets (6 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-761311542910476289-781861048395689984&q=from%3A%20TrinityMetro%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20TrinityMetro%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 40 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJO47cvQ7AgWhMCQwLXHmdsJEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJGwgsnfhgEWgICSmPupwIwCEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 8 tweets for from%3A%20TrinityMetro%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 48 tweets (8 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-180364446470914048-218794112458035200&q=from%3A%20TrinityMetro%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 12 tweets for from%3A%20TrinityMetro%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 60 tweets (12 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 10 tweets for from%3A%20TrinityMetro%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 70 tweets (10 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJDE96b9xgcWgMCSlPyv48kIEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-688767796725989376-726775762452275200&q=from%3A%20TrinityMetro%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLGJ1qvBhhcWgMC7_dGwgJ0YEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKqF0NKA9RUWgMC3mdjq-OkWEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20TrinityMetro%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 84 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJD0hc76tgoWgMCS9Nmri5ILEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20TrinityMetro%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 98 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLalyYeU4xkWgMC8kbDU_-IaEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 14 tweets for from%3A%20TrinityMetro%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 112 tweets (14 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-646732065426305024-688371388273405952&q=from%3A%20TrinityMetro%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLDR0pO9xRAWgMCkoaeL49YREjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20TrinityMetro%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 128 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCM0q283gMWgoCQ2LWugNkEEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20TrinityMetro%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 144 tweets (16 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLa5y8iuuRgWgMC6yc2x-LwZEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20TrinityMetro%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 160 tweets (16 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20TrinityMetro%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 178 tweets (18 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1187881964835131392-1202451029566066688&q=from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 16 tweets for from%3A%20TrinityMetro%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 194 tweets (16 new).
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1104395666678112258-1108863222080258049&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-996429224167792640-1011423905293234182&q=from%3A%20TrinityMetro%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1144612267880828928-1154396013148418048&q=from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1045093048840081409-1062480215568461827&q=from%3A%20TrinityMetro%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKvpkbTckBUWgMC31eSe3dkVEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1234870579766931462-1248982901926043649&q=from%3A%20TrinityMetro%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 195.239.178.110:55913
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKgxaDkgAUWgMCQgMGFqIkGEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 20 tweets for from%3A%20TrinityMetro%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 214 tweets (20 new).
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20TrinityMetro%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 238 tweets (24 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaJrqr_jhMWgICnhZKtg5YUEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 24 tweets for from%3A%20TrinityMetro%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 262 tweets (24 new).
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLeJ4tjT-REWgMCh-ayIy40TEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 34 tweets for from%3A%20TrinityMetro%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 296 tweets (34 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgKO9vYDN0x4WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLrRzpaa_CAWgMC-jbHhzrAhEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLqJ4rK94h8WgMC13djDnoUgEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLqhsMPf0hsWgIC3_aiN6pYcEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwL7V56X1gB0WhsC13Y6I2L4dEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLWp_Y-SoyIWgoC1_Z7Vo9UiEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 79.165.122.207:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLX5_YbCth4WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLW94cme5SAWgMC-jbHhzrAhEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLzBnpfpmBsWgIC3_aiN6pYcEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLyZza-wwx8WgMC13djDnoUgEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLvdtaTZrBwWhsC13Y6I2L4dEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTV4p7F_yEWgoC1_Z7Vo9UiEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 165.73.129.45:56975
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgLeh_by_phwWhsC13Y6I2L4dEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 59 tweets for from%3A%20TrinityMetro%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 355 tweets (59 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLXZy_fo9BoWgIC3_aiN6pYcEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 67 tweets for from%3A%20TrinityMetro%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 422 tweets (67 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOgLrxns-Cox4WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLblj8j3yyAWgMC-jbHhzrAhEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL3dkM35qB8WgMC13djDnoUgEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Retrying... (Attempts left: 39)
+INFO: Using proxy 180.251.166.214:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 180.251.166.214:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLehy7D9wCEWgoC1_Z7Vo9UiEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 216.228.69.202:54085
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 192.199.53.131:51650
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfhtYT7sSEWgoC1_Z7Vo9UiEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 81 tweets for from%3A%20TrinityMetro%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 503 tweets (81 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 89.20.135.204:10000
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMwLSp2_6Nmh4WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.211.115.66:30518
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLTlhaa7sSAWgMC-jbHhzrAhEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaMgLCZvbDEiB8WgMC13djDnoUgEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 194.8.146.167:61941
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 213.6.146.66:33746
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.172.201.17:41258
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLa1tIO1jR4WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLf9mtvujyAWgMC-jbHhzrAhEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 175.100.16.20:37725
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWJ17T37x4WgMC13djDnoUgEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 85.237.46.168:54328
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKrZwIKAiyAWgMC-jbHhzrAhEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 108 tweets for from%3A%20TrinityMetro%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 611 tweets (108 new).
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-58Ybs6h4WgMC13djDnoUgEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 202.7.53.128:49647
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 121 tweets for from%3A%20TrinityMetro%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 732 tweets (121 new).
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 128.199.133.62:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLbZ1reSiR4WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 77.55.214.240:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Retrying... (Attempts left: 30)
+INFO: Using proxy 91.236.61.65:8080
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.236.61.65:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 5.190.169.184:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLXp1ubfgR4WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 154.119.79.254:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 200.52.141.162:53281
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.165.226.68:34456
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL_llMCR_B0WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 91.60.106.32:3128
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.190.100.99:37399
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.196.205.250:59430
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.188.175.251:42305
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLelofGq3x0WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 37.220.195.14:53281
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.200.124.197:30845
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL7Z_ZP7wB0WgoC2ibfOvOMeEjUAFQAlAFUAFQAA&q=from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 36.89.183.241:46767
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 200 tweets for from%3A%20TrinityMetro%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 932 tweets (200 new).
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.4.168.40:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.71.108.18:46114
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.4.164.127:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.104.54.227:42119
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 46.147.247.191:8080
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.20.101.24:60480
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.81.199.81:8123
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.125.250:43133
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Retrying... (Attempts left: 14)
+INFO: Using proxy 1.186.151.206:36253
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.82.42.2:43881
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 1.186.151.206:36253
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 179.127.241.18:58324
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 182.74.40.146:30909
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.221.73.70:52904
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 81.18.34.98:40934
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 96.9.77.71:8080
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 148.77.34.194:48521
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.72.74.40:46000
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 168.196.207.100:52821
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.191.250.38:3128
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.67.89.179:65205
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.151.143.112:31260
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 932 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 932 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 932 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 932 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 110.74.200.52:33454
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 932 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 932 tweets (0 new).
+INFO: Got 932 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 932 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 932 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 932 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 932 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20TrinityMetro%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 932 tweets (0 new).

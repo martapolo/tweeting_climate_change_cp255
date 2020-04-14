@@ -1,0 +1,2028 @@
+INFO: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; fr; rv:1.9.2.13) Gecko/20101203 Firebird/3.6.13'}
+INFO: queries: ['from: IndyGoBus since:2006-03-01 until:2006-07-07', 'from: IndyGoBus since:2006-07-07 until:2006-11-13', 'from: IndyGoBus since:2006-11-13 until:2007-03-22', 'from: IndyGoBus since:2007-03-22 until:2007-07-29', 'from: IndyGoBus since:2007-07-29 until:2007-12-05', 'from: IndyGoBus since:2007-12-05 until:2008-04-12', 'from: IndyGoBus since:2008-04-12 until:2008-08-19', 'from: IndyGoBus since:2008-08-19 until:2008-12-26', 'from: IndyGoBus since:2008-12-26 until:2009-05-04', 'from: IndyGoBus since:2009-05-04 until:2009-09-10', 'from: IndyGoBus since:2009-09-10 until:2010-01-17', 'from: IndyGoBus since:2010-01-17 until:2010-05-26', 'from: IndyGoBus since:2010-05-26 until:2010-10-02', 'from: IndyGoBus since:2010-10-02 until:2011-02-07', 'from: IndyGoBus since:2011-02-07 until:2011-06-16', 'from: IndyGoBus since:2011-06-16 until:2011-10-23', 'from: IndyGoBus since:2011-10-23 until:2012-02-29', 'from: IndyGoBus since:2012-02-29 until:2012-07-07', 'from: IndyGoBus since:2012-07-07 until:2012-11-13', 'from: IndyGoBus since:2012-11-13 until:2013-03-22', 'from: IndyGoBus since:2013-03-22 until:2013-07-29', 'from: IndyGoBus since:2013-07-29 until:2013-12-05', 'from: IndyGoBus since:2013-12-05 until:2014-04-13', 'from: IndyGoBus since:2014-04-13 until:2014-08-20', 'from: IndyGoBus since:2014-08-20 until:2014-12-27', 'from: IndyGoBus since:2014-12-27 until:2015-05-05', 'from: IndyGoBus since:2015-05-05 until:2015-09-10', 'from: IndyGoBus since:2015-09-10 until:2016-01-17', 'from: IndyGoBus since:2016-01-17 until:2016-05-25', 'from: IndyGoBus since:2016-05-25 until:2016-10-01', 'from: IndyGoBus since:2016-10-01 until:2017-02-07', 'from: IndyGoBus since:2017-02-07 until:2017-06-16', 'from: IndyGoBus since:2017-06-16 until:2017-10-23', 'from: IndyGoBus since:2017-10-23 until:2018-03-01', 'from: IndyGoBus since:2018-03-01 until:2018-07-08', 'from: IndyGoBus since:2018-07-08 until:2018-11-14', 'from: IndyGoBus since:2018-11-14 until:2019-03-23', 'from: IndyGoBus since:2019-03-23 until:2019-07-30', 'from: IndyGoBus since:2019-07-30 until:2019-12-06', 'from: IndyGoBus since:2019-12-06 until:2020-04-13']
+INFO: Querying from: IndyGoBus since:2006-03-01 until:2006-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2006-07-07 until:2006-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2006-11-13 until:2007-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2007-03-22 until:2007-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2007-07-29 until:2007-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2007-12-05 until:2008-04-12
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2008-04-12 until:2008-08-19
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2008-08-19 until:2008-12-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2008-12-26 until:2009-05-04
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2009-05-04 until:2009-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2009-09-10 until:2010-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2010-01-17 until:2010-05-26
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2010-05-26 until:2010-10-02
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2010-10-02 until:2011-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2011-02-07 until:2011-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2011-06-16 until:2011-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2011-10-23 until:2012-02-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2012-02-29 until:2012-07-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2012-07-07 until:2012-11-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2012-11-13 until:2013-03-22
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2013-03-22 until:2013-07-29
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2013-07-29 until:2013-12-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2013-12-05 until:2014-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2014-04-13 until:2014-08-20
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2014-08-20 until:2014-12-27
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2014-12-27 until:2015-05-05
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2015-05-05 until:2015-09-10
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2015-09-10 until:2016-01-17
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2016-01-17 until:2016-05-25
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2016-05-25 until:2016-10-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2016-10-01 until:2017-02-07
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2017-02-07 until:2017-06-16
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2017-06-16 until:2017-10-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2017-10-23 until:2018-03-01
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2018-03-01 until:2018-07-08
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2018-07-08 until:2018-11-14
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2018-11-14 until:2019-03-23
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2019-03-23 until:2019-07-30
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2019-12-06 until:2020-04-13
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Querying from: IndyGoBus since:2019-07-30 until:2019-12-06
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 178.128.24.20:8080
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 50)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 49)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-6235945147-7718354074&q=from%3A%20IndyGoBus%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 48)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-12168868749-14711202628&q=from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-409325377102680064-454985642552741890&q=from%3A%20IndyGoBus%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-18141110006-26094757208&q=from%3A%20IndyGoBus%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-8267865576706048-32412028253507585&q=from%3A%20IndyGoBus%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-85765127370059777-127744093601284097&q=from%3A%20IndyGoBus%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb24oe7Lha08uXAORI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyGoBus%20since%3A2009-09-10%20until%3A2010-01-17&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-165822099657736193-174278187772149762&q=from%3A%20IndyGoBus%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-43660016611377153-80311152353087488&q=from%3A%20IndyGoBus%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-582998923351973888-594304553144684544&q=from%3A%20IndyGoBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-674342104382992384-688006991202119681&q=from%3A%20IndyGoBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-368885741255794688-406925985490018304&q=from%3A%20IndyGoBus%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-290911833806761985-314395616128151552&q=from%3A%20IndyGoBus%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-332563122021883905-361229317243535360&q=from%3A%20IndyGoBus%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-240893604946657281-267501559968038912&q=from%3A%20IndyGoBus%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-708837288739004416-735191811505848320&q=from%3A%20IndyGoBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-887077190659174400-921162922864279553&q=from%3A%20IndyGoBus%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-482609363077836800-500407761411117056&q=from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-532227236527886336-547445143323017217&q=from%3A%20IndyGoBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1100166357025468416-1108819373542666240&q=from%3A%20IndyGoBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 18 tweets for from%3A%20IndyGoBus%20since%3A2009-09-10%20until%3A2010-01-17.
+INFO: Got 18 tweets (18 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-633275857595797505-641323425869508608&q=from%3A%20IndyGoBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-203099183522119680-221229742991478784&q=from%3A%20IndyGoBus%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-844318793144958977-873692021529075712&q=from%3A%20IndyGoBus%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1151193304786227200-1155922963880972294&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-775682679429824512-781532741397520388&q=from%3A%20IndyGoBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1196571544916516869-1201983583864401921&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1050797054707097600-1060554437071122435&q=from%3A%20IndyGoBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-818806684013445121-828704627696734210&q=from%3A%20IndyGoBus%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1002205623226904576-1014953158949376001&q=from%3A%20IndyGoBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-1237923094137888771-1248590781243408391&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=TWEET-958450294022656001-968872989122093057&q=from%3A%20IndyGoBus%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 110.44.133.135:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 47)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 46)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwIDsjuWvHRaCwIDorKSTcxI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyGoBus%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJC84NCbrgsWhMCSpIDCt9AMEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2013-12-05%20until%3A2014-04-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaazpHVWhaIjdnNbRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJHwubvZsAIWgoCSlPGk68UDEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2011-06-16%20until%3A2011-10-23&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJLQuKOOmwEWgMCQuKmkqZ0CEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLPNxqTf2xIWgsCzmdOtpYwTEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 36 tweets for from%3A%20IndyGoBus%20since%3A2013-12-05%20until%3A2014-04-13.
+INFO: Got 54 tweets (36 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbs-9qUhwEWsJXztcIBEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJKgxpSPzQQWhICQpNTFlOsEEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 38 tweets for from%3A%20IndyGoBus%20since%3A2011-06-16%20until%3A2011-10-23.
+INFO: Got 92 tweets (38 new).
+INFO: Retrying... (Attempts left: 45)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKOt0pudlxAWgMCwqfS1sr8QEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMG4lKrJsg0WgMCQ3KWN5_ENEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJGkkujFngoWgICR8OPB2KULEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJOwsLHDiQgWgMCRpLXJ-twIEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJL4ot3p1wYWgICQrIzQrbYHEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJOYuJnAnQkWgICQjM6JrIMKEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMLQwfbs4g4WgoDA3KKd9ZgPEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLftxfCl1hMWgICo6dXD9rMUEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLzpgd7PtxcWgICrpfeQ_Z8YEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCAtOjG0QUWgMCQzO7R-5EGEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLvZqIDEzxgWgoCw2Yez0MgZEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLTdsNLjwxUWiICx9eb4x9gVEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWFod7JxB4WgMCngY7WqOMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKCNscLsyREWgMC1kcGQuOYREjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLLF6JX-3BYWhMCw2fudk4AXEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL-N05aXlR0WhsC16Yap7LcdEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLr5w43u-R8WjMC8nfbz1IogEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgLex396JmyEWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLuFsNGKqyIWjoC6neis8dMiEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgIGIvc2iiAEWgMCQuKmkqZ0CEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2011-02-07%20until%3A2011-06-16&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXFiq3G6BsWgsC07aih65UcEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbog-WHbhawlfO1wgESNQAVACUAVQAVAAA%3D&q=from%3A%20IndyGoBus%20since%3A2010-05-26%20until%3A2010-10-02&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLbh292MzRoWgoC_0bW2kPIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 189.124.21.12:3128
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 45 tweets for from%3A%20IndyGoBus%20since%3A2011-02-07%20until%3A2011-06-16.
+INFO: Got 137 tweets (45 new).
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 44)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 44 tweets for from%3A%20IndyGoBus%20since%3A2010-05-26%20until%3A2010-10-02.
+INFO: Got 181 tweets (44 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgJHExpvvoQYWgICQrIzQrbYHEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2012-07-07%20until%3A2012-11-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 46 tweets for from%3A%20IndyGoBus%20since%3A2012-07-07%20until%3A2012-11-13.
+INFO: Got 227 tweets (46 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb636nlxQEWgsCA6Kykk3MSNQAVACUAVQAVAAA%3D&q=from%3A%20IndyGoBus%20since%3A2010-10-02%20until%3A2011-02-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJKs1ZyHvAcWgMCRpLXJ-twIEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2012-11-13%20until%3A2013-03-22&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 52 tweets for from%3A%20IndyGoBus%20since%3A2012-11-13%20until%3A2013-03-22.
+INFO: Got 279 tweets (52 new).
+INFO: Retrying... (Attempts left: 43)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20IndyGoBus%20since%3A2010-10-02%20until%3A2011-02-07.
+INFO: Got 336 tweets (57 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJDE89v0hgoWgICR8OPB2KULEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2013-07-29%20until%3A2013-12-05&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAh4vsVhaIjdnNbRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 55 tweets for from%3A%20IndyGoBus%20since%3A2013-07-29%20until%3A2013-12-05.
+INFO: Got 391 tweets (55 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJDgmLeooA0WgMCQ3KWN5_ENEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgLi93uW5rhIWgsCzmdOtpYwTEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJD068qFrAQWhICQpNTFlOsEEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJCAq-Hj3wgWgICQjM6JrIMKEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2013-03-22%20until%3A2013-07-29&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgKPlxYDl-w8WgMCwqfS1sr8QEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWBk5y_rRgWgoCw2Yez0MgZEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2017-06-16%20until%3A2017-10-23&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 58 tweets for from%3A%20IndyGoBus%20since%3A2013-03-22%20until%3A2013-07-29.
+INFO: Got 449 tweets (58 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLap0rPxrBMWgICo6dXD9rMUEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMOMte66wg4WgoDA3KKd9ZgPEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwJCM4Jb47wQWgMCQzO7R-5EGEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 57 tweets for from%3A%20IndyGoBus%20since%3A2017-06-16%20until%3A2017-10-23.
+INFO: Got 506 tweets (57 new).
+INFO: Retrying... (Attempts left: 42)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKgLPh27eyixcWgICrpfeQ_Z8YEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLilzdODhxYWhMCw2fudk4AXEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKaV6q_1lhEWgMC1kcGQuOYREjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKql-JzSkRUWiICx9eb4x9gVEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLStp8vvkB4WgMCngY7WqOMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWVz6iT7BwWhsC16Yap7LcdEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJCAyp-F0wMWhICQpNTFlOsEEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2011-10-23%20until%3A2012-02-29&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKfppuu9piIWjoC6neis8dMiEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL3FrPSC3B8WjMC8nfbz1IogEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLal_srMhyEWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 63 tweets for from%3A%20IndyGoBus%20since%3A2011-10-23%20until%3A2012-02-29.
+INFO: Got 569 tweets (63 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLrFvuLFgxcWgICrpfeQ_Z8YEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2017-02-07%20until%3A2017-06-16&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6plfL1pRsWgsC07aih65UcEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJD45Lm77AQWgMCQzO7R-5EGEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2012-02-29%20until%3A2012-07-07&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLXZ-p2z3BkWgoC_0bW2kPIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 62.171.161.146:8080
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 61 tweets for from%3A%20IndyGoBus%20since%3A2017-02-07%20until%3A2017-06-16.
+INFO: Got 630 tweets (61 new).
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 41)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 65 tweets for from%3A%20IndyGoBus%20since%3A2012-02-29%20until%3A2012-07-07.
+INFO: Got 695 tweets (65 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLuhhPmZzRkWgoC_0bW2kPIaEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2017-10-23%20until%3A2018-03-01&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaw8sHpUhaIjdnNbRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 61 tweets for from%3A%20IndyGoBus%20since%3A2017-10-23%20until%3A2018-03-01.
+INFO: Got 756 tweets (61 new).
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 40)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMDEv-WDmw0WgMCQ3KWN5_ENEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgJKEwciK4A8WgMCwqfS1sr8QEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLLpj_nMgxIWgsCzmdOtpYwTEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJC87pOqog4WgoDA3KKd9ZgPEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLC104aclRMWgICo6dXD9rMUEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLzF7sCw5BQWiICx9eb4x9gVEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLSl-rak8hAWgMC1kcGQuOYREjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKDhnufk3hUWhMCw2fudk4AXEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-10-01%20until%3A2017-02-07&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLDxjJXw8xoWgsC07aih65UcEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-03-01%20until%3A2018-07-08&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaUwLaV-6bQ2h0WgMCngY7WqOMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 79 tweets for from%3A%20IndyGoBus%20since%3A2016-10-01%20until%3A2017-02-07.
+INFO: Got 835 tweets (79 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLX5q4rKuBwWhsC16Yap7LcdEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaOwLSBoJ-vniIWjoC6neis8dMiEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 75 tweets for from%3A%20IndyGoBus%20since%3A2018-03-01%20until%3A2018-07-08.
+INFO: Got 910 tweets (75 new).
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgL-xwvGM-SAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKDR1JTHkRMWgICo6dXD9rMUEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-01-17%20until%3A2016-05-25&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL2di5Khwh8WjMC8nfbz1IogEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 195.154.67.61:3128
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 84 tweets for from%3A%20IndyGoBus%20since%3A2016-01-17%20until%3A2016-05-25.
+INFO: Got 994 tweets (84 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLS9iICr7xEWgsCzmdOtpYwTEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-09-10%20until%3A2016-01-17&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 39)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbCyInqURaIjdnNbRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 88 tweets for from%3A%20IndyGoBus%20since%3A2015-09-10%20until%3A2016-01-17.
+INFO: Got 1082 tweets (88 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_t-Y2lwR0WgMCngY7WqOMeEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-11-14%20until%3A2019-03-23&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 87 tweets for from%3A%20IndyGoBus%20since%3A2018-11-14%20until%3A2019-03-23.
+INFO: Got 1169 tweets (87 new).
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 38)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMDc5tWQkg0WgMCQ3KWN5_ENEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgMP8sYT8xQ8WgMCwqfS1sr8QEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwLqFpdHpmxwWhsC16Yap7LcdEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2018-07-08%20until%3A2018-11-14&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 84 tweets for from%3A%20IndyGoBus%20since%3A2018-07-08%20until%3A2018-11-14.
+INFO: Got 1253 tweets (84 new).
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwJKI8q6Liw4WgoDA3KKd9ZgPEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKTJ2cyOzxQWiICx9eb4x9gVEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKT16N6ZzBAWgMC1kcGQuOYREjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 37)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLz5zPjmjyIWjoC6neis8dMiEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLfhp5X16SAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 36)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwLTJ75zDqB8WjMC8nfbz1IogEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 204.48.19.184:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBbS246wThaIjdnNbRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLHpzYeGxBAWgMC1kcGQuOYREjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2015-05-05%20until%3A2015-09-10&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 103 tweets for from%3A%20IndyGoBus%20since%3A2015-05-05%20until%3A2015-09-10.
+INFO: Got 1356 tweets (103 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgMPwvr6e-Q0WgoDA3KKd9ZgPEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-08-20%20until%3A2014-12-27&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 35)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 109 tweets for from%3A%20IndyGoBus%20since%3A2014-08-20%20until%3A2014-12-27.
+INFO: Got 1465 tweets (109 new).
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGwMDI84z3oQ8WgMCwqfS1sr8QEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-12-27%20until%3A2015-05-05&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWBjr6RuhQWiICx9eb4x9gVEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2016-05-25%20until%3A2016-10-01&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 116 tweets for from%3A%20IndyGoBus%20since%3A2014-12-27%20until%3A2015-05-05.
+INFO: Got 1581 tweets (116 new).
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgMTM79LA9AwWgMCQ3KWN5_ENEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 112 tweets for from%3A%20IndyGoBus%20since%3A2016-05-25%20until%3A2016-10-01.
+INFO: Got 1693 tweets (112 new).
+INFO: Retrying... (Attempts left: 34)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBb4idGgOxaIjdnNbRI1ABUAJQBVABUAAA%3D%3D&q=from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwMOI_qm52QwWgMCQ3KWN5_ENEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL7x5b_d9yEWjoC6neis8dMiEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 138 tweets for from%3A%20IndyGoBus%20since%3A2010-01-17%20until%3A2010-05-26.
+INFO: Got 1831 tweets (138 new).
+INFO: Retrying... (Attempts left: 33)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgL-VzJ2Y0yAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwLaxoIrxnB8WjMC8nfbz1IogEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 185.57.164.167:80
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 126 tweets for from%3A%20IndyGoBus%20since%3A2014-04-13%20until%3A2014-08-20.
+INFO: Got 1957 tweets (126 new).
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 32)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 89.238.255.34:8082
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 31)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 163.44.148.137:80
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL6pmeHS3SEWjoC6neis8dMiEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgKbdnPGhhx8WjMC8nfbz1IogEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCwKqd5sKXyyAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 77.64.136.237:8080
+INFO: Retrying... (Attempts left: 30)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 90.183.101.238:35542
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 29)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 52.90.27.29:3128
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLWVvNi6wSEWjoC6neis8dMiEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLWN2tuu6B4WjMC8nfbz1IogEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 28)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 60.251.33.224:80
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLeNp_GjxCAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 198.98.57.59:80
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEwL6lyN6d6B4WjMC8nfbz1IogEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 154 tweets for from%3A%20IndyGoBus%20since%3A2019-03-23%20until%3A2019-07-30.
+INFO: Got 2111 tweets (154 new).
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 27)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 95.65.73.200:50709
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 26)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 124.41.211.153:55973
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaCgLXN1fnXsSEWjoC6neis8dMiEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaGgL-dw_LivSAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.92.106.169:8080
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 166 tweets for from%3A%20IndyGoBus%20since%3A2019-12-06%20until%3A2020-04-13.
+INFO: Got 2277 tweets (166 new).
+INFO: Retrying... (Attempts left: 25)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 144.217.101.242:3129
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 24)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 108.61.156.12:3128
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 23)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.9.62.77:80
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL_12ZvEuiAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 51.158.180.179:8811
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 22)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.115.116.17:31162
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 21)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.250.226.56:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 20)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 2.230.19.211:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaKwLXNjqT6uCAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 203.162.21.216:8080
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 19)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 93.78.238.94:41258
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 18)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.71.80.1:43926
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 17)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 115.79.208.56:38351
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLfl45fytyAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 195.189.71.187:36853
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 16)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.209.176.167:45309
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 15)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.123.25.77:37761
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwL3piYq0tiAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 64.17.30.238:63141
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 14)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 190.152.71.30:58727
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 13)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.111.94.26:8080
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 12)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 178.128.187.206:8118
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwKbJzp6YtSAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 50.241.148.97:8080
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 11)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 187.44.9.229:3128
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 10)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 119.82.252.76:55875
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaEgL3tjMWlrSAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 91.243.161.68:43720
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 9)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 45.115.171.165:47343
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 8)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 181.10.210.99:44252
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgLaFibzKoCAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 212.156.76.190:8080
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 7)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.109.59.242:53281
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 6)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 176.62.188.158:56351
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 5)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 106.104.12.236:80
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAgL2d8ebikyAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 36.92.74.203:8080
+INFO: Retrying... (Attempts left: 4)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.216.82.196:51701
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 3)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 80.48.177.76:34261
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Scraping tweets from https://twitter.com/i/search/timeline?f=tweets&vertical=default&include_available_features=1&include_entities=1&reset_error_state=false&src=typd&max_position=thGAVUV0VFVBaAwLT5lNuejCAWgsC14e_spq4hEjUAFQAlAFUAFQAA&q=from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06&l=en
+INFO: Using proxy 216.198.188.26:51068
+INFO: Retrying... (Attempts left: 2)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 165.22.207.88:8118
+INFO: Twitter returned : 'has_more_items' 
+INFO: Got 333 tweets for from%3A%20IndyGoBus%20since%3A2019-07-30%20until%3A2019-12-06.
+INFO: Got 2610 tweets (333 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2006-07-07%20until%3A2006-11-13.
+INFO: Got 2610 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2008-04-12%20until%3A2008-08-19.
+INFO: Got 2610 tweets (0 new).
+INFO: Retrying... (Attempts left: 1)
+INFO: Scraping tweets from https://twitter.com/search?f=tweets&vertical=default&q=from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07&l=en
+INFO: Using proxy 103.105.212.106:53281
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2007-03-22%20until%3A2007-07-29.
+INFO: Got 2610 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2006-11-13%20until%3A2007-03-22.
+INFO: Got 2610 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2009-05-04%20until%3A2009-09-10.
+INFO: Got 2610 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2008-12-26%20until%3A2009-05-04.
+INFO: Got 2610 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2007-12-05%20until%3A2008-04-12.
+INFO: Got 2610 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2007-07-29%20until%3A2007-12-05.
+INFO: Got 2610 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2008-08-19%20until%3A2008-12-26.
+INFO: Got 2610 tweets (0 new).
+INFO: Got 0 tweets for from%3A%20IndyGoBus%20since%3A2006-03-01%20until%3A2006-07-07.
+INFO: Got 2610 tweets (0 new).
