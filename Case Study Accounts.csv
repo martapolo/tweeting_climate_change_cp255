@@ -1,0 +1,239 @@
+user_ID,City,Emergency,Department
+LACity,"Los Angeles, CA",1,City Account
+CityofSeattle,"Seattle, WA",1,City Account
+DenverCityGov,"Denver, CO",1,City Account
+nycgov,"New York, NY",1,City Account
+chicago,"Chicago, IL",1,City Account
+CityofSanDiego,"San Diego, CA",1,City Account
+CityofSanJose,"San Jose, CA",1,City Account
+austintexasgov,"Austin, TX",1,City Account
+sfgov,"San Francisco, CA",1,City Account
+CityOfBoston,"Boston, MA",1,City Account
+PhiladelphiaGov,"Philadelphia, PA",0,City Account
+HoustonTX,"Houston, TX",0,City Account
+CityofPhoenixAZ,"Phoenix, AZ",0,City Account
+COSAGOV,"San Antonio, TX",0,City Account
+CityOfDallas,"Dallas, TX",0,City Account
+CityofJax,"Jacksonville, FL",0,City Account
+CityofFortWorth,"Fort Worth, TX",0,City Account
+CLTgov,"Charlotte, NC",0,City Account
+ColumbusGov,"Columbus, OH",0,City Account
+Indy_CIO,"Indianapolis, IN",0,City Account
+,"Los Angeles, CA",1,Environment/ Sustainability
+SeattleOSE,"Seattle, WA",1,Environment/ Sustainability
+SustainableDen,"Denver, CO",1,Environment/ Sustainability
+,"New York, NY",1,Environment/ Sustainability
+,"Chicago, IL",1,Environment/ Sustainability
+,"San Diego, CA",1,Environment/ Sustainability
+,"San Jose, CA",1,Environment/ Sustainability
+,"Austin, TX",1,Environment/ Sustainability
+SFEnvironment,"San Francisco, CA",1,Environment/ Sustainability
+BostonEnviro,"Boston, MA",1,Environment/ Sustainability
+GreenworksPhila,"Philadelphia, PA",0,Environment/ Sustainability
+GreenHoustonTx,"Houston, TX",0,Environment/ Sustainability
+phxenvironment,"Phoenix, AZ",0,Environment/ Sustainability
+COSAsustainable,"San Antonio, TX",0,Environment/ Sustainability
+DallasClimate,"Dallas, TX",0,Environment/ Sustainability
+,"Jacksonville, FL",0,Environment/ Sustainability
+,"Fort Worth, TX",0,Environment/ Sustainability
+CLTSustainable,"Charlotte, NC",0,Environment/ Sustainability
+SustainableCol1,"Columbus, OH",0,Environment/ Sustainability
+SustainIndy,"Indianapolis, IN",0,Environment/ Sustainability
+LADOTofficial,"Los Angeles, CA",1,Transpo
+seattledot,"Seattle, WA",1,Transpo
+DenverDOTI,"Denver, CO",1,Transpo
+NYC_DOT,"New York, NY",1,Transpo
+ChicagoDOT,"Chicago, IL",1,Transpo
+,"San Diego, CA",1,Transpo
+SanJoseDOT,"San Jose, CA",1,Transpo
+austinmobility,"Austin, TX",1,Transpo
+sfmta_muni,"San Francisco, CA",1,Transpo
+BostonBTD,"Boston, MA",1,Transpo
+PhillyOTIS,"Philadelphia, PA",0,Transpo
+METROHouston,"Houston, TX",0,Transpo
+StreetsPHX,"Phoenix, AZ",0,Transpo
+,"San Antonio, TX",0,Transpo
+,"Dallas, TX",0,Transpo
+,"Jacksonville, FL",0,Transpo
+,"Fort Worth, TX",0,Transpo
+CharlotteDOT,"Charlotte, NC",0,Transpo
+,"Columbus, OH",0,Transpo
+,"Indianapolis, IN",0,Transpo
+lacountyparks,"Los Angeles, CA",1,Parks & Rec
+,"Seattle, WA",1,Parks & Rec
+denverparksrec,"Denver, CO",1,Parks & Rec
+NYCParks,"New York, NY",1,Parks & Rec
+ChicagoParks,"Chicago, IL",1,Parks & Rec
+sandiegoparks,"San Diego, CA",1,Parks & Rec
+sjparksandrec,"San Jose, CA",1,Parks & Rec
+AustinCityParks,"Austin, TX",1,Parks & Rec
+RecParkSF,"San Francisco, CA",1,Parks & Rec
+BostonParksDept,"Boston, MA",1,Parks & Rec
+PhilaParkandRec,"Philadelphia, PA",0,Parks & Rec
+HPARD,"Houston, TX",0,Parks & Rec
+PhoenixParks,"Phoenix, AZ",0,Parks & Rec
+SAParksandRec,"San Antonio, TX",0,Parks & Rec
+DallasParkRec,"Dallas, TX",0,Parks & Rec
+,"Jacksonville, FL",0,Parks & Rec
+FortWorthParks,"Fort Worth, TX",0,Parks & Rec
+,"Charlotte, NC",0,Parks & Rec
+CbusMetroParks,"Columbus, OH",0,Parks & Rec
+IndyParksandRec,"Indianapolis, IN",0,Parks & Rec
+HCIDLA,"Los Angeles, CA",1,Housing 
+,"Seattle, WA",1,Housing 
+,"Denver, CO",1,Housing 
+NYCHA,"New York, NY",1,Housing 
+ChicagoDOH,"Chicago, IL",1,Housing 
+,"San Diego, CA",1,Housing 
+sjcityhousing,"San Jose, CA",1,Housing 
+Hacanet,"Austin, TX",1,Housing 
+,"San Francisco, CA",1,Housing 
+BHA_Boston,"Boston, MA",1,Housing 
+PhilaHsgAuthPHA,"Philadelphia, PA",0,Housing 
+HoustonHCDD,"Houston, TX",0,Housing 
+PhoenixParks,"Phoenix, AZ",0,Housing 
+,"San Antonio, TX",0,Housing 
+,"Dallas, TX",0,Housing 
+,"Jacksonville, FL",0,Housing 
+,"Fort Worth, TX",0,Housing 
+HNScharlotte,"Charlotte, NC",0,Housing 
+Planning4LA,"Los Angeles, CA",1,Planning 
+SeattleOPCD,"Seattle, WA",1,Planning 
+DenverCPD,"Denver, CO",1,Planning 
+NYCPlanning,"New York, NY",1,Planning 
+ChicagoDPD,"Chicago, IL",1,Planning 
+SanDiegoPlan,"San Diego, CA",1,Planning 
+buildingsanjose,"San Jose, CA",1,Planning 
+ImagineAustin,"Austin, TX",1,Planning 
+sfplanning,"San Francisco, CA",1,Planning 
+BostonPlans,"Boston, MA",1,Planning 
+PHLPlanDevelop,"Philadelphia, PA",0,Planning 
+HoustonPlanning,"Houston, TX",0,Planning 
+PHXPlanandDev,"Phoenix, AZ",0,Planning 
+SATomorrow2040,"San Antonio, TX",0,Planning 
+DallasPlanUD,"Dallas, TX",0,Planning 
+,"Jacksonville, FL",0,Planning 
+,"Fort Worth, TX",0,Planning 
+,"Charlotte, NC",0,Planning 
+,"Columbus, OH",0,Planning 
+,"Indianapolis, IN",0,Planning 
+,"Los Angeles, CA",1,Emergency Management
+,"Seattle, WA",1,Emergency Management
+,"Denver, CO",1,Emergency Management
+nycemergencymgt,"New York, NY",1,Emergency Management
+ChicagoOEMC,"Chicago, IL",1,Emergency Management
+ReadySanDiego,"San Diego, CA",1,Emergency Management
+,"San Jose, CA",1,Emergency Management
+AustinHSEM,"Austin, TX",1,Emergency Management
+SF_emergency,"San Francisco, CA",1,Emergency Management
+AlertBoston,"Boston, MA",1,Emergency Management
+PhilaOEM,"Philadelphia, PA",0,Emergency Management
+HoustonOEM,"Houston, TX",0,Emergency Management
+ResilientPHX,"Phoenix, AZ",0,Emergency Management
+SanAntonioOEM,"San Antonio, TX",0,Emergency Management
+DallasOEM,"Dallas, TX",0,Emergency Management
+JaxReady,"Jacksonville, FL",0,Emergency Management
+FWOEM,"Fort Worth, TX",0,Emergency Management
+CharMeckEM,"Charlotte, NC",0,Emergency Management
+,"Columbus, OH",0,Emergency Management
+,"Indianapolis, IN",0,Emergency Management
+,"Los Angeles, CA",1,Public Works
+,"Seattle, WA",1,Public Works
+,"Denver, CO",1,Public Works
+,"New York, NY",1,Public Works
+,"Chicago, IL",1,Public Works
+sdcountydpw,"San Diego, CA",1,Public Works
+,"San Jose, CA",1,Public Works
+,"Austin, TX",1,Public Works
+sfpublicworks,"San Francisco, CA",1,Public Works
+,"Boston, MA",1,Public Works
+,"Philadelphia, PA",0,Public Works
+HouPublicWorks,"Houston, TX",0,Public Works
+TalkingTrashPHX,"Phoenix, AZ",0,Public Works
+,"San Antonio, TX",0,Public Works
+,"Dallas, TX",0,Public Works
+,"Jacksonville, FL",0,Public Works
+,"Fort Worth, TX",0,Public Works
+,"Charlotte, NC",0,Public Works
+ColumbusDP,"Columbus, OH",0,Public Works
+IndyDPW,"Indianapolis, IN",0,Public Works
+,"Los Angeles, CA",1,Public Works
+,"Seattle, WA",1,Public Works
+,"Denver, CO",1,Public Works
+,"New York, NY",1,Public Works
+,"Chicago, IL",1,Public Works
+sdcountydpw,"San Diego, CA",1,Public Works
+,"San Jose, CA",1,Public Works
+,"Austin, TX",1,Public Works
+sfpublicworks,"San Francisco, CA",1,Public Works
+,"Boston, MA",1,Public Works
+,"Philadelphia, PA",0,Public Works
+HouPublicWorks,"Houston, TX",0,Public Works
+TalkingTrashPHX,"Phoenix, AZ",0,Public Works
+,"San Antonio, TX",0,Public Works
+,"Dallas, TX",0,Public Works
+,"Jacksonville, FL",0,Public Works
+,"Fort Worth, TX",0,Public Works
+,"Charlotte, NC",0,Public Works
+ColumbusDP,"Columbus, OH",0,Public Works
+IndyDPW,"Indianapolis, IN",0,Public Works
+,"Los Angeles, CA",1,Public Health
+,"Seattle, WA",1,Public Health
+DDPHE,"Denver, CO",1,Public Health
+,"New York, NY",1,Public Health
+,"Chicago, IL",1,Public Health
+,"San Diego, CA",1,Public Health
+,"San Jose, CA",1,Public Health
+AusPublicHealth,"Austin, TX",1,Public Health
+,"San Francisco, CA",1,Public Health
+HealthyBoston,"Boston, MA",1,Public Health
+,"Philadelphia, PA",0,Public Health
+,"Houston, TX",0,Public Health
+,"Phoenix, AZ",0,Public Health
+,"San Antonio, TX",0,Public Health
+,"Dallas, TX",0,Public Health
+,"Jacksonville, FL",0,Public Health
+,"Fort Worth, TX",0,Public Health
+,"Charlotte, NC",0,Public Health
+,"Columbus, OH",0,Public Health
+,"Indianapolis, IN",0,Public Health
+metrolosangeles,"Los Angeles, CA",1,Transit Agency 
+kcmetrobus,"Seattle, WA",1,Transit Agency 
+,"Denver, CO",1,Transit Agency 
+MTA,"New York, NY",1,Transit Agency 
+cta,"Chicago, IL",1,Transit Agency 
+sdmts,"San Diego, CA",1,Transit Agency 
+VTA,"San Jose, CA",1,Transit Agency 
+CapMetroATX,"Austin, TX",1,Transit Agency 
+,"San Francisco, CA",1,Transit Agency 
+MBTA,"Boston, MA",1,Transit Agency 
+SEPTA,"Philadelphia, PA",0,Transit Agency 
+METROHouston,"Houston, TX",0,Transit Agency 
+PhoenixMetroBus,"Phoenix, AZ",0,Transit Agency 
+,"San Antonio, TX",0,Transit Agency 
+dartmedia,"Dallas, TX",0,Transit Agency 
+JTAFLA,"Jacksonville, FL",0,Transit Agency 
+TrinityMetro,"Fort Worth, TX",0,Transit Agency 
+CATSRideTransit,"Charlotte, NC",0,Transit Agency 
+COTABus,"Columbus, OH",0,Transit Agency 
+IndyGoBus,"Indianapolis, IN",0,Transit Agency 
+PortofLA,"Los Angeles, CA",1,Other
+,"Seattle, WA",1,Other
+DenverWater,"Denver, CO",1,Other
+,"New York, NY",1,Other
+,"Chicago, IL",1,Other
+portofsandiego,"San Diego, CA",1,Other
+,"San Jose, CA",1,Other
+,"Austin, TX",1,Other
+SFPort,"San Francisco, CA",1,Other
+,"Boston, MA",1,Other
+,"Philadelphia, PA",0,Other
+,"Houston, TX",0,Other
+,"Phoenix, AZ",0,Other
+,"San Antonio, TX",0,Other
+dallaszerowaste,"Dallas, TX",0,Other
+,"Jacksonville, FL",0,Other
+TarrantCountyTX,"Fort Worth, TX",0,Other
+CLTWater,"Charlotte, NC",0,Other
+,"Columbus, OH",0,Other
+IndyDMD,"Indianapolis, IN",0,Other
